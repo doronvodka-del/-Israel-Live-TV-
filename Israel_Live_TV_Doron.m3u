@@ -1,0 +1,118 @@
+#EXTM3U
+# Israeli live TV, curated 2026-11-07. Experimental links: not confirmed playable or licensed.
+#EXTINF:-1 group-title="ערוצים ישראליים",כאן 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="ניסיוני",קשת 12 (ניסיוני)
+http://stream.mcquack.net/294/index.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",רשת 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",עכשיו 14
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",ערוץ 16
+https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",ערוץ הכנסת
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",i24NEWS עברית
+https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",i24NEWS English
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",i24NEWS العربية
+https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",i24NEWS Français
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",מכאן 33
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",Hala TV
+https://stream.panet.com/edge/halaTV/playlist.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",ערוץ 9 ברוסית
+https://contact.gostreaming.tv/Con-11/index.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",כאן חינוכית
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",ערוץ 24
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
+#EXTINF:-1 group-title="ניסיוני",הופ! (ניסיוני)
+http://stream.mcquack.net/44/index.m3u8
+#EXTINF:-1 group-title="ניסיוני",TeenNick ישראל (ניסיוני)
+http://89.33.29.115:8080/TeenNick/index.m3u8
+#EXTINF:-1 group-title="ניסיוני",זום (ניסיוני)
+http://stream.mcquack.net/377/index.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",ערוץ הקומדיה
+https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",ערוץ הריאליטי
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",ערוץ החופשה
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
+#EXTINF:-1 group-title="ניסיוני",החיים הטובים (ניסיוני)
+http://stream.mcquack.net/47/index.m3u8
+#EXTINF:-1 group-title="ניסיוני",ערוץ הבריאות (ניסיוני)
+http://89.33.29.115:8080/Health/index.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",ערוץ הקניות
+https://shoppingil-rewriter.vidnt.com/index.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",הידברות
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",ערוץ הקבלה
+https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",Angel TV בעברית
+https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
+#EXTINF:-1 group-title="ערוצים ישראליים",שלנו TV
+https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
+#EXTINF:-1 group-title="ניסיוני",ים תיכוני (ניסיוני)
+http://stream.mcquack.net/46/index.m3u8
+#EXTINF:-1 group-title="ניסיוני",ספורט 5 פלוס (ניסיוני)
+http://89.33.29.115:8080/sportplus/index.m3u8
+#EXTINF:-1 group-title="ניסיוני",ספורט 5 סטארס (ניסיוני)
+http://89.33.29.115:8080/IL_5Stars/index.m3u8
+#EXTINF:-1 group-title="ניסיוני",HOT Drama (ניסיוני)
+http://stream.mcquack.net/381/index.m3u8
+#EXTINF:-1 group-title="ניסיוני",HOT Zone (ניסיוני)
+http://stream.mcquack.net/379/index.m3u8
+#EXTINF:-1 group-title="ניסיוני",yes Movies Action (ניסיוני)
+http://stream.mcquack.net/380/index.m3u8
+#EXTINF:-1 group-title="ניסיוני",Viva Premium (ניסיוני)
+http://stream.mcquack.net/43/index.m3u8
+#EXTINF:-1 group-title="ניסיוני",ספורט 5 (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",ספורט 5 גולד (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",ספורט 5 לייב (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",ספורט 5 מקס (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",ONE 1 (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",ONE 2 (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",ONE דוקו (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",ONE אדג' (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",VIVA (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",VIVA פלוס (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",ארץ נהדרת (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/erez_nehederet/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",וואמוס (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/vamos/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",מיוזיק IL (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",ערוץ הקריוקי (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/karaoke/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",יויו (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yoyo/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",לוגי (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/logi/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",ילדותי (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",ג'וניור (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",FOMO (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/fomo/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",פודי (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",ביוטיז (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/beautyz/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",A פלוס (ניסיוני)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/a_plus/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 group-title="ניסיוני",קלאסיקות (ניסיוני)
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
