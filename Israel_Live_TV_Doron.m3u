@@ -116,3 +116,17 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/beautyz/live.livx/
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/a_plus/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 group-title="ניסיוני",קלאסיקות (ניסיוני)
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+
+# 2026-11-16: Additional candidate channels (stream playback not verified).
+#EXTINF:-1 group-title="חדשים - לבדיקה",כלכלה 10
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000
+#EXTINF:-1 group-title="חדשים - לבדיקה",ynet Live
+https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
+#EXTINF:-1 group-title="חדשים - לבדיקה",וואלה חדשות
+https://live.wcdn.co.il/news/prog_index.m3u8
+#EXTINF:-1 group-title="חדשים - לבדיקה",מוסיוף
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="חדשים - לבדיקה",רדיוס 100FM - וידאו
+https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8
+#EXTINF:-1 group-title="חדשים - לבדיקה",הערוץ הישראלי - The Israeli Network
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/playlist.m3u8
