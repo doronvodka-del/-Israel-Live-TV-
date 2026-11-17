@@ -78,25 +78,25 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_doco/live.livx
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8?fmp4&renditions
 
 # ילדים ונוער
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png" group-title="ילדים ונוער",כאן חינוכית
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png" group-title="ילדים ונוער" description="נבדק תקין אצל המשתמש 17.11.2026",כאן חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bScuilD.png" group-title="ילדים ונוער",הופ! (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/hop.png" group-title="ילדים ונוער" description="נבדק תקין אצל המשתמש 17.11.2026",הופ!
 http://stream.mcquack.net/44/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png" group-title="ילדים ונוער",TeenNick ישראל (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/teennick.png" group-title="ילדים ונוער" description="נבדק תקין אצל המשתמש 17.11.2026",TeenNick ישראל
 http://89.33.29.115:8080/TeenNick/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/fb/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_%D7%A2%D7%A8%D7%95%D7%A5_ZOOM_2022.svg/1920px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_%D7%A2%D7%A8%D7%95%D7%A5_ZOOM_2022.svg.png" group-title="ילדים ונוער" description="נבדק תקין אצל המשתמש 17.11.2026; מפיק: אימג׳ן מדיה קידס בע״מ",זום
 http://stream.mcquack.net/377/index.m3u8
 #EXTINF:-1 tvg-logo="https://rge.co.il/wp-content/uploads/2026/03/yoyo-home-tile.png" group-title="ילדים ונוער" description="נבדק תקין אצל המשתמש 17.11.2026; לוגו מאתר קבוצת R.G.E",יויו
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yoyo/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png" group-title="ילדים ונוער",לוגי (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/logi_tv.png" group-title="ילדים ונוער" description="נבדק תקין אצל המשתמש 17.11.2026",לוגי
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/logi/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png" group-title="ילדים ונוער",ילדותי (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/yalduti_tv.png" group-title="ילדים ונוער" description="נבדק תקין אצל המשתמש 17.11.2026",ילדותי
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png" group-title="ילדים ונוער",ג'וניור (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/junior.png" group-title="ילדים ונוער" description="נבדק תקין אצל המשתמש 17.11.2026",ג'וניור
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png" group-title="ילדים ונוער",FOMO (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/fomo_tv.png" group-title="ילדים ונוער" description="נבדק תקין אצל המשתמש 17.11.2026",FOMO
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/fomo/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png" group-title="ילדים ונוער",A פלוס (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/a_plus_kids_il.png" group-title="ילדים ונוער" description="נבדק תקין אצל המשתמש 17.11.2026",A פלוס
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/a_plus/live.livx/playlist.m3u8?fmp4&renditions
 
 # אוכל ולייף סטייל
