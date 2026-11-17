@@ -161,3 +161,39 @@ https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
 https://gusto-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="חדשים לבדיקה" description="לא נבדק ניגון בטלוויזיה",Tastemade
 https://tastemade-tastemadefreetv16-tcl-mmaw8.amagi.tv/playlist/tastemade-tastemadefreetv16-tcl/playlist.m3u8
+
+# New public-catalog M3U candidate streams (unverified for Israeli playback or rights).
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",Newsmax TV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",Newsmax 2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",GB News
+https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",Bloomberg TV US
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",Bloomberg Originals
+https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",Cooking Panda
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",Chef Champion
+https://rpn.bozztv.com/gusa/gusa-chefchampion/index.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",TVS Classic Movies
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",TVS Western Movie
+https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",TVS Comedy Network
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",Classic Cinema
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",Whiplash Cinema
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",Magnificent Movies Network
+https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",Movies!
+https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
+#EXTINF:-1 group-title="חדשים לבדיקה" description="ממאגר ציבורי - ניגון בישראל ורישוי הקישור לא אומתו",Free Speech TV
+https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8
