@@ -198,3 +198,17 @@ https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qq6heRq.png" group-title="חדשים לבדיקה",Free Speech TV
 https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.il@SD" tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png" group-title="חדשים לבדיקה",Disney Channel (ניסיוני)
+http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
+#EXTINF:-1 tvg-id="NickJr.il@SD" tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png" group-title="חדשים לבדיקה",Nick Jr. (ניסיוני)
+http://bethoven.af-stream.com:1600/s/kwtlxswl/nick-jr-il/video.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.il@SD" tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png" group-title="חדשים לבדיקה",Nickelodeon (ניסיוני)
+http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-nickelodeon-il/video.m3u8
+#EXTINF:-1 tvg-id="RelevantTV.il@SD" tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png" group-title="חדשים לבדיקה",Relevant TV (ניסיוני)
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8
+#EXTINF:-1 tvg-id="HOT3.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot3-il.png" group-title="חדשים לבדיקה",HOT3 (ניסיוני)
+http://s08.wsbof.com:8090/s/dc2d537d/hot3-hd-il.m3u8
+#EXTINF:-1 tvg-id="HOT8.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot8-il.png" group-title="חדשים לבדיקה",HOT8 (ניסיוני)
+http://s08.wsbof.com:8090/s/dc2d537d/hot-8-il-hd.m3u8
+#EXTINF:-1 tvg-id="HOTCinema1.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-cinema1-il.png" group-title="חדשים לבדיקה",HOT Cinema 1 (ניסיוני)
+http://s08.wsbof.com:8090/s/dc2d537d/hot-cinema1-il.m3u8
