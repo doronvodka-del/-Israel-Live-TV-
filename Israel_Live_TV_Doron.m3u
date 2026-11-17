@@ -96,7 +96,7 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti/live.livx/
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/fomo_tv.png" group-title="ילדים ונוער" description="נבדק תקין אצל המשתמש 17.11.2026",FOMO
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/fomo/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/a_plus_kids_il.png" group-title="ילדים ונוער" description="נבדק תקין אצל המשתמש 17.11.2026",A פלוס
+#EXTINF:-1 tvg-logo="https://blog.partner.co.il/old-content/uploads/2018/01/apluslogo.png" group-title="ילדים ונוער" description="נבדק תקין אצל המשתמש 17.11.2026",A פלוס
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/a_plus/live.livx/playlist.m3u8?fmp4&renditions
 
 # אוכל ולייף סטייל
