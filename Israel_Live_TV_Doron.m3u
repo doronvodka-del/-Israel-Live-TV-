@@ -382,7 +382,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://mytime-tcl.amagi.tv/1080p-en-cc/index.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/rakuten-tv-top-movies.png" group-title="סרטים וסדרות",Rakuten TV Family Movies UK
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/917ccb21-dd06-4bf3-bdc8-ac1e16ee9ad9.jpeg" group-title="סרטים וסדרות",Rakuten TV Family Movies UK
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
