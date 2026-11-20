@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 176 channels, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 176 channels, 20 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -309,22 +309,20 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/teva_channel/live.
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/adventure-earth.png" group-title="טבע ודוקו",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-# טבע באנגלית
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bbc-earth.png" group-title="טבע באנגלית",BBC Earth
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bbc-earth.png" group-title="טבע ודוקו",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/real-wild.png" group-title="טבע באנגלית",Real Wild
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/real-wild.png" group-title="טבע ודוקו",Real Wild
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/wildearth.png" group-title="טבע באנגלית",WildEarth
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/wildearth.png" group-title="טבע ודוקו",WildEarth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/naturetime.png" group-title="טבע באנגלית",Nature Time
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/naturetime.png" group-title="טבע ודוקו",Nature Time
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/inwild.png" group-title="טבע באנגלית",InWild
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/inwild.png" group-title="טבע ודוקו",InWild
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 
 # דוקו והיסטוריה באנגלית
