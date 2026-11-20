@@ -11,13 +11,13 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 http://stream.mcquack.net/294/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/reshet13-il.png" group-title="עידן פלוס",רשת 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="עידן פלוס",עכשיו 14
+#EXTINF:-1 tvg-id="Now14.il@SD" tvg-name="ערוץ 14" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="עידן פלוס",עכשיו 14
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png" group-title="עידן פלוס",ערוץ 16
+#EXTINF:-1 tvg-id="Channel16.il@SD" tvg-name="ערוץ 16" tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png" group-title="עידן פלוס",ערוץ 16
 https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/knesset-channel-il.png" group-title="עידן פלוס",ערוץ הכנסת
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/585add3ba0a6bcf72f81e349/68d0163d58d10bad390f1503_%D7%A2%D7%A8%D7%95%D7%A5%20%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%94.png" group-title="עידן פלוס",כלכלה 10
+#EXTINF:-1 tvg-id="EconomyChannel.il@SD" tvg-name="ערוץ הכלכלה" tvg-logo="https://cdn.prod.website-files.com/585add3ba0a6bcf72f81e349/68d0163d58d10bad390f1503_%D7%A2%D7%A8%D7%95%D7%A5%20%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%94.png" group-title="עידן פלוס",כלכלה 10
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png" group-title="עידן פלוס",כאן חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
