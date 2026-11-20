@@ -212,3 +212,7 @@ http://s08.wsbof.com:8090/s/dc2d537d/hot3-hd-il.m3u8
 http://s08.wsbof.com:8090/s/dc2d537d/hot-8-il-hd.m3u8
 #EXTINF:-1 tvg-id="HOTCinema1.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-cinema1-il.png" group-title="חדשים לבדיקה",HOT Cinema 1 (ניסיוני)
 http://s08.wsbof.com:8090/s/dc2d537d/hot-cinema1-il.m3u8
+#EXTINF:-1 tvg-id="5Sport4K.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport4k-il.png" group-title="חדשים לבדיקה",ספורט 5 4K (ניסיוני)
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ArutzHaYeladim.il@SD" tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png" group-title="חדשים לבדיקה",ערוץ הילדים (ניסיוני)
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
