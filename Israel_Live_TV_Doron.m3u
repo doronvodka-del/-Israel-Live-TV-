@@ -280,3 +280,11 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/play
 # מקור חלופי מתוך קטלוג iptv-org, ללא אימות צפייה או זכויות בישראל
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5stars-il.png" group-title="חדשים לבדיקה",ספורט 5 סטארס - מקור חלופי לבדיקה
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
+
+# Alternate FreeTV source identified in the iptv-org Israeli catalog; playback, licensing and Hebrew subtitles unverified.
+#EXTINF:-1 tvg-id="VivaTelenovelas.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/viva-il.png" group-title="חדשים לבדיקה",ויוה טלנובלות - מקור חלופי לבדיקה
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
+
+# Alternate FreeTV source identified in the iptv-org Israeli catalog; playback, licensing and Hebrew subtitles unverified.
+#EXTINF:-1 tvg-id="VivaIstanbul.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/viva-plus-il.png" group-title="חדשים לבדיקה",ויוה איסטנבול - מקור חלופי לבדיקה
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8
