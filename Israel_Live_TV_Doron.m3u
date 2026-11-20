@@ -18,7 +18,7 @@ https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצי חדשות מהרשת",i24NEWS עברית
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiss.org.il/wp-content/uploads/2025/05/%D7%9C%D7%95%D7%92%D7%95.jpg" group-title="עידן פלוס",כלכלה 10
+#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/585add3ba0a6bcf72f81e349/68d0163d58d10bad390f1503_%D7%A2%D7%A8%D7%95%D7%A5%20%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%94.png" group-title="עידן פלוס",כלכלה 10
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ynet_logo.svg/256px-Ynet_logo.svg.png" group-title="ערוצי חדשות מהרשת",ynet חדשות
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
