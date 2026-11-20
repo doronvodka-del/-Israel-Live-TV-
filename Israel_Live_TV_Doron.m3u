@@ -34,11 +34,11 @@ http://stream.mcquack.net/379/index.m3u8
 http://stream.mcquack.net/380/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/viva-premium-il.png" group-title="אין שידור כרגע",Viva Premium (ניסיוני)
 http://stream.mcquack.net/43/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/viva-il.png" group-title="סרטים וסדרות",VIVA (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/viva-il.png" group-title="טלנובלות",VIVA (ניסיוני)
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/viva-plus-il.png" group-title="סרטים וסדרות",VIVA פלוס
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/viva-plus-il.png" group-title="טלנובלות",VIVA פלוס
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/vamos-channel-il.png" group-title="סרטים וסדרות",וואמוס
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/vamos-channel-il.png" group-title="טלנובלות",וואמוס
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/vamos/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/mediterranean-channel-il.png" group-title="אין שידור כרגע",ים תיכוני (ניסיוני)
 http://stream.mcquack.net/46/index.m3u8
@@ -298,23 +298,23 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_subs/liv
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/ch14_subs/live.livx/playlist.m3u8?fmp4&renditions
 
 # Candidate: free-broadcast-candidate; source Free-TV/IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PNTYOgg.png" group-title="חדשים לבדיקה",Retro TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PNTYOgg.png" group-title="אין שידור כרגע",Retro TV
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
 
 # Candidate: free-broadcast-candidate; source Free-TV/IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a67bbag.png" group-title="חדשים לבדיקה",Heartland
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a67bbag.png" group-title="אין שידור כרגע",Heartland
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/heartland/index.m3u8
 
 # Candidate: free-broadcast-candidate; source Free-TV/IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VUhqVgG.png" group-title="חדשים לבדיקה",Rev'n
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VUhqVgG.png" group-title="אין שידור כרגע",Rev'n
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
 
 # Candidate: free-broadcast-candidate; source Free-TV/IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="חדשים לבדיקה",ABC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="אין שידור כרגע",ABC News
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
 
 # Candidate: free-broadcast-candidate; source Free-TV/IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nki2HDQ.png" group-title="חדשים לבדיקה",CBS News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nki2HDQ.png" group-title="אין שידור כרגע",CBS News
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 
 # Candidate: free-broadcast-candidate; source Free-TV/IPTV; user playback, geo availability and subtitles not verified.
@@ -322,11 +322,11 @@ https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 
 # Candidate: free-broadcast-candidate; source Free-TV/IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AbvCnoH.png" group-title="חדשים לבדיקה",Reuters TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbvCnoH.png" group-title="אין שידור כרגע",Reuters TV
 https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 # Candidate: free-broadcast-candidate; source Free-TV/IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bNg8mze.png" group-title="חדשים לבדיקה",Docurama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bNg8mze.png" group-title="אין שידור כרגע",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
 # Candidate: free-broadcast-candidate; source Free-TV/IPTV; user playback, geo availability and subtitles not verified.
@@ -334,11 +334,11 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 
 # Candidate: free-broadcast-candidate; source Free-TV/IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N3xiz4m.png" group-title="חדשים לבדיקה",BBC Food
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N3xiz4m.png" group-title="אין שידור כרגע",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 # Candidate: free-broadcast-candidate; source Free-TV/IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ii8DX1x.png" group-title="חדשים לבדיקה",BBC Home
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ii8DX1x.png" group-title="אין שידור כרגע",BBC Home
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 # Candidate: free-broadcast-candidate; source Free-TV/IPTV; user playback, geo availability and subtitles not verified.
@@ -354,11 +354,11 @@ https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/24-hour-free-movies-720p-2a4fdea7cd.png" group-title="חדשים לבדיקה",24 Hour Free Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/24-hour-free-movies-720p-2a4fdea7cd.png" group-title="אין שידור כרגע",24 Hour Free Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/action-hollywood-movies.png" group-title="ערוצים באנגלית",Action Hollywood Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/action-hollywood-movies.png" group-title="סרטים",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
@@ -366,27 +366,27 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/gravitas-movies-1080p-0311d486e7.png" group-title="ערוצים באנגלית",Gravitas Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/gravitas-movies-1080p-0311d486e7.png" group-title="סרטים",Gravitas Movies
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/great-movies-1080p-9cc0399e3e.png" group-title="ערוצים באנגלית",GREAT! Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/great-movies-1080p-9cc0399e3e.png" group-title="סרטים",GREAT! Movies
 https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/moviesphere-uk.png" group-title="ערוצים באנגלית",MovieSphere UK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/moviesphere-uk.png" group-title="סרטים",MovieSphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mytime-movie-network.png" group-title="ערוצים באנגלית",MyTime Movie Network (US)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mytime-movie-network.png" group-title="סרטים",MyTime Movie Network (US)
 https://mytime-tcl.amagi.tv/1080p-en-cc/index.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/917ccb21-dd06-4bf3-bdc8-ac1e16ee9ad9.jpeg" group-title="ערוצים באנגלית",Rakuten TV Family Movies UK
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/917ccb21-dd06-4bf3-bdc8-ac1e16ee9ad9.jpeg" group-title="סרטים",Rakuten TV Family Movies UK
 https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sparkle-movies.png" group-title="ערוצים באנגלית",Sparkle Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sparkle-movies.png" group-title="סרטים",Sparkle Movies
 https://61fc4f1a40a342daa23f92141853b7b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_SparkleMovies/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
@@ -394,89 +394,89 @@ https://61fc4f1a40a342daa23f92141853b7b4.mediatailor.us-east-1.amazonaws.com/v1/
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/autentic-history.png" group-title="חדשים לבדיקה",Autentic History
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/autentic-history.png" group-title="דוקו והיסטוריה באנגלית",Autentic History
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bbc-earth.png" group-title="חדשים לבדיקה",BBC Earth
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/bbc-earth.png" group-title="טבע באנגלית",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/get-factual.png" group-title="חדשים לבדיקה",Get Factual
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/get-factual.png" group-title="דוקו והיסטוריה באנגלית",Get Factual
 https://d1nhni5l2n8hjt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rzh07me7cf8x7/gf.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/history-hit.png" group-title="חדשים לבדיקה",History Hit
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/history-hit.png" group-title="דוקו והיסטוריה באנגלית",History Hit
 https://ldsaaaaaa-timeline-samsung-uk-azlgu.amagi.tv/ts-eu-w1-n2/playlist/ldsAAAAAA-timeline-samsung-uk/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/real-wild.png" group-title="חדשים לבדיקה",Real Wild
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/real-wild.png" group-title="טבע באנגלית",Real Wild
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/wildearth.png" group-title="חדשים לבדיקה",WildEarth
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/wildearth.png" group-title="טבע באנגלית",WildEarth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/naturetime.png" group-title="חדשים לבדיקה",Nature Time
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/naturetime.png" group-title="טבע באנגלית",Nature Time
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/wonder.png" group-title="חדשים לבדיקה",Wonder
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/wonder.png" group-title="סדרות",Wonder
 https://lds-wonder-plex.amagi.tv/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/intravel.png" group-title="חדשים לבדיקה",InTravel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/intravel.png" group-title="טיולים באנגלית",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/inwild.png" group-title="חדשים לבדיקה",InWild
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/inwild.png" group-title="טבע באנגלית",InWild
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mythbusters.png" group-title="חדשים לבדיקה",Mythbusters
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mythbusters.png" group-title="סדרות",Mythbusters
 https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvoparaodgcw9/Mythbusters_GB.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/pbs-arts.png" group-title="חדשים לבדיקה",PBS Arts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/pbs-arts.png" group-title="דוקו והיסטוריה באנגלית",PBS Arts
 https://d3v8uchko88gmi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9435fptcvdedz/PBSART_GB.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/documentary-usa.png" group-title="חדשים לבדיקה",Documentary+ USA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/documentary-usa.png" group-title="דוקו והיסטוריה באנגלית",Documentary+ USA
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/travel-xp.png" group-title="חדשים לבדיקה",Travelxp English
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/travel-xp.png" group-title="טיולים באנגלית",Travelxp English
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/pbs-kids.png" group-title="חדשים לבדיקה",PBS Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/pbs-kids.png" group-title="ילדים באנגלית",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/baby-shark-tv.png" group-title="חדשים לבדיקה",Baby Shark TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/baby-shark-tv.png" group-title="ילדים באנגלית",Baby Shark TV
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/duck-tv.png" group-title="חדשים לבדיקה",Duck TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/duck-tv.png" group-title="ילדים באנגלית",Duck TV
 https://d6lk10bkdgfae.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n0stmvwxmsf5c/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/kartoon-channel.png" group-title="חדשים לבדיקה",Kartoon Channel!
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/kartoon-channel.png" group-title="ילדים באנגלית",Kartoon Channel!
 https://d2z0ysa6dgxhlc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ajxyy4yaic6nq/kchan.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/moonbug-kids.png" group-title="חדשים לבדיקה",Moonbug Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/moonbug-kids.png" group-title="ילדים באנגלית",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/smurf-tv.png" group-title="חדשים לבדיקה",Smurf TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/smurf-tv.png" group-title="ילדים באנגלית",Smurf TV
 https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/teletubbies.png" group-title="חדשים לבדיקה",Teletubbies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/teletubbies.png" group-title="ילדים באנגלית",Teletubbies
 https://dv8lsrd8fecw9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dkls74gdpo7r0/master.m3u8
 
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/toon-goggles-junior.png" group-title="חדשים לבדיקה",Toon Goggles Junior
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/toon-goggles-junior.png" group-title="ילדים באנגלית",Toon Goggles Junior
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
