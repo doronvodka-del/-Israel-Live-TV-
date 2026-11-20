@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# Custom groups include Idan Plus, FreeTV, and internet news channels. Group membership does not indicate official broadcaster affiliation. Original stream URLs preserved.
+# Custom groups: Idan Plus, FreeTV (FreeTV-branded/exclusive channels only), internet news and genre groups. Classification is editorial; stream URLs and branding retained.
 # Note: HOT Drama and HOT Zone were reported as Russian-language streams.
 
 # קטגוריות החדשות: עידן פלוס / פרי טיוי / ערוצי חדשות מהרשת
@@ -12,11 +12,11 @@ http://stream.mcquack.net/294/index.m3u8
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="עידן פלוס",עכשיו 14
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png" group-title="פרי טיוי",ערוץ 16
+#EXTINF:-1 tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png" group-title="ערוצי חדשות מהרשת",ערוץ 16
 https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/knesset-channel-il.png" group-title="עידן פלוס",ערוץ הכנסת
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.i24news.tv/images/favicon.png" group-title="פרי טיוי",i24NEWS עברית
+#EXTINF:-1 tvg-logo="https://www.i24news.tv/images/favicon.png" group-title="ערוצי חדשות מהרשת",i24NEWS עברית
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Finance_icon.svg/256px-Finance_icon.svg.png" group-title="עידן פלוס",כלכלה 10
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000
@@ -34,11 +34,11 @@ http://stream.mcquack.net/379/index.m3u8
 http://stream.mcquack.net/380/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/viva-premium-il.png" group-title="סרטים וסדרות",Viva Premium (ניסיוני)
 http://stream.mcquack.net/43/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/viva-il.png" group-title="פרי טיוי",VIVA (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/viva-il.png" group-title="סרטים וסדרות",VIVA (ניסיוני)
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/viva-plus-il.png" group-title="סרטים וסדרות",VIVA פלוס (ניסיוני)
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/vamos-channel-il.png" group-title="פרי טיוי",וואמוס (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/vamos-channel-il.png" group-title="סרטים וסדרות",וואמוס (ניסיוני)
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/vamos/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/mediterranean-channel-il.png" group-title="סרטים וסדרות",ים תיכוני (ניסיוני)
 http://stream.mcquack.net/46/index.m3u8
@@ -50,7 +50,7 @@ https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/reshet13_reality_il.png" group-title="בידור וריאליטי",ערוץ הריאליטי
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/eretz_nehederet.png" group-title="פרי טיוי",ארץ נהדרת (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/eretz_nehederet.png" group-title="FreeTV",ארץ נהדרת (ניסיוני)
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/erez_nehederet/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wOsArb9.png" group-title="בידור וריאליטי",הערוץ הישראלי - The Israeli Network
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/playlist.m3u8
@@ -60,21 +60,21 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/p
 http://89.33.29.115:8080/sportplus/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5stars-il.png" group-title="אין שידור כרגע",ספורט 5 סטארס (ניסיוני)
 http://89.33.29.115:8080/IL_5Stars/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-il.png" group-title="פרי טיוי",ספורט 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-il.png" group-title="ספורט",ספורט 5
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5gold-il.png" group-title="פרי טיוי",ספורט 5 גולד
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5gold-il.png" group-title="ספורט",ספורט 5 גולד
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5live-il.png" group-title="פרי טיוי",ספורט 5 לייב
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5live-il.png" group-title="ספורט",ספורט 5 לייב
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/sport5_max_hd.png" group-title="פרי טיוי",ספורט 5 מקס
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/sport5_max_hd.png" group-title="ספורט",ספורט 5 מקס
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-il.png" group-title="פרי טיוי",ONE 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-il.png" group-title="ספורט",ONE 1
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one2-il.png" group-title="פרי טיוי",ONE 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one2-il.png" group-title="ספורט",ONE 2
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-doco-il.png" group-title="פרי טיוי",ONE דוקו
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-doco-il.png" group-title="ספורט",ONE דוקו
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/one_edge_hd.png" group-title="פרי טיוי",ONE אדג'
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/one_edge_hd.png" group-title="ספורט",ONE אדג'
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8?fmp4&renditions
 
 # ילדים ונוער
@@ -86,21 +86,21 @@ http://stream.mcquack.net/44/index.m3u8
 http://89.33.29.115:8080/TeenNick/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/f/fb/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_%D7%A2%D7%A8%D7%95%D7%A5_ZOOM_2022.svg/1920px-%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_%D7%A2%D7%A8%D7%95%D7%A5_ZOOM_2022.svg.png" group-title="ילדים ונוער",זום
 http://stream.mcquack.net/377/index.m3u8
-#EXTINF:-1 tvg-logo="https://rge.co.il/wp-content/uploads/2026/03/yoyo-home-tile.png" group-title="פרי טיוי",יויו
+#EXTINF:-1 tvg-logo="https://rge.co.il/wp-content/uploads/2026/03/yoyo-home-tile.png" group-title="ילדים ונוער",יויו
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yoyo/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/logi-freetv.png" group-title="פרי טיוי",לוגי
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/logi-freetv.png" group-title="ילדים ונוער",לוגי
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/logi/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/yalduti-freetv.png" group-title="פרי טיוי",ילדותי
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/yalduti-freetv.png" group-title="ילדים ונוער",ילדותי
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/junior-channel-il.png" group-title="פרי טיוי",ג'וניור
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/junior-channel-il.png" group-title="ילדים ונוער",ג'וניור
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/fomo_tv.png" group-title="פרי טיוי",FOMO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/fomo_tv.png" group-title="ילדים ונוער",FOMO
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/fomo/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/a-plus-freetv.png" group-title="פרי טיוי",A פלוס
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/a-plus-freetv.png" group-title="ילדים ונוער",A פלוס
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/a_plus/live.livx/playlist.m3u8?fmp4&renditions
 
 # אוכל ולייף סטייל
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/foody_tv.png" group-title="פרי טיוי",פודי (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/foody_tv.png" group-title="אוכל ולייף סטייל",פודי (ניסיוני)
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/reshet13_nofesh_il.png" group-title="אוכל ולייף סטייל",ערוץ החופשה
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
@@ -108,7 +108,7 @@ https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/in
 http://stream.mcquack.net/47/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/health-channel-il.png" group-title="אוכל ולייף סטייל",ערוץ הבריאות (ניסיוני)
 http://89.33.29.115:8080/Health/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/beautyz_il.png" group-title="פרי טיוי",ביוטיז (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/beautyz_il.png" group-title="אוכל ולייף סטייל",ביוטיז (ניסיוני)
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/beautyz/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/shopping-channel-il.png" group-title="אוכל ולייף סטייל",ערוץ הקניות
 https://shoppingil-rewriter.vidnt.com/index.m3u8
@@ -116,9 +116,9 @@ https://shoppingil-rewriter.vidnt.com/index.m3u8
 # מוזיקה ורדיו מצולם
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel-24-il.png" group-title="עידן פלוס",ערוץ 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_10801920_p_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/music_il_tv.png" group-title="פרי טיוי",מיוזיק IL (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/music_il_tv.png" group-title="מוזיקה ורדיו מצולם",מיוזיק IL (ניסיוני)
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/karaoke_il.png" group-title="פרי טיוי",ערוץ הקריוקי (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/karaoke_il.png" group-title="מוזיקה ורדיו מצולם",ערוץ הקריוקי (ניסיוני)
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/karaoke/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/radios_100fm.png" group-title="מוזיקה ורדיו מצולם",רדיוס 100FM - וידאו
 https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8
@@ -136,11 +136,11 @@ https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 
 # ערוצים בשפות נוספות
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="פרי טיוי",i24NEWS English
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצי חדשות מהרשת",i24NEWS English
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצים בשפות נוספות",i24NEWS العربية
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="פרי טיוי",i24NEWS Français
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצי חדשות מהרשת",i24NEWS Français
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RVtQTed.png" group-title="עידן פלוס",מכאן 33
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
@@ -212,65 +212,65 @@ http://s08.wsbof.com:8090/s/dc2d537d/hot3-hd-il.m3u8
 http://s08.wsbof.com:8090/s/dc2d537d/hot-8-il-hd.m3u8
 #EXTINF:-1 tvg-id="HOTCinema1.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-cinema1-il.png" group-title="אין שידור כרגע",HOT Cinema 1
 http://s08.wsbof.com:8090/s/dc2d537d/hot-cinema1-il.m3u8
-#EXTINF:-1 tvg-id="5Sport4K.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport4k-il.png" group-title="פרי טיוי",ספורט 5 4K
+#EXTINF:-1 tvg-id="5Sport4K.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport4k-il.png" group-title="ספורט",ספורט 5 4K
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="ArutzHaYeladim.il@SD" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/arutz_hayeladim.png" group-title="פרי טיוי",ערוץ הילדים
+#EXTINF:-1 tvg-id="ArutzHaYeladim.il@SD" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/arutz_hayeladim.png" group-title="ילדים ונוער",ערוץ הילדים
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/baby_tv_he.png" group-title="פרי טיוי",בייבי
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/baby_tv_he.png" group-title="ילדים ונוער",בייבי
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/baby_new/live.livx/playlist.m3u8?bitrate=4928000&audioId=1&videoId=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/yalduti_songs_tv.png" group-title="פרי טיוי",שירי ילדותי
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/yalduti_songs_tv.png" group-title="ילדים ונוער",שירי ילדותי
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti_songs/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/hop_pele_tv.png" group-title="פרי טיוי",פלא
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/hop_pele_tv.png" group-title="ילדים ונוער",פלא
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/hop_pele/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/stars_kids_il.png" group-title="פרי טיוי",ערוץ הכוכבים
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/stars_kids_il.png" group-title="ילדים ונוער",ערוץ הכוכבים
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/starz/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/teva_israel_hd.png" group-title="פרי טיוי",ערוץ הטבע
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/teva_israel_hd.png" group-title="טבע ודוקו",ערוץ הטבע
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/teva_channel/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_lifestyle_il.png" group-title="פרי טיוי",FreeTV לייף סטייל
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_lifestyle_il.png" group-title="FreeTV",FreeTV לייף סטייל
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/imagin_lifestyle/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_doco_il.png" group-title="פרי טיוי",FreeTV דוקו
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_doco_il.png" group-title="FreeTV",FreeTV דוקו
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/imagin_doco/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/daystar_freetv_il.png" group-title="פרי טיוי",Daystar TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/daystar_freetv_il.png" group-title="דת וקהילה",Daystar TV
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/daystar/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/music_channel_il.png" group-title="פרי טיוי",FreeTV מוזיקה
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/music_channel_il.png" group-title="FreeTV",FreeTV מוזיקה
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/music_channel/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_cooking_il.png" group-title="פרי טיוי",FreeTV אוכל
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_cooking_il.png" group-title="FreeTV",FreeTV אוכל
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/imagin_cooking/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/savri_maranan.png" group-title="פרי טיוי",סברי מרנן
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/savri_maranan.png" group-title="FreeTV",סברי מרנן
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/savri/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/dancing_stars_il.png" group-title="פרי טיוי",רוקדים עם כוכבים
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/dancing_stars_il.png" group-title="FreeTV",רוקדים עם כוכבים
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/dancing_popup/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_series_drama.png" group-title="פרי טיוי",FreeTV דרמה
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_series_drama.png" group-title="FreeTV",FreeTV דרמה
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/imagin_drama/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_series_comedy.png" group-title="פרי טיוי",FreeTV קומדיה
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_series_comedy.png" group-title="FreeTV",FreeTV קומדיה
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/imagin_comedy/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_series_comedy2.png" group-title="פרי טיוי",FreeTV קומדיה 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_series_comedy2.png" group-title="FreeTV",FreeTV קומדיה 2
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/comedy_2_channel/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_global_il.png" group-title="פרי טיוי",Series Global
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_global_il.png" group-title="FreeTV",Series Global
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_global/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/daily_drama_il.png" group-title="פרי טיוי",דרמות יומיות
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/daily_drama_il.png" group-title="FreeTV",דרמות יומיות
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/daily_drama/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_10stars.png" group-title="פרי טיוי",10STARS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_10stars.png" group-title="FreeTV",10STARS
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_10/live.livx/playlist.m3u8?bitrate=5628000&audioId=1&videoId=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_israeli_movies.png" group-title="פרי טיוי",FreeTV סרטים ישראליים
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_israeli_movies.png" group-title="FreeTV",FreeTV סרטים ישראליים
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_israeli_movies/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_action.png" group-title="פרי טיוי",Movies Action
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_action.png" group-title="FreeTV",Movies Action
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_action/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_comedy.png" group-title="פרי טיוי",Movies Comedy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_comedy.png" group-title="FreeTV",Movies Comedy
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_comedy/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_drama.png" group-title="פרי טיוי",Movies Drama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_drama.png" group-title="FreeTV",Movies Drama
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_drama/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_thriller.png" group-title="פרי טיוי",Movies Thriller
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_thriller.png" group-title="FreeTV",Movies Thriller
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_thriller/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_horror.png" group-title="פרי טיוי",Movies Horror
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_horror.png" group-title="FreeTV",Movies Horror
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_horror/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_romance.png" group-title="פרי טיוי",Movies Romantic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_romance.png" group-title="FreeTV",Movies Romantic
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_romance/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_feelgood.png" group-title="פרי טיוי",Movies Feel Good
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_feelgood.png" group-title="FreeTV",Movies Feel Good
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/feel_good/live.livx/playlist.m3u8?bitrate=5628000&audioId=1&videoId=0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_family.png" group-title="פרי טיוי",Movies Family
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_family.png" group-title="FreeTV",Movies Family
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_family/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/france24_freetv_il.png" group-title="פרי טיוי",France 24 English
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/france24_freetv_il.png" group-title="ערוצי חדשות מהרשת",France 24 English
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/france_24_eng/live.livx/playlist.m3u8
 
 # מקור חלופי מתוך קטלוג iptv-org, ללא אימות צפייה או זכויות בישראל
