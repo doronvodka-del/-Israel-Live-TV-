@@ -272,3 +272,11 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/feel_good/live.liv
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_family/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/france24_freetv_il.png" group-title="פרי טיוי",France 24 English
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/france_24_eng/live.livx/playlist.m3u8
+
+# מקור חלופי מתוך קטלוג iptv-org, ללא אימות צפייה או זכויות בישראל
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5plus-il.png" group-title="חדשים לבדיקה",ספורט 5 פלוס - מקור חלופי לבדיקה
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
+
+# מקור חלופי מתוך קטלוג iptv-org, ללא אימות צפייה או זכויות בישראל
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5stars-il.png" group-title="חדשים לבדיקה",ספורט 5 סטארס - מקור חלופי לבדיקה
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
