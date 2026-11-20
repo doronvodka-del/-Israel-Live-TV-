@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 176 channels, 20 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 223 channels, 20 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -447,3 +447,191 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_subs/liv
 # Candidate: hebrew-subtitle-candidate; source il90il90/m3u-tv; user playback, geo availability and subtitles not verified.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="חדשים לבדיקה",ערוץ 14 - גרסת כתוביות לבדיקה
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/ch14_subs/live.livx/playlist.m3u8?fmp4&renditions
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/amc-presents.png" group-title="חדשים לבדיקה",AMC Presents
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/amc-triller.png" group-title="חדשים לבדיקה",AMC Thrillers
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/comet.png" group-title="חדשים לבדיקה",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cowboy-movie-channel.png" group-title="חדשים לבדיקה",Cowboy Movie Channel
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/made-in-hollywood.png" group-title="חדשים לבדיקה",Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/movie-dome-family.png" group-title="חדשים לבדיקה",Movie Dome Family
+https://amg00771-kochfilmsgerman-moviedomefamily-tcl-tpicw.amagi.tv/playlist/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/great-romance-1080p-7315cca1df.png" group-title="חדשים לבדיקה",GREAT! Romance
+https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/alone.png" group-title="חדשים לבדיקה",Alone
+https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ax-men.png" group-title="חדשים לבדיקה",Ax Men
+https://bcadcc64.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BeE1lbl9ITFM/playlist.m3u8?ads.wurl_channel=1634&ads.wurl_name=AxMen&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cgtn-documentary.png" group-title="חדשים לבדיקה",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/choppertown.png" group-title="חדשים לבדיקה",Choppertown
+https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/crime-and-justice.png" group-title="חדשים לבדיקה",Crime & Justice
+https://d1vsdt3c2xcxl2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h309rib7av3rk/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/deadly-women.png" group-title="חדשים לבדיקה",Deadly Women
+https://d1mgh147xpmgs8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c1w8i9yzp8w93/DeadlyWomen_GB.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/docubay-tv.png" group-title="חדשים לבדיקה",DocuBay TV
+https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/epic-crimes.png" group-title="חדשים לבדיקה",Epic Crimes
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/history-warfare-now.png" group-title="חדשים לבדיקה",History & Warfare Now
+https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/infast.png" group-title="חדשים לבדיקה",InFast
+https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/inside-crime.png" group-title="חדשים לבדיקה",Inside Crime
+https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/inwonder.png" group-title="חדשים לבדיקה",InWonder
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/love-the-planet.png" group-title="חדשים לבדיקה",Love the Planet
+https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mysteries-xplored.png" group-title="חדשים לבדיקה",Mysteries Xplored
+https://dwqz6akge0ila.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lw48tj5rg6t4f/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mystery-tv.png" group-title="חדשים לבדיקה",Mystery TV
+https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/outdoor-channel.png" group-title="חדשים לבדיקה",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/outersphere.png" group-title="חדשים לבדיקה",OuterSphere
+https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/robot-wars-by-mech.png" group-title="חדשים לבדיקה",Robot Wars by Mech+
+https://0a644b20819046a0935afa1cf6debf23.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_MechPlus/playlist.m3u8?ads.wurl_channel=1413&ads.wurl_name=MechPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/true-crime-uk.png" group-title="חדשים לבדיקה",True Crime UK
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8?ads.wurl_channel=1151&ads.wurl_name=TrueCrimeUKfromCBSReality&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/watch-mojo-eu.png" group-title="חדשים לבדיקה",Watch Mojo
+https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/wild-planet.png" group-title="חדשים לבדיקה",Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/witness-to-justice.png" group-title="חדשים לבדיקה",Witness to Justice
+https://dxwldsv8fdzik.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l2dz2a7mdvmzc/v1/aenetworks_witnesstojustice_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/world-war-tv.png" group-title="חדשים לבדיקה",World War TV
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/epic-kids-digital.png" group-title="חדשים לבדיקה",Epic Kids Digital
+https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t8lqe1o99pszu/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/hooray-kids.png" group-title="חדשים לבדיקה",Hooray Kids
+https://d3go3d9yw1x2sb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-obhh0sw25szth/5cc02970-213a-4eea-af2f-6a0dc11ca3a3/0.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/jungle-book.png" group-title="חדשים לבדיקה",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/lego-channel-1080p.png" group-title="חדשים לבדיקה",Lego Channel
+https://dltiqboxjw21d.cloudfront.net/index.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mr-bean-animated.png" group-title="חדשים לבדיקה",Mr Bean Animated
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/pop.png" group-title="חדשים לבדיקה",POP
+https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sonic.png" group-title="חדשים לבדיקה",Sonic The Hedgehog
+https://dtwdcugadwtnw.cloudfront.net/master.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/strawberry-shortcake.png" group-title="חדשים לבדיקה",Strawberry Shortcake
+https://d10c3fwb9yju0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5zgefp9c8p0b/master.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/tiny-pop.png" group-title="חדשים לבדיקה",Tiny Pop
+https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/toon-goggles.png" group-title="חדשים לבדיקה",Toon Goggles
+https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zoomoo.png" group-title="חדשים לבדיקה",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/stingray-classic-rock.png" group-title="חדשים לבדיקה",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/stingray-remember-the-80s.png" group-title="חדשים לבדיקה",Stingray Remember the 80s
+https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/vevo-70s-80s.png" group-title="חדשים לבדיקה",Vevo 70s & 80s
+https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jlzlygsoesvmj/Vevo70sand80s_GB.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/xite-hits-germany-1080p.png" group-title="חדשים לבדיקה",XITE Hits
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/now-80-s.png" group-title="חדשים לבדיקה",NOW 80s
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+
+# Source: Free-TV/IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="חדשים לבדיקה",FOX Live Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
