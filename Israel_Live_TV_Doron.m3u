@@ -56,25 +56,25 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/erez_nehederet/liv
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/playlist.m3u8
 
 # ספורט
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5plus-il.png" group-title="ספורט",ספורט 5 פלוס (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5plus-il.png" group-title="אין שידור כרגע",ספורט 5 פלוס (ניסיוני)
 http://89.33.29.115:8080/sportplus/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5stars-il.png" group-title="ספורט",ספורט 5 סטארס (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5stars-il.png" group-title="אין שידור כרגע",ספורט 5 סטארס (ניסיוני)
 http://89.33.29.115:8080/IL_5Stars/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-il.png" group-title="ספורט",ספורט 5 (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-il.png" group-title="ספורט",ספורט 5
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5gold-il.png" group-title="ספורט",ספורט 5 גולד (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5gold-il.png" group-title="ספורט",ספורט 5 גולד
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5live-il.png" group-title="ספורט",ספורט 5 לייב (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5live-il.png" group-title="ספורט",ספורט 5 לייב
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/sport5_max_hd.png" group-title="ספורט",ספורט 5 מקס (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/sport5_max_hd.png" group-title="ספורט",ספורט 5 מקס
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-il.png" group-title="ספורט",ONE 1 (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-il.png" group-title="ספורט",ONE 1
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one2-il.png" group-title="ספורט",ONE 2 (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one2-il.png" group-title="ספורט",ONE 2
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-doco-il.png" group-title="ספורט",ONE דוקו (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-doco-il.png" group-title="ספורט",ONE דוקו
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/one_edge_hd.png" group-title="ספורט",ONE אדג' (ניסיוני)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/one_edge_hd.png" group-title="ספורט",ONE אדג'
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8?fmp4&renditions
 
 # ילדים ונוער
