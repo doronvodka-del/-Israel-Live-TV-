@@ -1,24 +1,23 @@
-# EPG – עידן פלוס / Israeli guide
+# EPG – ערוצים 14, 16 וכלכלה 10
 
 עודכן: 21.11.2026
 
-## מטרה
-להוסיף לוח תוכניות אמיתי לערוצים **עכשיו 14**, **ערוץ 16**, **כלכלה 10** ב-SS IPTV, בלי לשנות שידורים, לוגואים או EPG שכבר עובד.
+## מצב נוכחי — מחובר לניסיון ב-SS IPTV
+- **ערוץ 14:** 55 תוכניות אותרו בקובץ XMLTV שנוצר ב-21.11.2026.
+- **כלכלה 10:** 71 תוכניות אותרו בקובץ.
+- **ערוץ 16:** 0 תוכניות; לא נמצא עדיין מקור מידע. אין לו לוח שידורים בקובץ ולא הומצאו תוכניות.
+- שורת הכותרת של `Israel_Live_TV_Doron.m3u` כוללת `x-tvg-url` לקובץ `epg/idan-plus.xml`.
+- סקריפט `scripts/build_epg.py` מייצר קובץ XMLTV קטן מתוך שני מקורות ציבוריים, ורק מתוך תוכניות אמיתיות.
+- מנגנון GitHub Actions `.github/workflows/build-epg.yml` מוגדר לעדכן כל שש שעות. הצלחת הריצה הראשונה אומתה על ידי הופעת הקבצים, אך ריצה חוזרת קבועה עדיין לא נבדקה לאורך זמן.
+- **זיהוי והצגה ב-SS IPTV עדיין מחייבים בדיקה על הטלוויזיה.** יתכן שהאפליקציה דורשת העלאה מחדש של הפלייליסט או אינה צורכת `x-tvg-url` בדרך שציפינו.
 
-## סטטוס
-- מזהי `tvg-id` ו-`tvg-name` הוספו לשלושת הערוצים, אך המשתמש דיווח שב-SS IPTV לא הופיע לוח. **לא פתרון בפני עצמו.**
-- סקריפט `scripts/build_epg.py` מחפש תוכניות אמיתיות במקורות XMLTV ציבוריים, ומפרסם `epg/idan-plus.xml` רק אם מתקבלות תוכניות בתוקף.
-- קובץ `.github/workflows/build-epg.yml` מוגדר לרוץ כל 6 שעות ולשמור את המדריך ב-GitHub.
-- **לא להוסיף `x-tvg-url` לרשימת ה-M3U לפני שקובץ `epg/idan-plus.xml` נוצר, מכיל תוכניות אמיתיות לערוצים הנדרשים, זמין ציבורית, ונבדק ב-SS IPTV.**
-- אם למקור אין תוכניות לערוץ 16, הוא יישאר ללא EPG. אין להמציא שמות או שעות.
+## בדיקת התוצאה
+- [קובץ XMLTV](https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml)
+- [כיסוי וזמן יצירה](https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/status.json)
+- [תצוגת ריצות האוטומציה](https://github.com/doronvodka-del/-Israel-Live-TV-/actions/workflows/build-epg.yml)
 
-## בדיקת הקובץ לאחר ריצה
-- [הפעלת Workflow במאגר](https://github.com/doronvodka-del/-Israel-Live-TV-/actions/workflows/build-epg.yml)
-- [XMLTV (כשהקובץ נוצר)](https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml)
-- [דוח כיסוי (כשהקובץ נוצר)](https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/status.json)
-
-## בדיקות חובה טרם חיבור
-1. נוצר קובץ XMLTV תקין ובו לפחות תוכנית אחת שתאריך ההתחלה והסיום שלה תקף לעכשיו.
-2. `programme channel="Now14.il@SD"` ו/או `programme channel="EconomyChannel.il@SD"` קיימים בפועל. נוכחות `<channel>` בלבד לא מספיקה.
-3. אין שימוש בנתוני לוח ישנים.
-4. בטלוויזיה רענון SS IPTV מראה את התוכניות בשלושת הערוצים, והערוצים הקיימים לא נפגעו.
+## אימות בטלוויזיה
+1. רענן את רשימת הערוצים ב-SS IPTV, או טען מחדש את קישור הפלייליסט הראשי.
+2. בדוק אם מופיעים שעות ותוכניות ב-14 ובכלכלה 10.
+3. אם עדיין לא מופיע EPG, נדרשת בדיקה של דרך חיבור המדריך באפליקציה. לא להניח שרק שינוי במזהה הערוץ יתקן.
+4. ערוץ 16 נשאר פתוח למחקר מקור EPG אמיתי.
