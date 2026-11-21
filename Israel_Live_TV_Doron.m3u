@@ -364,6 +364,13 @@ http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/daystar_freetv_il.png" group-title="דת וקהילה",Daystar TV
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/daystar/live.livx/playlist.m3u8
 
+# בדיקת לוח שידורים
+# עותקים נפרדים לבדיקה: מקור השידור זהה לעידן פלוס; מדריך XMLTV מחובר לכותרת הפלייליסט.
+#EXTINF:-1 tvg-id="Now14.il@SD" tvg-name="ערוץ 14" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="בדיקת לוח שידורים",עכשיו 14 - בדיקת EPG
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="EconomyChannel.il@SD" tvg-name="ערוץ הכלכלה" tvg-logo="https://cdn.prod.website-files.com/585add3ba0a6bcf72f81e349/68d0163d58d10bad390f1503_%D7%A2%D7%A8%D7%95%D7%A5%20%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%94.png" group-title="בדיקת לוח שידורים",כלכלה 10 - בדיקת EPG
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000
+
 # אין שידור כרגע
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/hot_drama.png" group-title="אין שידור כרגע",HOT Drama (ניסיוני)
 http://stream.mcquack.net/381/index.m3u8
