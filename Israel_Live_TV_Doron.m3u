@@ -645,3 +645,16 @@ https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 # Source: Free-TV/IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="חדשים לבדיקה",FOX Live Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+# Source: public broadcaster or free FAST distributor; CGTN international English news as distributed free by broadcaster; STING carriage does not imply identical captions.
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/cgtn_news_hd.png" group-title="חדשים לבדיקה",CGTN HD - בדיקה
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+
+# Source: public broadcaster or free FAST distributor; France 24 official French-language HLS; availability, captions and LG playback not yet verified.
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="חדשים לבדיקה",France 24 Français - בדיקה
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+
+# Source: public broadcaster or free FAST distributor; FashionTV Europe FAST feed distributed via Rakuten; may differ from the channel carried by STING; Israel playback unverified.
+#EXTINF:-1 tvg-id="FashionTVEurope.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="חדשים לבדיקה",FashionTV Europe - בדיקה
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+
