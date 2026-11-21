@@ -39,6 +39,13 @@ TARGETS = {
             "כלכלה10", "ערוץהכלכלה", "ערוץהכלכלה.il", "ערוץ.הכלכלה.il",
         ),
     },
+    "5Gold.il@SD": {
+        "display": "בדיקת EPG - ספורט 5 גולד",
+        "aliases": (
+            "5Gold.il@SD", "5Gold.il", "5GOLD.il",
+            "ספורט5גולד", "5גולד", "5גולד.il",
+        ),
+    },
     "Channel16.il@SD": {
         "display": "ערוץ 16",
         "aliases": (
