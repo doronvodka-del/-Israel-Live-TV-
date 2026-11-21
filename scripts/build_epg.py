@@ -40,7 +40,7 @@ TARGETS = {
         ),
     },
     "5Gold.il@SD": {
-        "display": "בדיקת EPG - ספורט 5 גולד",
+        "display": "ספורט 5 גולד",
         "aliases": (
             "5Gold.il@SD", "5Gold.il", "5GOLD.il",
             "ספורט5גולד", "5גולד", "5גולד.il",
