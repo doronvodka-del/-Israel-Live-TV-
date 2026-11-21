@@ -1,0 +1,6 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
+# Diagnostic playlist only — main playlist unchanged.
+#EXTINF:-1 tvg-id="Now14.il@SD" tvg-name="ערוץ 14" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="בדיקת לוח שידורים",עכשיו 14
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="EconomyChannel.il@SD" tvg-name="ערוץ הכלכלה" tvg-logo="https://cdn.prod.website-files.com/585add3ba0a6bcf72f81e349/68d0163d58d10bad390f1503_%D7%A2%D7%A8%D7%95%D7%A5%20%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%94.png" group-title="בדיקת לוח שידורים",כלכלה 10
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000
