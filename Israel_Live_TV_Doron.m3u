@@ -123,6 +123,10 @@ https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" group-title="חדשות מהעולם",WeatherNation
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 
+# Source: public CGTN broadcaster feed; playback confirmed by user in SS IPTV on 2026-11-22; STING subtitles are not implied.
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/cgtn_news_hd.png" group-title="חדשות מהעולם",CGTN HD
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+
 # ספורט
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-il.png" group-title="ספורט",ספורט 5
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8?fmp4&renditions
@@ -166,6 +170,18 @@ https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/sparkle-movies.png" group-title="סרטים",Sparkle Movies
 https://61fc4f1a40a342daa23f92141853b7b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_SparkleMovies/playlist.m3u8
 
+# Source: BDIX-IPTV; playback confirmed by user in SS IPTV on 2026-11-22; distribution rights and subtitle availability unverified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/amc-presents.png" group-title="סרטים",AMC Presents
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+
+# Source: BDIX-IPTV; playback confirmed by user in SS IPTV on 2026-11-22; distribution rights and subtitle availability unverified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/amc-triller.png" group-title="סרטים",AMC Thrillers
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+
+# Source: BDIX-IPTV; playback confirmed by user in SS IPTV on 2026-11-22; distribution rights and subtitle availability unverified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/comet.png" group-title="סרטים",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
 # ערוצים קלאסים באנגלית
 #EXTINF:-1 tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg" group-title="ערוצים קלאסים באנגלית",קלאסיקות
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
@@ -186,6 +202,10 @@ https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cinevault-westerns.png" group-title="ערוצים קלאסים באנגלית",Cinevault Westerns
 https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+
+# Source: BDIX-IPTV; playback confirmed by user in SS IPTV on 2026-11-22; distribution rights and subtitle availability unverified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cowboy-movie-channel.png" group-title="ערוצים קלאסים באנגלית",Cowboy Movie Channel
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 
 # סדרות
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
@@ -306,6 +326,10 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/karaoke/live.livx/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/radios_100fm.png" group-title="מוזיקה ורדיו מצולם",רדיוס 100FM - וידאו
 https://cdn.cybercdn.live/Radios_100FM/Video/playlist.m3u8
 
+# Source: BDIX-IPTV; playback confirmed by user in SS IPTV on 2026-11-22; distribution rights and subtitle availability unverified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/now-80-s.png" group-title="מוזיקה ורדיו מצולם",NOW 80s
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+
 # טבע ודוקו
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/teva_israel_hd.png" group-title="טבע ודוקו",ערוץ הטבע
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/teva_channel/live.livx/playlist.m3u8
@@ -344,6 +368,10 @@ https://d3v8uchko88gmi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/documentary-usa.png" group-title="דוקו והיסטוריה באנגלית",Documentary+ USA
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+
+# Source: BDIX-IPTV; playback confirmed by user in SS IPTV on 2026-11-22; distribution rights and subtitle availability unverified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cgtn-documentary.png" group-title="דוקו והיסטוריה באנגלית",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 # טיולים באנגלית
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
@@ -465,21 +493,9 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_subs/liv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="חדשים לבדיקה",ערוץ 14 - גרסת כתוביות לבדיקה
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/ch14_subs/live.livx/playlist.m3u8?fmp4&renditions
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/amc-presents.png" group-title="חדשים לבדיקה",AMC Presents
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/amc-triller.png" group-title="חדשים לבדיקה",AMC Thrillers
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/comet.png" group-title="חדשים לבדיקה",Comet
-https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cowboy-movie-channel.png" group-title="חדשים לבדיקה",Cowboy Movie Channel
-https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 
 # Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/made-in-hollywood.png" group-title="חדשים לבדיקה",Made in Hollywood
@@ -501,9 +517,6 @@ https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/la
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ax-men.png" group-title="חדשים לבדיקה",Ax Men
 https://bcadcc64.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BeE1lbl9ITFM/playlist.m3u8?ads.wurl_channel=1634&ads.wurl_name=AxMen&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cgtn-documentary.png" group-title="חדשים לבדיקה",CGTN Documentary
-https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 # Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/choppertown.png" group-title="חדשים לבדיקה",Choppertown
@@ -645,17 +658,11 @@ https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/xite-hits-germany-1080p.png" group-title="חדשים לבדיקה",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/now-80-s.png" group-title="חדשים לבדיקה",NOW 80s
-https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
 # Source: Free-TV/IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="חדשים לבדיקה",FOX Live Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-# Source: public broadcaster or free FAST distributor; CGTN international English news as distributed free by broadcaster; STING carriage does not imply identical captions.
-#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/cgtn_news_hd.png" group-title="חדשים לבדיקה",CGTN HD - בדיקה
-https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
 # Source: public broadcaster or free FAST distributor; France 24 official French-language HLS; availability, captions and LG playback not yet verified.
 #EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="חדשים לבדיקה",France 24 Français - בדיקה
