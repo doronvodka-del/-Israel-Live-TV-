@@ -1,21 +1,53 @@
 # היקף מחקר מעודכן – 22.11.2026
 
-**היקף נוכחי לפי בקשות בעל המאגר:** להמשיך לחפש בערוצי **HOT, STING TV / STING+, FreeTV, yes, NEXT TV, סלקום TV+, Disney+ ישראל, HBO Max ישראל**, ובנוסף **שידורים קהילתיים וחבילות ערוצים שקיימות ב־GitHub** בהתאם להרחבה מ־22.11.2026. חבילת GitHub משמשת מקור לגילוי; בודקים כל ערוץ וכתובת בנפרד, ולא מייבאים חבילה שלמה או משכפלים ערוץ קיים.
+**הוראה עדכנית ומחייבת של בעל המאגר:** לחפש ולהוסיף מועמדים **רק מערוצי HOT, STING TV / STING+, FreeTV, yes, NEXT TV, סלקום TV+, Disney+ ישראל ו־HBO Max ישראל**. שפות מותרות: **עברית ואנגלית בלבד**. יש לאמת שהערוץ מופיע באחד משמונת השירותים. ההרחבה הקודמת לשידורים קהילתיים שאינם בחבילות אלה ולשפות אחרות בוטלה בבקשת המשתמש האחרונה.
 
-**מקורות רשמיים לסיווג:**
+**מקורות גילוי:** המשתמש אישר במפורש גם קישורים לא רשמיים ופיראטיים שפורסמו בפומבי, ובכלל זה חבילות GitHub. רשימת GitHub היא מקור למציאת כתובת; היא אינה הוכחה לשם הערוץ, לשפה, לניגון או להרשאת הפצה. אין להחליף ערוץ בגרסת FAST אחרת רק מפני שהמותג דומה.
+
+**כללי עבודה שאושרו:** להוסיף מועמדים ל־**חדשים לבדיקה**; רק לאחר אישור ניגון של דורון ב־LG/SS IPTV להעביר לקטגוריית תוכן. להימנע מכפילויות וגרסאות איכות של אותו ערוץ, ולשמר ערוצים קיימים. אין לשמור פרטי כניסה אישיים, JWT של מנוי או מפתחות DRM. מזהה אטום בכתובת ציבורית לבדו אינו מוכיח שמדובר בפרטי חשבון.
+
+**מקורות רשמיים לאימות שיוך לחבילה:**
+
 - HOT: https://www.hot.net.il/heb/tv/channels/hotchannels/
-- yes / STING+: https://www.yes.co.il/content/channels-index/ וגם https://www.yes.co.il/content/stingplus/
+- yes / STING+: https://www.yes.co.il/content/channels-index/ ; https://www.yes.co.il/content/stingplus/
 - FreeTV: https://freetv.tv/tvchannels
 - סלקום TV+: https://cellcom.co.il/production/Private/cellcomtv/channels/
-- NEXT TV: לבדוק זכאות ומבחר עצמאית; לא להניח שכל ערוץ של HOT כלול גם ב־NEXT
-- Disney+ ישראל: https://www.disneyplus.com/en-il — שירות VOD. אין ליצור ערוץ M3U עבור דף סדרה/סרט
-- HBO Max ישראל: https://www.hbomax.com/ — זמין בישראל החל מ־13.01.2026; ספריית VOD אינה קישור M3U8 לערוץ חי
+- NEXT TV: לבדוק את רשימת NEXT עצמאית; אין להניח שכל ערוץ HOT כלול.
+- Disney+ ישראל: https://www.disneyplus.com/en-il
+- HBO Max ישראל: https://www.hbomax.com/il/he
 
-**ממצאי סקירה ממוקדת:** בקובץ הפעיל קיימים כבר רבים מערוצי FreeTV בעלי כתובות שידור פומביות שאותרו, לרבות סרטים, דרמה וקומדיה; לא להעתיקם שוב בשם אחר. קישורי סלקום ממאגר הקהילה il90il90/m3u-tv/cell.m3u מכילים טוקנים חתומים; לא אומת שהם פועלים ב־SS IPTV ואין לשכפל טוקנים למאגר הציבורי. קישורי HOT/yes מקהילות מזוהים לעיתים כלא עובדים.
+**עדיפות מחקר:** סרטים וסדרות בעברית או באנגלית: HOT Cinema 2–5, HOT Comedy/REAL, yes TV Drama/Action/Comedy, yes Movies Drama/Comedy/Kids, ערוצי הסרטים והסדרות של סלקום, ותוספות ייחודיות של FreeTV. תכני Disney+/HBO Max צריכים להיות מזוהים עם השירות בישראל; שם ערוץ HBO או Disney ממדינה אחרת אינו מספיק. דף VOD אינו כתובת שידור חי.
 
-**יעדי עדיפות:** HOT Cinema 2–5, HOT Comedy, HOT REAL; yes TV Drama/Action/Comedy, yes Movies Drama/Comedy/Kids; STING+ אותם ערוצים רק כשכלולים בפועל; סלקום Action/Comedy/Drama/Family Movies וסלקום סדרות; ערוצים ייחודיים של FreeTV. NEXT TV – לאתר קודם רשימת ערוצים מדויקת. Disney+/HBO Max – לבדוק רק ערוצי Live רשמיים אם קיימים עבור ישראל, לא תכני VOD.
+## סבב ממוקד לאחר תיקון ההיקף – 22.11.2026
 
-**כללי פעולה:** הוספה ל־M3U רק עם כתובת שידור ישירה חדשה לשם ערוץ מזוהה; יש לציין מקור וסטטוס ניגון לא מאומת; להימנע מכפילויות; לא לשנות ערוצים תקינים שאושרו; לא לשמור קישורי הרשאה אישיים בענף הציבורי. סטטוס תקין רק לאחר בדיקת המשתמש ב־LG/SS IPTV.
+נמצאו שלושה קישורי שידור חדשים לערוצים באנגלית הנכללים ב־HOT. שלושתם נוספו לקבוצת **חדשים לבדיקה**, ללא כפל עם CNN Fast או FOX Live Now. סך הרשומות כעת **290**, ב־21 קבוצות. אין עדיין אישור ניגון ב־LG/SS IPTV. [שינוי הפלייליסט](https://github.com/doronvodka-del/-Israel-Live-TV-/commit/9b81bb0af0d4a482c864cdc154c4ed77e32d6ae7).
+
+| ערוץ | שיוך לחבילה | בדיקה טכנית | הערה |
+|---|---|---|---|
+| CNN International Europe | HOT, אפיק 205 | master, מדיה ומקטע MPEG-TS החזירו 200; H.264 1280×720, AAC עם שפה eng | תמונת CNN Newsroom חי עם שעון CET אומתה; master מציע גם 1080p |
+| FOX News Channel | HOT, אפיק 202 | master, מדיה ומקטע החזירו 200; H.264 768×432, AAC בבדיקה השנייה | בדיקה ראשונה ללא אודיו; יש לשים לב ליציבות הקול. מיתוג FOX News חי אומת |
+| Fox Business Network | HOT, אפיק 206 | master, מדיה ומקטע החזירו 200; H.264 768×432 ו־AAC | בזמן הבדיקה תוכנית פרסומית; התוכנית תאמה לדגימה מהתצוגה הרשמית, אך לא נראה לוגו ערוץ |
+
+מקור שלוש הכתובות: [iptv-org/iptv, streams/us.m3u](https://github.com/iptv-org/iptv/blob/master/streams/us.m3u), קובץ SHA `215833e367019644ab880a054d72dbd437ae5b11`. אין במניפסטי המדיה שנבדקו EXT-X-KEY או ENDLIST. הלוגואים נלקחו מ־iptv-org/database/data/logos.csv ונבדקו כקובצי PNG נגישים.
+
+כתובות master שנמצאו:
+
+- CNN International: https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+- FOX News: https://tvsen6.aynaott.com/foxnews/index.m3u8
+- Fox Business: https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+
+### מקורות נוספים שנמצאו אך לא אומתו להפעלה
+
+- **HOT Cinema 1–4, HOT8, HOT Comedy:** ב־[adir92781/ADIR, EVERYworld.m3u8](https://github.com/adir92781/ADIR/blob/72db56ae3493a9c7e01c65f3d87abd9de04d2d12/EVERYworld.m3u8) וב־[Mogo1346/mogostream](https://github.com/Mogo1346/mogostream/blob/main/channels.html) נמצאו כתובות str2.iptvhd.ru. הכתובות המדויקות Gold/action/fun/drama/channel8/HOTComedy החזירו 403. בגוף תגובת Gold הודעת הגנת שרת השידור. אין אימות HLS, שפה או מקטע. אותן בדיקות ב־Channel8 וב־HOTCOMEDY באותיות שונות החזירו 404.
+- **ערוצי yes סרטים, סדרות ודוקו:** [asheramram1-cloud/Playlist-1](https://github.com/asheramram1-cloud/Playlist-1/blob/main/playlist1.m3u) ו־Mogo מפרסמים תשעה קישורים שונים, לרבות חלופה ל־yes Movies Action הקיים. דומיין הממסר נחסם בסביבת הבדיקה עם `x-openai-site-blocked: true`; אין להסיק מכך שהקישורים מתים.
+- **yes Movies Kids/Action/Comedy:** שלוש כתובות zekonew.newkso.ru שפורסמו ב־[rotemgrim/rooster-x, streams-old2.m3u](https://github.com/rotemgrim/rooster-x/blob/master/streams-old2.m3u) נחסמו אף הן בסביבת הבדיקה. לא נעשו ניסיונות עקיפה.
+- חלופות yes TV Drama ממקורות אחרים החזירו 401/404/503. המקורות הנוספים של סלקום לא סיפקו בסבב זה תוספת חדשה שאומתה.
+- Discovery MEA החזיר וידאו וקול באנגלית אך נראו כתוביות ערביות צרובות, ולא אומתה גרסת ישראל; אינו נכלל בתוספת.
+- לא נמצאה בסבב זה תוספת חדשה שאומתה עבור FreeTV, NEXT, Disney+ ישראל או HBO Max ישראל. ערוצי FreeTV המקוריים המרכזיים כבר מופיעים בפלייליסט.
+
+## היסטוריית מחקר — ההוראה העדכנית בראש הקובץ גוברת
+
+הסעיפים הבאים מתעדים סבבים קודמים, כולל ההיקף הרחב שהיה בתוקף אז. אין להשתמש בהם כהיתר להרחיב את החיפוש הנוכחי.
 
 ## שידורים קהילתיים וחבילות GitHub – 22.11.2026
 
