@@ -70,6 +70,25 @@
 4. **תיעדוף הבא:** קישור קבוע או מקור חלופי אמין ל־yes+ LOVE/DARK/CINEMA/DIAMONDS; HOT Cinema 2–5; סלקום סדרות וסרטים; אימות NEXT נוכחי.
 
 
+## סריקה נוספת ממוקדת – 22.11.2026
+
+**היקף:** HOT, yes, STING+, NEXT TV, FreeTV, סלקום TV+, Disney+ ישראל, HBO Max ישראל בלבד. אין להוסיף ערוצי מדינות זרות שאינם מוצעים בידי ספקים אלה.
+
+**מקורות חדשים והחלטות:**
+
+1. [asheramram1-cloud/Playlist-1](https://github.com/asheramram1-cloud/Playlist-1/blob/main/playlist1.m3u) – מאגר ציבורי שנדחף ב־22.11.2026. מופיעים בו 40 ערוצים וביניהם HOT Cinema 1–5, HOT Comedy, HOT Israeli Cinema, yes TV Comedy, yes Movies Drama/Comedy/Action ו־yes Israeli. **הקישורים עוברים דרך ממסר צד שלישי עם מקטע הרשאה משותף בנתיב**. לא בוצעה בדיקת ניגון ולא נמצאה אסמכתא להרשאת הפצה; לא להעתיק את הנתיבים לפלייליסט הציבורי ללא בדיקת גישה, קביעות וסיכון לחשיפת הרשאות.
+2. [aria-tv/aria ישראל](https://github.com/aria-tv/aria/blob/main/aria%2B/israel.m3u) – כולל HOT Comedy בכתובת ישירה `http://str2.iptvhd.ru:8080/HOTCOMEDY/index.m3u8`, אך מטא־נתוני המאגר מציינים **not-working**. במראה של המאגר היא אף סומנה כ־HOT Senior על אף שם URL אחר. **סיווג: קישור חשוד/לא אמין; לא להוסיף ל־M3U בלי אישור ניגון**.
+3. [ianir-horn/IPTVIL/M3U1](https://github.com/ianir-horn/IPTVIL/blob/master/M3U1) – 48 מקורות לכאורה מהפצת סלקום, כולל Nat Geo Wild, National Geographic, E!, Food Network ו־Disney Junior. אולם מועד העדכון האחרון של המאגר הוא **2019-09-22**. מדובר במקור היסטורי ולא חדש; אין להסיק מהקישורים שהוא פעיל ב־2026.
+4. FreeTV – השוואה מול [הקטלוג הרשמי](https://freetv.tv/tvchannels) ומול `Israel_Live_TV_Doron.m3u` העלתה שכבר קיימות רשומות לערוצי הסרטים (Action, Comedy, Drama, Thriller, Horror, Romantic, Feel Good, Family, Israeli, 10STARS), הקומדיה והדרמה. לא להוסיף אותן מחדש תחת שם אחר.
+5. [סלקום tv+ – אינדקס רשמי](https://cellcom.co.il/production/Private/cellcomtv/channels/) – אישר קיומם של סלקום Action/Comedy/Drama/Family Movies, סדרות, דוקו, סרטים ישראליים, ערוץ קומדיות קלאסיות, E!, Discovery, National Geographic ו־Nat Geo Wild. במאגר הקהילה [cell.m3u](https://github.com/il90il90/m3u-tv/blob/main/cell.m3u) 87 רשומות עם URL חתום, ללא אימות ניגון ב־LG.
+6. yes+ LOVE ו־yes+ DARK אושרו בדף [yes הרשמי](https://www.yes.co.il/content/yes-magazine/yesrec_2026-03-12/), אבל לא נמצא מקור HLS פשוט וקבוע שאומת בישראל. Disney+ ו־HBO Max ישראל: לא נמצא קישור ישיר לערוץ ליניארי; אתרי השירות מציגים בעיקר ספריות VOD.
+7. [IPTV Cat – ישראל](https://iptvcat.net/asia/43) מסמן בתאריך 21.11.2026 את yes Movies Action כ־**לא נגיש**, כך שאין ראיה שקישור הציבורי הקיים יחזור לעבוד. לבדוק רק מקור שונה בפועל.
+
+**סיכום סריקה:** נמצאו *מקורות מחקר חדשים ושמות ערוצים חסרים*, אך אין כרגע קישור חדש שאומת כנגיש ב־SS IPTV בישראל ושאינו כפול. **לא שונה הפלייליסט הפעיל** (281 רשומות בזמן הסריקה). עלות החלפת קישורים תקינים בקישורי צד שלישי לא יציבים גבוהה מהתועלת.
+
+**עדיפות לסבב הבא:** תחילה HOT Cinema 2–5 / HOT Comedy ממקור שידור שונה ושאינו תלוי בהרשאת לקוח מזדמנת; אחר כך yes+ LOVE/DARK ו־yes Movies Drama/Comedy, סלקום סדרות וסרטים. לבדוק שהערוץ אכן ישראלי ושהשידור אינו ערוץ בינלאומי בעל שם דומה.
+
+
 ---
 
 ## מחקר היסטורי מלפני שינוי ההיקף (לייחוס בלבד; אינו הוראה להמשך חיפוש)
