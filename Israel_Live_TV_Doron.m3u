@@ -126,6 +126,19 @@ https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 # Source: public CGTN broadcaster feed; playback confirmed by user in SS IPTV on 2026-11-22; STING subtitles are not implied.
 #EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/cgtn_news_hd.png" group-title="חדשות מהעולם",CGTN HD
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+# Source: dor2500/israel-tv-plus playlist.m3u: BBC-branded stream, geo restriction and LG playback not verified
+# Playback: user confirmed working in SS IPTV on 2026-11-22. Broadcast rights not verified.
+#EXTINF:-1 tvg-id="BBCNews.uk@World" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/bbc_news_hd.png" group-title="חדשות מהעולם",BBC News World
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+# Source: dor2500/israel-tv-plus playlist.m3u: community-listed FAST stream; authorized redistribution, availability and LG playback not verified
+# Playback: user confirmed working in SS IPTV on 2026-11-22. Broadcast rights not verified.
+#EXTINF:-1 tvg-id="ARTFLIXMovieClassics@FAST" group-title="חדשים לבדיקה",ARTFLIX Movie Classics - בדיקה
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+# Source: dor2500/israel-tv-plus playlist.m3u: CBS-branded stream, geo restriction and LG playback not verified
+# This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/cbs_news_hd.png" group-title="חדשות מהעולם",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 # ספורט
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-il.png" group-title="ספורט",ספורט 5
@@ -472,6 +485,14 @@ https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 # דווח מהטלוויזיה: FashionTV Europe אינו משדר (21.11.2026).
 #EXTINF:-1 tvg-id="FashionTVEurope.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="אין שידור כרגע",FashionTV Europe - בדיקה
 https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8
+# Source: aria-tv/aria aria+/israel.m3u: third-party restream labelled stable by list maintainer; possible unauthorized pay-TV redistribution; user playback and content unverified
+# Playback: user reports the channel displays a stopped-broadcasting message on 2026-11-22.
+#EXTINF:-1 tvg-id="HotSenior.il@Community" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-senior-il.png" group-title="חדשים לבדיקה",HOT Senior - מקור צד שלישי לבדיקה
+http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8
+# Source: dor2500/israel-tv-plus playlist.m3u: Sky-branded extra feed, regional access and LG playback unverified
+# This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
+#EXTINF:-1 tvg-id="SkyNewsAustraliaExtra1.au@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/sky_news.png" group-title="אין שידור כרגע",Sky News Australia Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
 # חדשים לבדיקה
 # מקור חלופי מתוך קטלוג iptv-org, ללא אימות צפייה או זכויות בישראל
@@ -753,28 +774,3 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 # This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
 #EXTINF:-1 tvg-id="Hot3.il@Community" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot3-il.png" group-title="חדשים לבדיקה",HOT 3 - מקור צד שלישי לבדיקה
 http://str2.iptvhd.ru:8080/hot3HD/index.m3u8
-
-# Source: aria-tv/aria aria+/israel.m3u: third-party restream labelled stable by list maintainer; possible unauthorized pay-TV redistribution; user playback and content unverified
-# This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
-#EXTINF:-1 tvg-id="HotSenior.il@Community" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-senior-il.png" group-title="חדשים לבדיקה",HOT Senior - מקור צד שלישי לבדיקה
-http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8
-
-# Source: dor2500/israel-tv-plus playlist.m3u: community-listed FAST stream; authorized redistribution, availability and LG playback not verified
-# This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
-#EXTINF:-1 tvg-id="ARTFLIXMovieClassics@FAST" group-title="חדשים לבדיקה",ARTFLIX Movie Classics - בדיקה
-https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
-
-# Source: dor2500/israel-tv-plus playlist.m3u: BBC-branded stream, geo restriction and LG playback not verified
-# This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
-#EXTINF:-1 tvg-id="BBCNews.uk@World" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/bbc_news_hd.png" group-title="חדשים לבדיקה",BBC News World - בדיקה
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-# Source: dor2500/israel-tv-plus playlist.m3u: CBS-branded stream, geo restriction and LG playback not verified
-# This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
-#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/cbs_news_hd.png" group-title="חדשים לבדיקה",CBS News 24/7 - בדיקה
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-# Source: dor2500/israel-tv-plus playlist.m3u: Sky-branded extra feed, regional access and LG playback unverified
-# This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
-#EXTINF:-1 tvg-id="SkyNewsAustraliaExtra1.au@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/sky_news.png" group-title="חדשים לבדיקה",Sky News Australia Extra 1 - בדיקה
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
