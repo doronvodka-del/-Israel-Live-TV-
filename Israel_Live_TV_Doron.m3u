@@ -672,4 +672,23 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="WallaYes.il" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/walla_yes_il.png" group-title="חדשים לבדיקה",וואלה!+ yes תרבות ובידור - בדיקה
 https://live.wcdn.co.il/yes/prog_index.m3u8
 
+# Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; Israeli French-language broadcaster; programme, broadcast availability and subtitles unverified on LG.
+#EXTINF:-1 tvg-id="ILTV.fr@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/iltv_fr.png" group-title="חדשים לבדיקה",ILTV ישראל בצרפתית - בדיקה
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+
+# Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; Jewish-focused English-language FAST stream distributed via Xumo/Ottera; not an Israeli cable stream.
+#EXTINF:-1 tvg-id="JLTV.us@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/jltv.png" group-title="חדשים לבדיקה",JLTV טלוויזיה יהודית - בדיקה
+https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
+
+# Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; Open Sky News UK official free news stream; listed by Israeli TV providers, captions may differ.
+#EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/sky_news.png" group-title="חדשים לבדיקה",Sky News UK - בדיקה
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8
+
+# Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; TV5MONDE free culinary FAST channel; distribution confirmed by TV5MONDE, Israel/SS IPTV playback not checked.
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/tv5monde_chefs_hd.png" group-title="חדשים לבדיקה",TV5MONDE Chefs - בדיקה
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+
+# Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; Condé Nast Bon Appetit free FAST culinary channel via Samsung Amagi, Israel/SS IPTV playback not checked.
+#EXTINF:-1 tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/bon_appetit_hd.png" group-title="חדשים לבדיקה",Bon Appétit - בדיקה
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
