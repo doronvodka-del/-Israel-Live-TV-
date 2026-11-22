@@ -952,3 +952,18 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 # Public HLS and MPEG-TS access checked 2026-11-22; Spanish language; LG/SS IPTV playback unverified.
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="Canal 24 Horas" tvg-logo="https://www.hot.net.il/UploadedImages/11_2014/49049_hot_24h_logo_59x49.jpg" group-title="חדשים לבדיקה",Canal 24 Horas - חדשות בספרדית - בדיקה
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+
+# Public third-party source found in https://github.com/iptv-org/iptv/blob/master/streams/us.m3u ; checked 2026-11-22.
+# HOT channel 205. English CNN International Europe; CNN Newsroom live identity visually checked. HLS + MPEG-TS H.264 720p/AAC eng checked; LG/SS IPTV playback unverified.
+#EXTINF:-1 tvg-id="CNNInternational.us@Europe" tvg-name="CNN International" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png" group-title="חדשים לבדיקה",CNN International - בדיקה
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+
+# Public third-party source found in https://github.com/iptv-org/iptv/blob/master/streams/us.m3u ; checked 2026-11-22.
+# HOT channel 202. English FOX News Channel, live branding visually checked. HLS + MPEG-TS H.264 768x432/AAC verified in second sample; first sample lacked audio. LG/SS IPTV playback unverified.
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-name="FOX News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="חדשים לבדיקה",FOX News - בדיקה
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+
+# Public third-party source found in https://github.com/iptv-org/iptv/blob/master/streams/us.m3u ; checked 2026-11-22.
+# HOT channel 206. English Fox Business Network. HLS + MPEG-TS H.264 768x432/AAC checked. Paid-programming sample matched official Fox Business preview; no channel logo visible in sample. LG/SS IPTV playback unverified.
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" tvg-name="Fox Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="חדשים לבדיקה",Fox Business - בדיקה
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
