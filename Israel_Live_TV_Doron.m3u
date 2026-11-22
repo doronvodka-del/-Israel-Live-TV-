@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 253 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 268 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -774,3 +774,79 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 # This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
 #EXTINF:-1 tvg-id="Hot3.il@Community" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot3-il.png" group-title="חדשים לבדיקה",HOT 3 - מקור צד שלישי לבדיקה
 http://str2.iptvhd.ru:8080/hot3HD/index.m3u8
+
+# 2026-11-22: movie, television-series and news candidates from community playlists. Channel names and URL discovery only; none verified in Israel/SS IPTV. Satellite/FAST app availability does not establish direct-stream reliability.
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סדרות דרמה ופשע.
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="IONPlus.us@SD" group-title="חדשים לבדיקה",ION Plus - בדיקה
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סדרות ובידור.
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="BounceXL.us@SD" group-title="חדשים לבדיקה",Bounce XL - בדיקה
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: מערבונים ואקשן.
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="GritXtra.us@SD" group-title="חדשים לבדיקה",Grit Xtra - בדיקה
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סרטים. Direct Xumo third-party FAST URL; HTTP link, test old LG
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="FilmRiseFreeMovies.us@SD" group-title="חדשים לבדיקה",FilmRise Free Movies - בדיקה
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סרטי פילם נואר.
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="TVSFilmNoir.us@SD" group-title="חדשים לבדיקה",TVS Film Noir - בדיקה
+https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: קולנוע נוסטלגי.
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us@SD" group-title="חדשים לבדיקה",TVS Nostalgia Movies - בדיקה
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סרטים קלאסיים.
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us@SD" group-title="חדשים לבדיקה",TVS Drive In Movie - בדיקה
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: תעלומות וסדרות.
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="TVSCipherNetwork.us@SD" group-title="חדשים לבדיקה",TVS Cipher Network - בדיקה
+https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: טלוויזיה נוסטלגית.
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="TVSFlashbackNetwork.us@SD" group-title="חדשים לבדיקה",TVS Flashback Network - בדיקה
+https://rpn.bozztv.com/gusa/gusa-TVSFlashback/index.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: פשע אמיתי.
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="AmericanCrimeChannel.us@SD" group-title="חדשים לבדיקה",American Crime Channel - בדיקה
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סרטים. Pluto US stream; may be geo restricted and HTTP
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us@FAST" group-title="חדשים לבדיקה",Paramount Movie Channel - בדיקה
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סדרות דרמה. Pluto US stream; may be geo restricted and HTTP
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="PlutoTVDrama.us@FAST" group-title="חדשים לבדיקה",Pluto TV Drama - בדיקה
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סדרות קומדיה. Pluto US stream; may be geo restricted and HTTP
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="PlutoTVComedy.us@FAST" group-title="חדשים לבדיקה",Pluto TV Comedy - בדיקה
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: אקטואליה. Broadcaster continued operating in FAST distribution in 2026
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="ScrippsNews.us@SD" group-title="חדשים לבדיקה",Scripps News - בדיקה
+https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: אקטואליה קצרה. The iptv-org label is CNN International North America but URL identifies CNNFAST_GB; exact programming unverified
+# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
+#EXTINF:-1 tvg-id="CNNFast.us@SD" group-title="חדשים לבדיקה",CNN Fast - בדיקה
+https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
