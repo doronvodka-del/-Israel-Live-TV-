@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 283 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 287 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -723,8 +723,8 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="WallaYes.il" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/walla_yes_il.png" group-title="חדשים לבדיקה",וואלה!+ yes תרבות ובידור - בדיקה
 https://live.wcdn.co.il/yes/prog_index.m3u8
 
-# Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; Israeli French-language broadcaster; programme, broadcast availability and subtitles unverified on LG.
-#EXTINF:-1 tvg-id="ILTV.fr@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/iltv_fr.png" group-title="חדשים לבדיקה",ILTV ישראל בצרפתית - בדיקה
+# Identity corrected 2026-11-22: ILTV is local community television in Henin-Carvin, France. https://www.iltv.fr/presentation/ ; its official live page embeds Creacast using this exact HLS. LG playback unverified.
+#EXTINF:-1 tvg-id="ILTV.fr@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/iltv_fr.png" group-title="חדשים לבדיקה",ILTV - טלוויזיה מקומית בצרפת - בדיקה
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 
 # Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; Jewish-focused English-language FAST stream distributed via Xumo/Ottera; not an Israeli cable stream.
@@ -932,3 +932,23 @@ https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
 # Russian-language official live feed. HLS and MPEG-TS segment checked 2026-11-22; LG/SS IPTV playback unverified.
 #EXTINF:-1 tvg-name="Current Time TV" tvg-logo="https://www.currenttime.tv/Content/responsive/RFE/ru-RU-TV/img/webApp/ico-192x192.png" group-title="חדשים לבדיקה",Current Time - חדשות ודוקו ברוסית - בדיקה
 https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist.m3u8
+
+# Official Israeli social/community radio video: https://radiosol.co.il/live ; also found in junguler/m3u-radio-music-playlists/keep_one/israel.m3u.
+# HLS and media segment accessible 2026-11-22; H.264/AAC 720p50. LG/SS IPTV playback unverified.
+#EXTINF:-1 tvg-name="Radio Sol Live Video" tvg-logo="https://radiosol.co.il/wp-content/uploads/podcast1/2026/08/website_logo_padded.png" group-title="חדשים לבדיקה",רדיו סול - וידאו - בדיקה
+https://cdna.streamgates.net/RadioSol/LiveVideo/playlist.m3u8
+
+# Public Jewish community television: https://jbstv.org/watch-live embeds https://jbsdvr.tulix.tv/player/jbstv.php, which publishes this source.
+# Found through GitHub iptv-org/iptv; using current official Tulix CDN master. HLS/TS access checked 2026-11-22; LG/SS IPTV playback unverified.
+#EXTINF:-1 tvg-id="JBS.us" tvg-name="JBS Jewish Broadcasting Service" tvg-logo="https://swf.tulix.tv/iframe/jbstv/sitelogo.png" group-title="חדשים לבדיקה",JBS - טלוויזיה יהודית באנגלית - בדיקה
+https://rpn3.tulixcdn.com/jbstv-srt/srt-push/jbstv/playlist.m3u8
+
+# Found in LITUATUI/M3UPT/M3U/M3UPT.m3u; same source published by https://www.bfmtv.com/en-direct/ . HOT lists BFM TV at channel 142.
+# Official public HLS and MPEG-TS access checked 2026-11-22; French language; LG/SS IPTV playback unverified.
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://www.bfmtv.com/android-icon-192x192.png" group-title="חדשים לבדיקה",BFM TV - חדשות בצרפתית - בדיקה
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+# Found in LITUATUI/M3UPT and iptv-org/iptv; main channel identity confirmed by https://www.rtve.es/play/videos/directo/24h/ . HOT lists channel 158.
+# Public HLS and MPEG-TS access checked 2026-11-22; Spanish language; LG/SS IPTV playback unverified.
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="Canal 24 Horas" tvg-logo="https://www.hot.net.il/UploadedImages/11_2014/49049_hot_24h_logo_59x49.jpg" group-title="חדשים לבדיקה",Canal 24 Horas - חדשות בספרדית - בדיקה
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
