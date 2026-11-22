@@ -16,7 +16,7 @@
 - Disney+ ישראל: https://www.disneyplus.com/en-il
 - HBO Max ישראל: https://www.hbomax.com/il/he
 
-**עדיפות מחקר:** סרטים וסדרות בעברית או באנגלית: HOT Cinema 2–5, HOT Comedy/REAL, yes TV Drama/Action/Comedy, yes Movies Drama/Comedy/Kids, ערוצי הסרטים והסדרות של סלקום, ותוספות ייחודיות של FreeTV. תכני Disney+/HBO Max צריכים להיות מזוהים עם השירות בישראל; שם ערוץ HBO או Disney ממדינה אחרת אינו מספיק. דף VOD אינו כתובת שידור חי.
+**עדיפות מחקר:** סרטים, סדרות, אקטואליה **וערוצי אוכל ובישול** בעברית או באנגלית: HOT Cinema 2–5, HOT Comedy/REAL, yes TV Drama/Action/Comedy, yes Movies Drama/Comedy/Kids, ערוצי הסרטים והסדרות של סלקום, ותוספות ייחודיות של FreeTV. תכני Disney+/HBO Max צריכים להיות מזוהים עם השירות בישראל; שם ערוץ HBO או Disney ממדינה אחרת אינו מספיק. דף VOD אינו כתובת שידור חי.
 
 ## אישור ניגון של דורון — 13 ערוצים — 22.11.2026
 
@@ -38,6 +38,28 @@
 **תוצאת העדכון:** סך הרשומות **290**. קבוצת **חדשים לבדיקה** ירדה מ־**98** ל־**85** רשומות. נשמרו כל כתובות השידור, הלוגואים, מזהי הערוצים וסדר הרשומות. [שינוי הפלייליסט](https://github.com/doronvodka-del/-Israel-Live-TV-/commit/73f2f3ab893578b77b95ae0ff8837ae7fae23729).
 
 האישור חל על הערוצים הקיימים שדורון ציין במפורש, לרבות TV5MONDE Chefs. היקף חיפוש הערוצים החדשים נשאר כפי שהוגדר בראש הקובץ.
+
+## הרחבת היקף: ערוצי אוכל ובישול — 23.11.2026
+
+**הוראת המשתמש:** להמשיך רק בשמונת ספקי התוכן שבראש המסמך, בעברית או באנגלית, ולהוסיף את תחום ערוצי האוכל והבישול לצד סדרות, סרטים ואקטואליה. ניתן לחפש גם ברשימות GitHub ומקורות לא רשמיים. אין לשנות קטגוריות קיימות ללא בקשה.
+
+**קיימים בפלייליסט ואין לשכפל:** FreeTV אוכל, פודי/FOODY, Gusto TV, The Jamie Oliver Channel, Tastemade, Cooking Panda, Chef Champion, Bon Appétit ו־TV5MONDE Chefs. BBC Food כבר ברשימת „אין שידור כרגע”.
+
+**יעדים חסרים:**
+1. **ערוץ האוכל — HOT אפיק 38, yes/STING אפיק 73.** HOT מאשרת תוכניות בישול ישראליות ובינלאומיות. אין זה בהכרח אותו ערוץ כמו FreeTV אוכל. קהילות GitHub כגון Tomartsh/Stremio-KanBoxRepos ו־Fishenzon מציגות URL של Mako עם נתיב free_food, אך הוא עשוי להיות גרסת FreeTV אוכל שכבר קיימת. אין להוסיף אותו תחת השם ערוץ האוכל של HOT/yes ללא אימות תוכן.
+   - מקור רשמי: https://www.hot.net.il/heb/tv/channels/hotchannels/foodchannel/
+   - נתיב מחקר: https://github.com/Tomartsh/Stremio-KanBoxRepos/blob/master/classes/LiveTV.js
+   - ערוץ FreeTV אוכל: https://freetv.tv/tvchannels/free-tv-series-food
+2. **Food Network — HOT אפיק 183, סלקום אפיק 96; מופיע גם בקטלוג NEXT חיצוני.** אין להניח שהגרסה האמריקאית או הבריטית זהה לגרסת השידור המקומית.
+   - מקורות רשמיים: https://www.hot.net.il/heb/tv/channels/learningchannels/ וגם https://cellcom.co.il/production/Private/cellcomtv/channels/
+   - https://github.com/iptv-org/iptv/blob/master/streams/us.m3u — גרסה אמריקאית עם קישור שידור, לא אומתה בישראל או כגרסה ישראלית
+   - https://github.com/iptv-ch/iptv-ch.github.io/blob/master/netplus.m3u8 — גרסה בריטית דרך ספק שווייצרי, נגישות לא אומתה
+   - https://github.com/ianir-horn/IPTVIL/blob/master/M3U1 — תיעוד גרסה ישראלית מ־2019 בלבד
+   - https://github.com/il90il90/m3u-tv/blob/main/cell.m3u — קישור סלקום עם נתיב חתום; ללא בדיקת ניגון ואין להעתיק טוקן למאגר פומבי
+
+**תוצאה:** אין בסבב זה קישור חדש עם זיהוי ודאי לשידור הישראלי, לכן לא נוספו רשומות ל־M3U. סך הרשומות 290, והשידורים הקיימים לא שונו.
+
+**עדיפות הבאה:** (1) ערוץ האוכל הישראלי, (2) Food Network ישראל, (3) ערוצי אוכל נוספים שקיימים בפועל באחת משמונה החבילות. אין להוסיף ערוצים זרים אקראיים רק כי הם משדרים באנגלית.
 
 ## סבב ממוקד לאחר תיקון ההיקף – 22.11.2026
 
