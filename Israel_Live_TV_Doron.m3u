@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 231 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 247 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -692,3 +692,58 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/bon_appetit_hd.png" group-title="חדשים לבדיקה",Bon Appétit - בדיקה
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
+# 22.11.2026 — additional English-language film, series and current-affairs candidates; user playback testing pending.
+# Source: https://cinelife.com/ ; third-party Amagi public FAST feed
+# Test-only FAST/FTA candidate (סרטים ודוקו); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
+#EXTINF:-1 tvg-id="CineLife.us@SD" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="חדשים לבדיקה",CineLife
+https://magnolia-cinelife.amagi.tv/playlist.m3u8
+
+# Source: Sony/FAST Cinevault channel; Roku/Wurl distribution, not broadcaster homepage
+# Test-only FAST/FTA candidate (סרטי שנות השמונים); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
+#EXTINF:-1 tvg-id="Cinevault80s.us@SD" group-title="חדשים לבדיקה",Cinevault 80s
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+
+# Source: Sony/FAST Cinevault channel; Tubi distribution, regional access unverified
+# Test-only FAST/FTA candidate (סרטים קלאסיים); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
+#EXTINF:-1 tvg-id="CinevaultClassics.us@SD" group-title="חדשים לבדיקה",Cinevault Classics
+https://aegis-cloudfront-1.tubi.video/9ab6d1a7-9ab7-4281-8fde-e067ca002830/playlist.m3u8
+
+# Source: Filmzie FAST stream via Wurl/Zeasn European distributor
+# Test-only FAST/FTA candidate (סרטים); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
+#EXTINF:-1 tvg-id="Filmzie.gb@SD" group-title="חדשים לבדיקה",Filmzie Movies
+https://filmzie-filmzie-1-eu.zeasn.wurl.tv/playlist.m3u8
+
+# Source: FilmRise FAST via Xumo CDN; regional access unverified
+# Test-only FAST/FTA candidate (מדע בדיוני / סדרות וסרטים); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
+#EXTINF:-1 tvg-id="FilmRiseSciFi.us@SD" group-title="חדשים לבדיקה",FilmRise Sci-Fi
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885513/hls/master.m3u8?ads.xumo_channelId=88885513
+
+# Source: https://www.radialentertainment.com/truecrime ; Tubi FAST distributor
+# Test-only FAST/FTA candidate (סדרות פשע אמיתי); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
+#EXTINF:-1 tvg-id="FilmRiseTrueCrime.us@SD" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="חדשים לבדיקה",FilmRise True Crime
+https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
+
+# Source: https://unsolved.com/watch/ ; Tubi public FAST distributor stream
+# Test-only FAST/FTA candidate (סדרת תעלומות); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
+#EXTINF:-1 tvg-id="FilmRiseUnsolvedMysteries.us@SD" group-title="חדשים לבדיקה",Unsolved Mysteries
+https://apollo.production-public.tubi.io/live/ac-unsolved-mysteries.m3u8
+
+# Source: https://www.cbsnews.com/live/48-hours/ ; Google DAI FAST feed
+# Test-only FAST/FTA candidate (סדרות פשע / תחקירים); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
+#EXTINF:-1 tvg-id="48Hours.us@US" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="חדשים לבדיקה",48 Hours
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+
+# Source: https://github.com/iptv-org/iptv/issues/58635 ; recent approved channel-controlled HLS candidate
+# Test-only FAST/FTA candidate (חדשות ואקטואליה); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="חדשים לבדיקה",Al Jazeera English
+https://live-hls-web-aje-gcp.thehlive.com/AJE/04.m3u8
+
+# Source: https://www.trtworld.com/ ; first-party TRT media CDN
+# Test-only FAST/FTA candidate (חדשות ואקטואליה); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="חדשים לבדיקה",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+# Source: Euronews-branded Akamai CDN, 2026 public stream candidate
+# Test-only FAST/FTA candidate (חדשות ואקטואליה); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" group-title="חדשים לבדיקה",Euronews English
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
