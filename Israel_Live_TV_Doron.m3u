@@ -693,16 +693,19 @@ https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/zoomoo.png" group-title="חדשים לבדיקה",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/stingray-classic-rock.png" group-title="חדשים לבדיקה",Stingray Classic Rock
+# Source: BDIX-IPTV; public FAST/FTA stream; user playback confirmation recorded below.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/stingray-classic-rock.png" group-title="מוזיקה ורדיו מצולם",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/stingray-remember-the-80s.png" group-title="חדשים לבדיקה",Stingray Remember the 80s
+# Source: BDIX-IPTV; public FAST/FTA stream; user playback confirmation recorded below.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/stingray-remember-the-80s.png" group-title="מוזיקה ורדיו מצולם",Stingray Remember the 80s
 https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/vevo-70s-80s.png" group-title="חדשים לבדיקה",Vevo 70s & 80s
+# Source: BDIX-IPTV; public FAST/FTA stream; user playback confirmation recorded below.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/vevo-70s-80s.png" group-title="מוזיקה ורדיו מצולם",Vevo 70s & 80s
 https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jlzlygsoesvmj/Vevo70sand80s_GB.m3u8
 
 # Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
@@ -710,8 +713,9 @@ https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 
 
-# Source: Free-TV/IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="חדשים לבדיקה",FOX Live Now
+# Source: Free-TV/IPTV; public FAST/FTA stream; user playback confirmation recorded below.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="חדשות מהעולם",FOX Live Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 
@@ -732,15 +736,18 @@ https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
 
 # Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; Open Sky News UK official free news stream; listed by Israeli TV providers, captions may differ.
-#EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/sky_news.png" group-title="חדשים לבדיקה",Sky News UK - בדיקה
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
+#EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/sky_news.png" group-title="חדשות מהעולם",Sky News UK
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8
 
-# Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; TV5MONDE free culinary FAST channel; distribution confirmed by TV5MONDE, Israel/SS IPTV playback not checked.
-#EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/tv5monde_chefs_hd.png" group-title="חדשים לבדיקה",TV5MONDE Chefs - בדיקה
+# Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; TV5MONDE free culinary FAST channel; distribution confirmed by TV5MONDE, user playback confirmation recorded below.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
+#EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/tv5monde_chefs_hd.png" group-title="אוכל ולייף סטייל",TV5MONDE Chefs
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 
-# Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; Condé Nast Bon Appetit free FAST culinary channel via Samsung Amagi, Israel/SS IPTV playback not checked.
-#EXTINF:-1 tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/bon_appetit_hd.png" group-title="חדשים לבדיקה",Bon Appétit - בדיקה
+# Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; Condé Nast Bon Appetit free FAST culinary channel via Samsung Amagi, user playback confirmation recorded below.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
+#EXTINF:-1 tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/bon_appetit_hd.png" group-title="אוכל ולייף סטייל",Bon Appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
 # 22.11.2026 — additional English-language film, series and current-affairs candidates; user playback testing pending.
@@ -750,8 +757,9 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 
 # Source: Sony/FAST Cinevault channel; Roku/Wurl distribution, not broadcaster homepage
-# Test-only FAST/FTA candidate (סרטי שנות השמונים); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
-#EXTINF:-1 tvg-id="Cinevault80s.us@SD" group-title="חדשים לבדיקה",Cinevault 80s
+# FAST/FTA stream (סרטי שנות השמונים); user playback confirmation recorded below.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
+#EXTINF:-1 tvg-id="Cinevault80s.us@SD" group-title="ערוצים קלאסים באנגלית",Cinevault 80s
 https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
 
 # Source: Sony/FAST Cinevault channel; Tubi distribution, regional access unverified
@@ -780,8 +788,9 @@ https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
 https://apollo.production-public.tubi.io/live/ac-unsolved-mysteries.m3u8
 
 # Source: https://www.cbsnews.com/live/48-hours/ ; Google DAI FAST feed
-# Test-only FAST/FTA candidate (סדרות פשע / תחקירים); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
-#EXTINF:-1 tvg-id="48Hours.us@US" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="חדשים לבדיקה",48 Hours
+# FAST/FTA stream (סדרות פשע / תחקירים); user playback confirmation recorded below.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
+#EXTINF:-1 tvg-id="48Hours.us@US" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="דוקו והיסטוריה באנגלית",48 Hours
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 
 # Source: https://github.com/iptv-org/iptv/issues/58635 ; recent approved channel-controlled HLS candidate
@@ -795,8 +804,9 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/04.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 # Source: Euronews-branded Akamai CDN, 2026 public stream candidate
-# Test-only FAST/FTA candidate (חדשות ואקטואליה); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" group-title="חדשים לבדיקה",Euronews English
+# FAST/FTA stream (חדשות ואקטואליה); user playback confirmation recorded below.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" group-title="חדשות מהעולם",Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 
 # 2026-11-22 — additional third-party sources and free-news FAST candidates; requires LG playback testing.
@@ -954,16 +964,19 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 # Public third-party source found in https://github.com/iptv-org/iptv/blob/master/streams/us.m3u ; checked 2026-11-22.
-# HOT channel 205. English CNN International Europe; CNN Newsroom live identity visually checked. HLS + MPEG-TS H.264 720p/AAC eng checked; LG/SS IPTV playback unverified.
-#EXTINF:-1 tvg-id="CNNInternational.us@Europe" tvg-name="CNN International" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png" group-title="חדשים לבדיקה",CNN International - בדיקה
+# HOT channel 205. English CNN International Europe; CNN Newsroom live identity visually checked. HLS + MPEG-TS H.264 720p/AAC eng checked; LG/SS IPTV playback confirmed by Doron 2026-11-22.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
+#EXTINF:-1 tvg-id="CNNInternational.us@Europe" tvg-name="CNN International" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/960px-CNN-International-Logo.svg.png" group-title="חדשות מהעולם",CNN International
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
 # Public third-party source found in https://github.com/iptv-org/iptv/blob/master/streams/us.m3u ; checked 2026-11-22.
-# HOT channel 202. English FOX News Channel, live branding visually checked. HLS + MPEG-TS H.264 768x432/AAC verified in second sample; first sample lacked audio. LG/SS IPTV playback unverified.
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-name="FOX News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="חדשים לבדיקה",FOX News - בדיקה
+# HOT channel 202. English FOX News Channel, live branding visually checked. HLS + MPEG-TS H.264 768x432/AAC verified in second sample; first sample lacked audio. LG/SS IPTV playback confirmed by Doron 2026-11-22.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-name="FOX News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="חדשות מהעולם",FOX News
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 
 # Public third-party source found in https://github.com/iptv-org/iptv/blob/master/streams/us.m3u ; checked 2026-11-22.
-# HOT channel 206. English Fox Business Network. HLS + MPEG-TS H.264 768x432/AAC checked. Paid-programming sample matched official Fox Business preview; no channel logo visible in sample. LG/SS IPTV playback unverified.
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" tvg-name="Fox Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="חדשים לבדיקה",Fox Business - בדיקה
+# HOT channel 206. English Fox Business Network. HLS + MPEG-TS H.264 768x432/AAC checked. Paid-programming sample matched official Fox Business preview; no channel logo visible in sample. LG/SS IPTV playback confirmed by Doron 2026-11-22.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" tvg-name="Fox Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="חדשות מהעולם",Fox Business
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
