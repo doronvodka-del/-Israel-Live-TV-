@@ -652,16 +652,18 @@ https://0a644b20819046a0935afa1cf6debf23.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/true-crime-uk.png" group-title="חדשים לבדיקה",True Crime UK
 https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8?ads.wurl_channel=1151&ads.wurl_name=TrueCrimeUKfromCBSReality&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/watch-mojo-eu.png" group-title="חדשים לבדיקה",Watch Mojo
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/watch-mojo-eu.png" group-title="בידור וריאליטי",Watch Mojo
 https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 # Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/wild-planet.png" group-title="חדשים לבדיקה",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/witness-to-justice.png" group-title="חדשים לבדיקה",Witness to Justice
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/witness-to-justice.png" group-title="דוקו והיסטוריה באנגלית",Witness to Justice
 https://dxwldsv8fdzik.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l2dz2a7mdvmzc/v1/aenetworks_witnesstojustice_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 # Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
@@ -727,8 +729,9 @@ https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/vevo-70s-80s.png" group-title="מוזיקה ורדיו מצולם",Vevo 70s & 80s
 https://d38e11bvtr8xdq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jlzlygsoesvmj/Vevo70sand80s_GB.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/xite-hits-germany-1080p.png" group-title="חדשים לבדיקה",XITE Hits
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/xite-hits-germany-1080p.png" group-title="מוזיקה ורדיו מצולם",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 
 
@@ -751,7 +754,8 @@ https://live.wcdn.co.il/yes/prog_index.m3u8
 https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 
 # Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; Jewish-focused English-language FAST stream distributed via Xumo/Ottera; not an Israeli cable stream.
-#EXTINF:-1 tvg-id="JLTV.us@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/jltv.png" group-title="חדשים לבדיקה",JLTV טלוויזיה יהודית - בדיקה
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-id="JLTV.us@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/jltv.png" group-title="דת וקהילה",JLTV טלוויזיה יהודית
 https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
 
 # Source: dor2500/israel-tv-plus and broadcaster/FAST channel catalog; Open Sky News UK official free news stream; listed by Israeli TV providers, captions may differ.
@@ -963,13 +967,15 @@ https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
 https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist.m3u8
 
 # Official Israeli social/community radio video: https://radiosol.co.il/live ; also found in junguler/m3u-radio-music-playlists/keep_one/israel.m3u.
-# HLS and media segment accessible 2026-11-22; H.264/AAC 720p50. LG/SS IPTV playback unverified.
-#EXTINF:-1 tvg-name="Radio Sol Live Video" tvg-logo="https://radiosol.co.il/wp-content/uploads/podcast1/2026/08/website_logo_padded.png" group-title="חדשים לבדיקה",רדיו סול - וידאו - בדיקה
+# HLS and media segment accessible 2026-11-22; H.264/AAC 720p50.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-name="Radio Sol Live Video" tvg-logo="https://radiosol.co.il/wp-content/uploads/podcast1/2026/08/website_logo_padded.png" group-title="מוזיקה ורדיו מצולם",רדיו סול - וידאו
 https://cdna.streamgates.net/RadioSol/LiveVideo/playlist.m3u8
 
 # Public Jewish community television: https://jbstv.org/watch-live embeds https://jbsdvr.tulix.tv/player/jbstv.php, which publishes this source.
-# Found through GitHub iptv-org/iptv; using current official Tulix CDN master. HLS/TS access checked 2026-11-22; LG/SS IPTV playback unverified.
-#EXTINF:-1 tvg-id="JBS.us" tvg-name="JBS Jewish Broadcasting Service" tvg-logo="https://swf.tulix.tv/iframe/jbstv/sitelogo.png" group-title="חדשים לבדיקה",JBS - טלוויזיה יהודית באנגלית - בדיקה
+# Found through GitHub iptv-org/iptv; using current official Tulix CDN master. HLS/TS access checked 2026-11-22;
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-id="JBS.us" tvg-name="JBS Jewish Broadcasting Service" tvg-logo="https://swf.tulix.tv/iframe/jbstv/sitelogo.png" group-title="דת וקהילה",JBS - טלוויזיה יהודית באנגלית
 https://rpn3.tulixcdn.com/jbstv-srt/srt-push/jbstv/playlist.m3u8
 
 # Found in LITUATUI/M3UPT/M3U/M3UPT.m3u; same source published by https://www.bfmtv.com/en-direct/ . HOT lists BFM TV at channel 142.
@@ -1000,21 +1006,24 @@ https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" tvg-name="Fox Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="חדשות מהעולם",Fox Business
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 
-# חדשים לבדיקה — אוכל, לייף סטייל ודוקו — 23.11.2026
+# אוכל, לייף סטייל ודוקו — ניגון אושר ב־23.11.2026
 # Public third-party source: https://github.com/sksobuj240/Live-TV-BOX/blob/main/alltv.m3u8 ; source blob 452ab351538c151c0439b5fb8478f21b78a50e33.
 # Food Network is listed by HOT at channel 183. English US programming observed; not verified as the Israeli regional feed. Cooking program and Food Network show promotion visually checked.
-# Checked 2026-11-23 (Asia/Jerusalem): HLS master, media playlist and MPEG-TS segments HTTP 200; H.264 768x432 + AAC. English speech detected in short audio samples; LG/SS IPTV playback NOT yet confirmed by Doron.
-#EXTINF:-1 tvg-name="Food Network English" tvg-logo="https://s3.aynaott.com/storage/582675c375dfa47c2d66e6639fcd2eac" group-title="חדשים לבדיקה",Food Network English - בדיקה
+# Checked 2026-11-23 (Asia/Jerusalem): HLS master, media playlist and MPEG-TS segments HTTP 200; H.264 768x432 + AAC. English speech detected in short audio samples.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-name="Food Network English" tvg-logo="https://s3.aynaott.com/storage/582675c375dfa47c2d66e6639fcd2eac" group-title="אוכל ולייף סטייל",Food Network English
 https://tvsen6.aynaott.com/foodnetwork/index.m3u8
 
 # Public third-party source: https://github.com/sksobuj240/Live-TV-BOX/blob/main/alltv.m3u8 ; source blob 452ab351538c151c0439b5fb8478f21b78a50e33.
 # National Geographic is listed by HOT at channel 46. Yellow channel logo and documentary visually checked. English regional feed; not verified as the Israeli regional feed.
-# Checked 2026-11-23 (Asia/Jerusalem): HLS master, media playlist and MPEG-TS segments HTTP 200; H.264 768x432 + AAC. English speech detected in short audio samples; LG/SS IPTV playback NOT yet confirmed by Doron.
-#EXTINF:-1 tvg-name="National Geographic English" tvg-logo="https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b" group-title="חדשים לבדיקה",National Geographic English - בדיקה
+# Checked 2026-11-23 (Asia/Jerusalem): HLS master, media playlist and MPEG-TS segments HTTP 200; H.264 768x432 + AAC. English speech detected in short audio samples.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-name="National Geographic English" tvg-logo="https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b" group-title="טבע ודוקו",National Geographic English
 https://tvsen6.aynaott.com/natgeo/index.m3u8
 
 # Public third-party source: https://github.com/sksobuj240/Live-TV-BOX/blob/main/alltv.m3u8 ; source blob 452ab351538c151c0439b5fb8478f21b78a50e33.
 # TLC is listed by yes at channel 205. Red TLC logo and 90 Day Fiance: The Other Way promotion visually checked in actual program sample. English US feed; not verified as the Israeli regional feed.
-# Checked 2026-11-23 (Asia/Jerusalem): HLS master, media playlist and MPEG-TS segments HTTP 200; H.264 768x432 + AAC. English speech detected in short audio samples; LG/SS IPTV playback NOT yet confirmed by Doron.
-#EXTINF:-1 tvg-name="TLC English" tvg-logo="https://s3.aynaott.com/storage/ba3c9fa1144bc65322f8ae3a1bb69cc9" group-title="חדשים לבדיקה",TLC English - בדיקה
+# Checked 2026-11-23 (Asia/Jerusalem): HLS master, media playlist and MPEG-TS segments HTTP 200; H.264 768x432 + AAC. English speech detected in short audio samples.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-name="TLC English" tvg-logo="https://s3.aynaott.com/storage/ba3c9fa1144bc65322f8ae3a1bb69cc9" group-title="בידור וריאליטי",TLC English
 https://tvsen6.aynaott.com/tlc_hd/index.m3u8
