@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 268 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 281 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -850,3 +850,69 @@ https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-o
 # Playback/rights/geo: unverified; testing only, not a confirmed working channel.
 #EXTINF:-1 tvg-id="CNNFast.us@SD" group-title="חדשים לבדיקה",CNN Fast - בדיקה
 https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
+
+# 2026-11-22 — UK and US movies, series, Israeli news candidates: testing only.
+# Source: gdydg/iptv uk.m3u: GREAT! Mystery FAST (LG UK). Programming focus: סדרות מתח ותעלומות.
+# Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
+#EXTINF:-1 tvg-id="GREATMystery.uk" tvg-logo="https://image-cdn.suggestedtv.com/api/client/v1/image/ac0cfdfd-868c-4894-8dd9-dbe9f1a18a74?tenant=GREAT&mode=fit&width=300&height=73&format=png" group-title="חדשים לבדיקה",GREAT! Mystery - בדיקה
+https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8
+
+# Source: iptv-ch netplus.m3u8; Swiss ISP relay, potentially geo-blocked. Programming focus: סרטים בריטיים ובינלאומיים.
+# Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
+#EXTINF:-1 tvg-id="Film4.uk" tvg-logo="https://picserve.netplus.ch/channels/film4.png" group-title="חדשים לבדיקה",Film4 - בדיקה
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+
+# Source: iptv-ch netplus.m3u8; Swiss ISP relay, potentially geo-blocked. Programming focus: סדרות דרמה ופשע.
+# Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-logo="https://picserve.netplus.ch/channels/itv3.png" group-title="חדשים לבדיקה",ITV3 - בדיקה
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+
+# Source: iptv-ch netplus.m3u8; Swiss ISP relay, potentially geo-blocked. Programming focus: סדרות ובידור.
+# Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://picserve.netplus.ch/channels/itv2.png" group-title="חדשים לבדיקה",ITV2 - בדיקה
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
+
+# Source: iptv-ch netplus.m3u8; Swiss ISP relay, potentially geo-blocked. Programming focus: אקשן וסדרות.
+# Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-logo="https://picserve.netplus.ch/channels/itv4.png" group-title="חדשים לבדיקה",ITV4 - בדיקה
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+
+# Source: iptv-ch netplus.m3u8; Swiss ISP relay, potentially geo-blocked. Programming focus: סדרות ודוקו.
+# Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
+#EXTINF:-1 tvg-id="More4.uk" tvg-logo="https://picserve.netplus.ch/channels/more4.png" group-title="חדשים לבדיקה",More4 - בדיקה
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
+
+# Source: iptv-ch netplus.m3u8; Swiss ISP relay, potentially geo-blocked. Programming focus: דרמה ואקטואליה.
+# Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-logo="https://picserve.netplus.ch/channels/channel4.png" group-title="חדשים לבדיקה",Channel 4 UK - בדיקה
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+
+# Source: iptv-ch netplus.m3u8; Swiss ISP relay, potentially geo-blocked. Programming focus: סדרות בריטיות ודוקו.
+# Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://picserve.netplus.ch/channels/bbc2.png" group-title="חדשים לבדיקה",BBC Two UK - בדיקה
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u; Warner CDN, catalog marks geo-blocked; access may require entitlement. Programming focus: סרטים קלאסיים.
+# Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
+#EXTINF:-1 tvg-id="TCM.us@East" group-title="חדשים לבדיקה",TCM US - בדיקה
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u; third-party relay, rights unknown and stream unstable. Programming focus: סרטים.
+# Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
+#EXTINF:-1 tvg-id="StarzCinema.us@East" group-title="חדשים לבדיקה",STARZ Cinema - בדיקה
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u; third-party relay, rights unknown and stream unstable. Programming focus: סרטי קומדיה.
+# Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
+#EXTINF:-1 tvg-id="StarzComedy.us@East" group-title="חדשים לבדיקה",STARZ Comedy - בדיקה
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u; third-party relay, rights unknown and stream unstable. Programming focus: סדרות מדע בדיוני.
+# Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
+#EXTINF:-1 tvg-id="SYFY.us@East" group-title="חדשים לבדיקה",SYFY US - בדיקה
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+
+# Source: dor2500/israel-tv-plus playlist.m3u; broadcaster-related CDN, actual programme and availability unverified. Programming focus: חדשות ישראליות.
+# Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
+#EXTINF:-1 tvg-id="YnetLive2.il" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/ynet_live_2_il.png" group-title="חדשים לבדיקה",Ynet Live 2 - בדיקה
+https://ynet-live-02.ynet-pic1.yit.co.il/ynet/live.m3u8
