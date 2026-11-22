@@ -140,6 +140,11 @@ https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/cbs_news_hd.png" group-title="חדשות מהעולם",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: אקטואליה קצרה. The iptv-org label is CNN International North America but URL identifies CNNFAST_GB; exact programming unverified
+# Playback: viewer confirmed working via SS IPTV on 2026-11-22; licensing not independently verified.
+#EXTINF:-1 tvg-id="CNNFast.us@SD" group-title="חדשות מהעולם",CNN Fast
+https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
+
 # ספורט
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-il.png" group-title="ספורט",ספורט 5
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8?fmp4&renditions
@@ -223,6 +228,21 @@ https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/cowboy-movie-channel.png" group-title="ערוצים קלאסים באנגלית",Cowboy Movie Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: מערבונים ואקשן.
+# Playback: viewer confirmed working via SS IPTV on 2026-11-22; licensing not independently verified.
+#EXTINF:-1 tvg-id="GritXtra.us@SD" group-title="ערוצים קלאסים באנגלית",Grit Xtra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: קולנוע נוסטלגי.
+# Playback: viewer confirmed working via SS IPTV on 2026-11-22; licensing not independently verified.
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us@SD" group-title="ערוצים קלאסים באנגלית",TVS Nostalgia Movies
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סרטים קלאסיים.
+# Playback: viewer confirmed working via SS IPTV on 2026-11-22; licensing not independently verified.
+#EXTINF:-1 tvg-id="TVSDriveInMovie.us@SD" group-title="ערוצים קלאסים באנגלית",TVS Drive In Movie
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+
 # סדרות
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/wonder.png" group-title="סדרות",Wonder
@@ -230,6 +250,16 @@ https://lds-wonder-plex.amagi.tv/playlist.m3u8
 # Candidate: fast-broadcast-candidate; source saeidrahmanbd/BDIX-IPTV; user playback, geo availability and subtitles not verified.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mythbusters.png" group-title="סדרות",Mythbusters
 https://d1cgf0ptrv4t22.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xvoparaodgcw9/Mythbusters_GB.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סדרות דרמה ופשע.
+# Playback: viewer confirmed working via SS IPTV on 2026-11-22; licensing not independently verified.
+#EXTINF:-1 tvg-id="IONPlus.us@SD" group-title="סדרות",ION Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
+# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סדרות ובידור.
+# Playback: viewer confirmed working via SS IPTV on 2026-11-22; licensing not independently verified.
+#EXTINF:-1 tvg-id="BounceXL.us@SD" group-title="סדרות",Bounce XL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 
 # טלנובלות
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/viva-il.png" group-title="טלנובלות",VIVA (ניסיוני)
@@ -776,20 +806,8 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 http://str2.iptvhd.ru:8080/hot3HD/index.m3u8
 
 # 2026-11-22: movie, television-series and news candidates from community playlists. Channel names and URL discovery only; none verified in Israel/SS IPTV. Satellite/FAST app availability does not establish direct-stream reliability.
-# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סדרות דרמה ופשע.
-# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
-#EXTINF:-1 tvg-id="IONPlus.us@SD" group-title="חדשים לבדיקה",ION Plus - בדיקה
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 
-# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סדרות ובידור.
-# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
-#EXTINF:-1 tvg-id="BounceXL.us@SD" group-title="חדשים לבדיקה",Bounce XL - בדיקה
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 
-# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: מערבונים ואקשן.
-# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
-#EXTINF:-1 tvg-id="GritXtra.us@SD" group-title="חדשים לבדיקה",Grit Xtra - בדיקה
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
 # Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סרטים. Direct Xumo third-party FAST URL; HTTP link, test old LG
 # Playback/rights/geo: unverified; testing only, not a confirmed working channel.
@@ -801,15 +819,7 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/
 #EXTINF:-1 tvg-id="TVSFilmNoir.us@SD" group-title="חדשים לבדיקה",TVS Film Noir - בדיקה
 https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
 
-# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: קולנוע נוסטלגי.
-# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
-#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us@SD" group-title="חדשים לבדיקה",TVS Nostalgia Movies - בדיקה
-https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
 
-# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: סרטים קלאסיים.
-# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
-#EXTINF:-1 tvg-id="TVSDriveInMovie.us@SD" group-title="חדשים לבדיקה",TVS Drive In Movie - בדיקה
-https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
 
 # Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: תעלומות וסדרות.
 # Playback/rights/geo: unverified; testing only, not a confirmed working channel.
@@ -846,10 +856,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae
 #EXTINF:-1 tvg-id="ScrippsNews.us@SD" group-title="חדשים לבדיקה",Scripps News - בדיקה
 https://aka-live1050.delivery.roku.com/a48b72c9-5755-4ede-9dac-9e51e4ca5cc8/t2-origin/out/v1/live.m3u8
 
-# Source: iptv-org/iptv streams/us.m3u and Free-TV/IPTV playlist.m3u8. Topic: אקטואליה קצרה. The iptv-org label is CNN International North America but URL identifies CNNFAST_GB; exact programming unverified
-# Playback/rights/geo: unverified; testing only, not a confirmed working channel.
-#EXTINF:-1 tvg-id="CNNFast.us@SD" group-title="חדשים לבדיקה",CNN Fast - בדיקה
-https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
 
 # 2026-11-22 — UK and US movies, series, Israeli news candidates: testing only.
 # Source: gdydg/iptv uk.m3u: GREAT! Mystery FAST (LG UK). Programming focus: סדרות מתח ותעלומות.
