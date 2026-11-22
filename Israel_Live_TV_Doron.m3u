@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 223 channels, 20 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 231 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -17,6 +17,9 @@ https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/knesset-channel-il.png" group-title="עידן פלוס",ערוץ הכנסת
 https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+# מקור: גרסת הנגישות של ערוץ הכנסת; דווח שעובדת ב-SS IPTV ב-22.11.2026.
+#EXTINF:-1 tvg-id="KnessetChannel.il@Accessibility" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/knesset_access.png" group-title="עידן פלוס",ערוץ הכנסת - גרסה נגישה
+https://kneset.gostreaming.tv/p2-Accessibility/_definst_/myStream/index.m3u8
 #EXTINF:-1 tvg-id="EconomyChannel.il@SD" tvg-name="ערוץ הכלכלה" tvg-logo="https://cdn.prod.website-files.com/585add3ba0a6bcf72f81e349/68d0163d58d10bad390f1503_%D7%A2%D7%A8%D7%95%D7%A5%20%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%94.png" group-title="עידן פלוס",כלכלה 10
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png" group-title="עידן פלוס",כאן חינוכית
@@ -662,7 +665,4 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="WallaYes.il" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/walla_yes_il.png" group-title="חדשים לבדיקה",וואלה!+ yes תרבות ובידור - בדיקה
 https://live.wcdn.co.il/yes/prog_index.m3u8
 
-# Source: dor2500/israel-tv-plus playlist.m3u; Knesset accessibility rendition; alternate source URL; accessibility, programme identity and TV playback to be verified.
-#EXTINF:-1 tvg-id="KnessetChannel.il@Accessibility" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/knesset_access.png" group-title="חדשים לבדיקה",ערוץ הכנסת - גרסה נגישה לבדיקה
-https://kneset.gostreaming.tv/p2-Accessibility/_definst_/myStream/index.m3u8
 
