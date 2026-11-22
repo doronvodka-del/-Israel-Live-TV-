@@ -137,9 +137,9 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@World" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/bbc_news_hd.png" group-title="חדשות מהעולם",BBC News World
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-# Source: dor2500/israel-tv-plus playlist.m3u: community-listed FAST stream; authorized redistribution, availability and LG playback not verified
-# Playback: user confirmed working in SS IPTV on 2026-11-22. Broadcast rights not verified.
-#EXTINF:-1 tvg-id="ARTFLIXMovieClassics@FAST" group-title="חדשים לבדיקה",ARTFLIX Movie Classics - בדיקה
+# Source: dor2500/israel-tv-plus playlist.m3u; community-listed FAST stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-id="ARTFLIXMovieClassics@FAST" group-title="ערוצים קלאסים באנגלית",ARTFLIX Movie Classics
 https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 # Source: dor2500/israel-tv-plus playlist.m3u: CBS-branded stream, geo restriction and LG playback not verified
 # This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
@@ -528,31 +528,38 @@ http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 
 # חדשים לבדיקה
-# מקור חלופי מתוך קטלוג iptv-org, ללא אימות צפייה או זכויות בישראל
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5plus-il.png" group-title="חדשים לבדיקה",ספורט 5 פלוס - מקור חלופי לבדיקה
+# מקור חלופי מתוך קטלוג iptv-org.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5plus-il.png" group-title="ספורט",ספורט 5 פלוס - מקור חלופי
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
-# מקור חלופי מתוך קטלוג iptv-org, ללא אימות צפייה או זכויות בישראל
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5stars-il.png" group-title="חדשים לבדיקה",ספורט 5 סטארס - מקור חלופי לבדיקה
+# מקור חלופי מתוך קטלוג iptv-org.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5stars-il.png" group-title="ספורט",ספורט 5 סטארס - מקור חלופי
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
-# Candidate: hebrew-subtitle-candidate; source il90il90/m3u-tv; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/kan11-il.png" group-title="חדשים לבדיקה",כאן 11 - גרסת כתוביות לבדיקה
+# Source: il90il90/m3u-tv; Hebrew-subtitle variant.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/kan11-il.png" group-title="עידן פלוס",כאן 11 - גרסת כתוביות
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/kan11_subs/live.livx/playlist.m3u8?fmp4&renditions
-# Candidate: hebrew-subtitle-candidate; source il90il90/m3u-tv; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/keshet12-il.png" group-title="חדשים לבדיקה",קשת 12 - גרסת כתוביות לבדיקה
+# Source: il90il90/m3u-tv; Hebrew-subtitle variant.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/keshet12-il.png" group-title="עידן פלוס",קשת 12 - גרסת כתוביות
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_subs/live.livx/playlist.m3u8?fmp4&renditions
-# Candidate: hebrew-subtitle-candidate; source il90il90/m3u-tv; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/reshet13-il.png" group-title="חדשים לבדיקה",רשת 13 - גרסת כתוביות לבדיקה
+# Source: il90il90/m3u-tv; Hebrew-subtitle variant.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/reshet13-il.png" group-title="עידן פלוס",רשת 13 - גרסת כתוביות
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_subs/live.livx/playlist.m3u8?fmp4&renditions
-# Candidate: hebrew-subtitle-candidate; source il90il90/m3u-tv; user playback, geo availability and subtitles not verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="חדשים לבדיקה",ערוץ 14 - גרסת כתוביות לבדיקה
+# Source: il90il90/m3u-tv; Hebrew-subtitle variant.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="עידן פלוס",ערוץ 14 - גרסת כתוביות
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/ch14_subs/live.livx/playlist.m3u8?fmp4&renditions
 
 
 
 
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/made-in-hollywood.png" group-title="חדשים לבדיקה",Made in Hollywood
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/made-in-hollywood.png" group-title="בידור וריאליטי",Made in Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 
 # Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
@@ -560,25 +567,29 @@ https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 https://amg00771-kochfilmsgerman-moviedomefamily-tcl-tpicw.amagi.tv/playlist/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
 
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/alone.png" group-title="חדשים לבדיקה",Alone
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/alone.png" group-title="בידור וריאליטי",Alone
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ax-men.png" group-title="חדשים לבדיקה",Ax Men
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/ax-men.png" group-title="בידור וריאליטי",Ax Men
 https://bcadcc64.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BeE1lbl9ITFM/playlist.m3u8?ads.wurl_channel=1634&ads.wurl_name=AxMen&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/choppertown.png" group-title="חדשים לבדיקה",Choppertown
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/choppertown.png" group-title="דוקו והיסטוריה באנגלית",Choppertown
 https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8
 
 # Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/crime-and-justice.png" group-title="חדשים לבדיקה",Crime & Justice
 https://d1vsdt3c2xcxl2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h309rib7av3rk/playlist.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/deadly-women.png" group-title="חדשים לבדיקה",Deadly Women
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/deadly-women.png" group-title="דוקו והיסטוריה באנגלית",Deadly Women
 https://d1mgh147xpmgs8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c1w8i9yzp8w93/DeadlyWomen_GB.m3u8
 
 # Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
@@ -589,36 +600,44 @@ https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/epic-crimes.png" group-title="חדשים לבדיקה",Epic Crimes
 https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/history-warfare-now.png" group-title="חדשים לבדיקה",History & Warfare Now
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/history-warfare-now.png" group-title="דוקו והיסטוריה באנגלית",History & Warfare Now
 https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/infast.png" group-title="חדשים לבדיקה",InFast
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/infast.png" group-title="בידור וריאליטי",InFast
 https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/inside-crime.png" group-title="חדשים לבדיקה",Inside Crime
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/inside-crime.png" group-title="דוקו והיסטוריה באנגלית",Inside Crime
 https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/inwonder.png" group-title="חדשים לבדיקה",InWonder
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/inwonder.png" group-title="דוקו והיסטוריה באנגלית",InWonder
 https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/love-the-planet.png" group-title="חדשים לבדיקה",Love the Planet
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/love-the-planet.png" group-title="טבע ודוקו",Love the Planet
 https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/ts-eu-w1-n2/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mysteries-xplored.png" group-title="חדשים לבדיקה",Mysteries Xplored
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mysteries-xplored.png" group-title="דוקו והיסטוריה באנגלית",Mysteries Xplored
 https://dwqz6akge0ila.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lw48tj5rg6t4f/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mystery-tv.png" group-title="חדשים לבדיקה",Mystery TV
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/mystery-tv.png" group-title="דוקו והיסטוריה באנגלית",Mystery TV
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/outdoor-channel.png" group-title="חדשים לבדיקה",Outdoor Channel
+# Source: BDIX-IPTV; public FAST/FTA stream.
+# Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/outdoor-channel.png" group-title="בידור וריאליטי",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 # Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
