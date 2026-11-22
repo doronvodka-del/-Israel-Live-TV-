@@ -658,4 +658,11 @@ https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="חדשים לבדיקה",France 24 Français - בדיקה
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
+# Source: dor2500/israel-tv-plus playlist.m3u; WallaYes: broadcaster-branded Walla CDN; distinct from existing Walla news URL; Israeli playback/rights not independently confirmed.
+#EXTINF:-1 tvg-id="WallaYes.il" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/walla_yes_il.png" group-title="חדשים לבדיקה",וואלה!+ yes תרבות ובידור - בדיקה
+https://live.wcdn.co.il/yes/prog_index.m3u8
+
+# Source: dor2500/israel-tv-plus playlist.m3u; Knesset accessibility rendition; alternate source URL; accessibility, programme identity and TV playback to be verified.
+#EXTINF:-1 tvg-id="KnessetChannel.il@Accessibility" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/knesset_access.png" group-title="חדשים לבדיקה",ערוץ הכנסת - גרסה נגישה לבדיקה
+https://kneset.gostreaming.tv/p2-Accessibility/_definst_/myStream/index.m3u8
 
