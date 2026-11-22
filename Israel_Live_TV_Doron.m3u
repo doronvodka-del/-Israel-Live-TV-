@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 281 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 283 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -922,3 +922,13 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 # Status: candidate for SS IPTV / LG; stream playback in Israel NOT confirmed, regional access and rights unknown.
 #EXTINF:-1 tvg-id="YnetLive2.il" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/ynet_live_2_il.png" group-title="חדשים לבדיקה",Ynet Live 2 - בדיקה
 https://ynet-live-02.ynet-pic1.yit.co.il/ynet/live.m3u8
+
+# Source: https://www.metv.org/livestream/ ; METV is listed by HOT at channel 150.
+# Official METV Digital web feed excludes some broadcast programs. HLS/segment access checked 2026-11-22; LG/SS IPTV playback unverified.
+#EXTINF:-1 tvg-name="METV Digital" tvg-logo="https://www.metv.org/wp-content/uploads/2022/12/Home-Page-Logo-e1669912362556.png" group-title="חדשים לבדיקה",METV - גרסת אינטרנט - בדיקה
+https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
+
+# Source: https://www.currenttime.tv/live ; official distributor list https://www.currenttime.tv/partners names yes in Israel.
+# Russian-language official live feed. HLS and MPEG-TS segment checked 2026-11-22; LG/SS IPTV playback unverified.
+#EXTINF:-1 tvg-name="Current Time TV" tvg-logo="https://www.currenttime.tv/Content/responsive/RFE/ru-RU-TV/img/webApp/ico-192x192.png" group-title="חדשים לבדיקה",Current Time - חדשות ודוקו ברוסית - בדיקה
+https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist.m3u8
