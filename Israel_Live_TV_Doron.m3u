@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 290 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 293 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -980,3 +980,22 @@ https://tvsen6.aynaott.com/foxnews/index.m3u8
 # Playback confirmed working by Doron on LG/SS IPTV, 2026-11-22.
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" tvg-name="Fox Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="חדשות מהעולם",Fox Business
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+
+# חדשים לבדיקה — אוכל, לייף סטייל ודוקו — 23.11.2026
+# Public third-party source: https://github.com/sksobuj240/Live-TV-BOX/blob/main/alltv.m3u8 ; source blob 452ab351538c151c0439b5fb8478f21b78a50e33.
+# Food Network is listed by HOT at channel 183. English US programming observed; not verified as the Israeli regional feed. Cooking program and Food Network show promotion visually checked.
+# Checked 2026-11-23 (Asia/Jerusalem): HLS master, media playlist and MPEG-TS segments HTTP 200; H.264 768x432 + AAC. English speech detected in short audio samples; LG/SS IPTV playback NOT yet confirmed by Doron.
+#EXTINF:-1 tvg-name="Food Network English" tvg-logo="https://s3.aynaott.com/storage/582675c375dfa47c2d66e6639fcd2eac" group-title="חדשים לבדיקה",Food Network English - בדיקה
+https://tvsen6.aynaott.com/foodnetwork/index.m3u8
+
+# Public third-party source: https://github.com/sksobuj240/Live-TV-BOX/blob/main/alltv.m3u8 ; source blob 452ab351538c151c0439b5fb8478f21b78a50e33.
+# National Geographic is listed by HOT at channel 46. Yellow channel logo and documentary visually checked. English regional feed; not verified as the Israeli regional feed.
+# Checked 2026-11-23 (Asia/Jerusalem): HLS master, media playlist and MPEG-TS segments HTTP 200; H.264 768x432 + AAC. English speech detected in short audio samples; LG/SS IPTV playback NOT yet confirmed by Doron.
+#EXTINF:-1 tvg-name="National Geographic English" tvg-logo="https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b" group-title="חדשים לבדיקה",National Geographic English - בדיקה
+https://tvsen6.aynaott.com/natgeo/index.m3u8
+
+# Public third-party source: https://github.com/sksobuj240/Live-TV-BOX/blob/main/alltv.m3u8 ; source blob 452ab351538c151c0439b5fb8478f21b78a50e33.
+# TLC is listed by yes at channel 205. Red TLC logo and 90 Day Fiance: The Other Way promotion visually checked in actual program sample. English US feed; not verified as the Israeli regional feed.
+# Checked 2026-11-23 (Asia/Jerusalem): HLS master, media playlist and MPEG-TS segments HTTP 200; H.264 768x432 + AAC. English speech detected in short audio samples; LG/SS IPTV playback NOT yet confirmed by Doron.
+#EXTINF:-1 tvg-name="TLC English" tvg-logo="https://s3.aynaott.com/storage/ba3c9fa1144bc65322f8ae3a1bb69cc9" group-title="חדשים לבדיקה",TLC English - בדיקה
+https://tvsen6.aynaott.com/tlc_hd/index.m3u8
