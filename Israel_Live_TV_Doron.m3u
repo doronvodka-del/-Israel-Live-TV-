@@ -194,6 +194,9 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 # Source: BDIX-IPTV; playback confirmed by user in SS IPTV on 2026-11-22; distribution rights and subtitle availability unverified.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/comet.png" group-title="סרטים",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+# Source: BDIX-IPTV; public FAST/FTA stream candidate, viewer playback confirmed in Israel (SS IPTV, 2026-11-22); rights not independently verified.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/great-romance-1080p-7315cca1df.png" group-title="סרטים",GREAT! Romance
+https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
 
 # ערוצים קלאסים באנגלית
 #EXTINF:-1 tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg" group-title="ערוצים קלאסים באנגלית",קלאסיקות
@@ -526,9 +529,6 @@ https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/movie-dome-family.png" group-title="חדשים לבדיקה",Movie Dome Family
 https://amg00771-kochfilmsgerman-moviedomefamily-tcl-tpicw.amagi.tv/playlist/amg00771-kochfilmsgerman-moviedomefamily-tcl/playlist.m3u8
 
-# Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/great-romance-1080p-7315cca1df.png" group-title="חדשים לבדיקה",GREAT! Romance
-https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
 
 # Source: BDIX-IPTV; public FAST/FTA stream candidate, availability in Israel and rights not independently verified.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/alone.png" group-title="חדשים לבדיקה",Alone
