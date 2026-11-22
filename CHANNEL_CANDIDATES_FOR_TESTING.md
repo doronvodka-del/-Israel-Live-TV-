@@ -1,6 +1,6 @@
 # היקף מחקר מעודכן – 22.11.2026
 
-**הוראת בעל המאגר:** לחפש מעכשיו ערוצים רק מתוך שמונת השירותים: **HOT, STING TV / STING+, FreeTV, yes, NEXT TV, סלקום TV+, Disney+ ישראל, HBO Max ישראל**. אין להוסיף לרשימת הבדיקה ערוץ בינלאומי שאינו משויך לחבילת אחד מהשירותים הללו. ערוצים משותפים לא משוכפלים.
+**היקף נוכחי לפי בקשות בעל המאגר:** להמשיך לחפש בערוצי **HOT, STING TV / STING+, FreeTV, yes, NEXT TV, סלקום TV+, Disney+ ישראל, HBO Max ישראל**, ובנוסף **שידורים קהילתיים וחבילות ערוצים שקיימות ב־GitHub** בהתאם להרחבה מ־22.11.2026. חבילת GitHub משמשת מקור לגילוי; בודקים כל ערוץ וכתובת בנפרד, ולא מייבאים חבילה שלמה או משכפלים ערוץ קיים.
 
 **מקורות רשמיים לסיווג:**
 - HOT: https://www.hot.net.il/heb/tv/channels/hotchannels/
@@ -16,6 +16,49 @@
 **יעדי עדיפות:** HOT Cinema 2–5, HOT Comedy, HOT REAL; yes TV Drama/Action/Comedy, yes Movies Drama/Comedy/Kids; STING+ אותם ערוצים רק כשכלולים בפועל; סלקום Action/Comedy/Drama/Family Movies וסלקום סדרות; ערוצים ייחודיים של FreeTV. NEXT TV – לאתר קודם רשימת ערוצים מדויקת. Disney+/HBO Max – לבדוק רק ערוצי Live רשמיים אם קיימים עבור ישראל, לא תכני VOD.
 
 **כללי פעולה:** הוספה ל־M3U רק עם כתובת שידור ישירה חדשה לשם ערוץ מזוהה; יש לציין מקור וסטטוס ניגון לא מאומת; להימנע מכפילויות; לא לשנות ערוצים תקינים שאושרו; לא לשמור קישורי הרשאה אישיים בענף הציבורי. סטטוס תקין רק לאחר בדיקת המשתמש ב־LG/SS IPTV.
+
+## שידורים קהילתיים וחבילות GitHub – 22.11.2026
+
+**תוצאה תפעולית:** נוספו **4 רשומות** לקבוצת **חדשים לבדיקה**: רדיו סול בווידאו, JBS, BFM TV ו־Canal 24 Horas. סך הרשומות **287**, ב־21 קבוצות. בנוסף תוקנו השם והערת המקור של ILTV בצרפת. כל כתובות השידור והלוגואים של 283 הרשומות הקיימות נשמרו. [שינוי הפלייליסט](https://github.com/doronvodka-del/-Israel-Live-TV-/commit/f2699f7133da74f0bf18d4e5da497dddc8e3bc65).
+
+### הערוצים שנוספו
+
+| ערוץ | התאמה להיקף | כתובת ה־master שנשמרה |
+|---|---|---|
+| רדיו סול — וידאו | רדיו חברתי ישראלי עם שידור אולפן מצולם | https://cdna.streamgates.net/RadioSol/LiveVideo/playlist.m3u8 |
+| JBS — טלוויזיה יהודית באנגלית | ערוץ קהילתי יהודי מארה״ב; לא נטען שהוא חלק מחבילת HOT/yes | https://rpn3.tulixcdn.com/jbstv-srt/srt-push/jbstv/playlist.m3u8 |
+| BFM TV — חדשות בצרפתית | מופיע ב־HOT באפיק 142 | https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8 |
+| Canal 24 Horas — חדשות בספרדית | מופיע ב־HOT באפיק 158 | https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8 |
+
+**מקור ובדיקה לכל ערוץ:**
+
+- **רדיו סול:** כתובת הווידאו נמצאה ב[חבילת junguler](https://github.com/junguler/m3u-radio-music-playlists/blob/main/keep_one/israel.m3u) ואומתה בתוך video/src וב־radiosolConfig.liveVideo של [דף השידור הרשמי](https://radiosol.co.il/live). [דף האודות](https://radiosol.co.il/aboutradiosol) מתאר תחנה חברתית עם פעילות קהילתית, ראיונות ומוזיקה. Master ומניפסט מדיה: HTTP 200; מקטע: HTTP 206 בבקשת Range; H.264 Baseline/AAC, ‏720p50, ללא KEY או ENDLIST במניפסט שנבדק. הלוגו הרשמי PNG נבדק.
+- **JBS:** הגילוי התחיל ב[חבילת iptv-org האמריקאית](https://github.com/iptv-org/iptv/blob/master/streams/us.m3u). [דף הצפייה הרשמי](https://jbstv.org/watch-live) מטמיע את [נגן Tulix הציבורי](https://jbsdvr.tulix.tv/player/jbstv.php), שמפרסם את כתובת tulixcdn שנשמרה. [תיאור הערוץ](https://jbstv.org/faq) מאשר שידור חופשי ללא מטרת רווח בנושאי קהילה, ישראל, תרבות וסרטים, באנגלית או עם כתוביות באנגלית. Master ומדיה: HTTP 200; מקטע: HTTP 206, חתימת MPEG-TS, ‏4,096 בתים; H.264/AAC, ‏720p59.94, ללא KEY או ENDLIST. הלוגו מתוך הנגן הרשמי הוא PNG ‏852×480 והחזיר HTTP 200. JBS שונה מ־JLTV שכבר נמצא ברשימה.
+- **BFM TV:** נמצא ב[חבילת LITUATUI/M3UPT](https://github.com/LITUATUI/M3UPT/blob/main/M3U/M3UPT.m3u); אותו URL אומת ב־data-video-url ב[דף השידור הרשמי](https://www.bfmtv.com/en-direct/). [HOT](https://www.hot.net.il/heb/tv/channels/hotchannels/) מפרסמת את הערוץ באפיק 142. Master, מדיה ומקטע MPEG-TS: HTTP 200; ‏HLS v3/H.264/AAC, ללא KEY או ENDLIST. הלוגו הרשמי PNG החזיר HTTP 200.
+- **Canal 24 Horas:** נמצא ב־LITUATUI/M3UPT וב־iptv-org/streams/es.m3u. [דף RTVE הרשמי](https://www.rtve.es/play/videos/directo/24h/) מפרסם נגן חי עם idGolumi=rtvesec/24h/24h_main_, ‏hasDRM=false ו־requireLogged=false. מדובר בערוץ הראשי; [HOT](https://www.hot.net.il/heb/tv/channels/foreignchannels/) מפרסמת אפיק 158. Master, מדיה ומקטע MPEG-TS: HTTP 200; ‏H.264/AAC, ללא KEY או ENDLIST. הלוגו נלקח מאתר HOT.
+
+**משמעות הבדיקה:** התקבלו פלייליסטים חיים ומקטעי מדיה מסביבת הבדיקה. לא בוצע ניגון חזותי מלא ולא נבדקה טלוויזיית LG/SS IPTV בישראל. ארבע הרשומות נשארות בקבוצת **חדשים לבדיקה**. נשמרו כתובות master בלבד, ללא פרמטרי סשן של מניפסטים פנימיים.
+
+### תיקון זיהוי קיים: ILTV
+
+השם **ILTV ישראל בצרפתית - בדיקה** היה שגוי. הערוץ הוא ILTV של אגד הערים **Hénin-Carvin בצרפת**, כפי שמתואר ב[אתר הערוץ](https://www.iltv.fr/presentation/) וב[אתר הרשות המקומית](https://www.agglo-henincarvin.fr/site-internet-diltv-en-maintenance). דף השידור הרשמי מטמיע נגן Creacast עם su=iltv; נגן זה מפרסם **בדיוק את כתובת ה־HLS הקיימת ברשימה**. השם תוקן ל־**ILTV - טלוויזיה מקומית בצרפת - בדיקה**, יחד עם הערת המקור. הכתובת, הלוגו והקבוצה נשמרו.
+
+### חבילות נוספות שנבדקו — למניעת סריקה חוזרת
+
+| מקור | תוצאה |
+|---|---|
+| xpwmaster/IPTV-IL/IL-TiviMate-EPG.m3u | 142 רשומות דרך אותו ממסר עם קוד גישה, כולל ערוץ 98; לא הועתקו כתובות ההרשאה. |
+| plymbnc/IPTV-Israel/Israel.m3u | 40 רשומות; הערוצים או גרסאותיהם כבר נמצאים. Kan Kids הוא כאן חינוכית. |
+| BitBOY21/IsraTV-app-android-Israel-IPTV/app/src/main/assets/channels.json | 6 ערוצי ברודקאסט קיימים. |
+| ak4153/israeli-iptv/channels.json | חפיפה למקורות Fishenzon; אין תוספת נפרדת. |
+| AvielNachmias2/iptv-playlist/israel_and_us.m3u | 29 הרשומות הישראליות כבר קיימות; החלק האמריקאי אינו הוכחת שייכות לחבילה ישראלית. |
+| Fishenzon/repo/plugin.video.idanplus/channels.json | רוב הרשומות כפולות; 891FM וידאו לא אומת, האח הגדול החזיר 503. קבלה ברוסית עברה HTTP/מקטע, אך תועדה כגרסת שפה נוספת ולא נספרה כערוץ חדש. |
+| szaionz/zipzup/app/channels.json | ערוצי ברודקאסט קיימים ותחנות רדיו; לא אותר ערוץ טלוויזיה חדש. |
+| Mudales/stremio-tv-il/channels.json | מיפוי שמות ומזהים של ערוצים קיימים; אין מקור חדש עצמאי. |
+| Free-TV/IPTV/lists/israel.md | מקורות לערוצי ברודקאסט שכבר קיימים. |
+| shayanline/iptv-iran/playlists/iran.m3u | Israel Pars TV הוא שידור לקהילה האיראנית בישראל לפי האתר הרשמי, אך כתובת ה־master החזירה 403 בסביבת הבדיקה. לא נוסף; אין בכך הוכחה שאינו נגיש בישראל. |
+
+**מועמדים שטרם הבשילו:** ערוץ 98 והמגזינים הקהילתיים של נתניה/כפר סבא/חדרה — נמצא מידע על שידורים מתוזמנים וארכיוני YouTube, לא HLS עצמאי של ערוץ רציף. הרדיו החברתי הראשון ו־891FM — קיים דף צפייה, אך לא אותר HLS וידאו שניתן לאמת. ARTE החזיר 403; RTVI לא זוהה עם מקור ציבורי מאומת. אין תוספת חדשה בסבב הזה לערוצי הסרטים והסדרות הייעודיים של HOT/yes/סלקום.
 
 ## תוספת ממקורות רשמיים – 22.11.2026
 
