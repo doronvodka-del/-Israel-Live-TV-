@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 247 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 253 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -747,3 +747,34 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 # Test-only FAST/FTA candidate (חדשות ואקטואליה); no independent playback test from Israel or SS IPTV, no re-distribution rights certification.
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" group-title="חדשים לבדיקה",Euronews English
 https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+
+# 2026-11-22 — additional third-party sources and free-news FAST candidates; requires LG playback testing.
+# Source: aria-tv/aria aria+/israel.m3u: third-party restream labelled stable by list maintainer; possible unauthorized pay-TV redistribution; user playback and content unverified
+# This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
+#EXTINF:-1 tvg-id="Hot3.il@Community" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot3-il.png" group-title="חדשים לבדיקה",HOT 3 - מקור צד שלישי לבדיקה
+http://str2.iptvhd.ru:8080/hot3HD/index.m3u8
+
+# Source: aria-tv/aria aria+/israel.m3u: third-party restream labelled stable by list maintainer; possible unauthorized pay-TV redistribution; user playback and content unverified
+# This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
+#EXTINF:-1 tvg-id="HotSenior.il@Community" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-senior-il.png" group-title="חדשים לבדיקה",HOT Senior - מקור צד שלישי לבדיקה
+http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8
+
+# Source: dor2500/israel-tv-plus playlist.m3u: community-listed FAST stream; authorized redistribution, availability and LG playback not verified
+# This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
+#EXTINF:-1 tvg-id="ARTFLIXMovieClassics@FAST" group-title="חדשים לבדיקה",ARTFLIX Movie Classics - בדיקה
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+
+# Source: dor2500/israel-tv-plus playlist.m3u: BBC-branded stream, geo restriction and LG playback not verified
+# This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
+#EXTINF:-1 tvg-id="BBCNews.uk@World" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/bbc_news_hd.png" group-title="חדשים לבדיקה",BBC News World - בדיקה
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+# Source: dor2500/israel-tv-plus playlist.m3u: CBS-branded stream, geo restriction and LG playback not verified
+# This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
+#EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/cbs_news_hd.png" group-title="חדשים לבדיקה",CBS News 24/7 - בדיקה
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+# Source: dor2500/israel-tv-plus playlist.m3u: Sky-branded extra feed, regional access and LG playback unverified
+# This is a candidate only. Functional status, publisher rights, geographic access and SS IPTV compatibility UNVERIFIED.
+#EXTINF:-1 tvg-id="SkyNewsAustraliaExtra1.au@SD" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/sky_news.png" group-title="חדשים לבדיקה",Sky News Australia Extra 1 - בדיקה
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
