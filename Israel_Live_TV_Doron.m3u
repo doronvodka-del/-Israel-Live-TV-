@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 292 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 296 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -1025,3 +1025,32 @@ https://tvsen6.aynaott.com/natgeo/index.m3u8
 # Playback confirmed working by Doron on LG/SS IPTV, 2026-11-23.
 #EXTINF:-1 tvg-name="TLC English" tvg-logo="https://s3.aynaott.com/storage/ba3c9fa1144bc65322f8ae3a1bb69cc9" group-title="בידור וריאליטי",TLC English
 https://tvsen6.aynaott.com/tlc_hd/index.m3u8
+
+# ערוצי HOT בלבד — מקורות חדשים לבדיקה — 23.11.2026
+# Public third-party source: https://github.com/hoyittvggfh45/moytv/blob/bdf492515e5361c7c651b1b007cd704d895594f3/assets/live/m3u/11_community11.m3u8 ; source blob 8ced0462af0fd58c89c4b9bb4e6a998c45918802.
+# HOT carriage: https://www.hot.net.il/heb/tv/channels/hotchannels/cinemafamily/ ; current guide: https://www.hot.net.il/heb/TV/TVGuide/ .
+# Checked 2026-11-23 (Asia/Jerusalem): HLS and MPEG-TS samples HTTP 200; H.264 1920x1080 + AAC stereo.
+# Only overnight HOT children's movie promos with Hebrew titles were observed. Full-program playback and spoken language were not independently confirmed; LG/SS IPTV playback pending Doron.
+#EXTINF:-1 tvg-name="HOT Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-cinema-family-il.png" group-title="חדשים לבדיקה",HOT Family - בדיקה
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/2151/index.m3u8
+
+# Public third-party source: https://github.com/hoyittvggfh45/moytv/blob/bdf492515e5361c7c651b1b007cd704d895594f3/assets/live/m3u/11_community11.m3u8 ; source blob 8ced0462af0fd58c89c4b9bb4e6a998c45918802.
+# HOT carriage: https://www.hot.net.il/heb/tv/channels/hotchannels/hotluli/ .
+# Checked 2026-11-23 (Asia/Jerusalem): HLS and six MPEG-TS segments across two samples HTTP 200; H.264 720x406 + AAC stereo.
+# Luli logo and active children's programming visually confirmed. Automatic speech-language detection was inconclusive; human audio and LG/SS IPTV playback checks pending Doron.
+#EXTINF:-1 tvg-name="HOT לולי" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-lolly-il.png" group-title="חדשים לבדיקה",HOT לולי - בדיקה
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31939/index.m3u8
+
+# Public third-party source: https://github.com/iptv-org/iptv/blob/master/streams/de.m3u ; source blob a726dd8d81f3f439d783e8a1ed7d89d7643cf61b.
+# HOT carriage: Motorvision+ is listed in https://www.hot.net.il/heb/TV/TVGuide/ . Premium M+ logo visually confirmed; this is not the separate Motorvision FAST channel.
+# Checked 2026-11-23 (Asia/Jerusalem): HLS master/media and MPEG-TS samples HTTP 200; H.264 1280x720 + AAC stereo; English speech confirmed in a second program sample.
+# English international feed; equivalence to the Israeli schedule not verified. LG/SS IPTV playback pending Doron.
+#EXTINF:-1 tvg-id="MotorvisionPlus.de@SD" tvg-name="Motorvision+ English" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positiv_light_background-1024x232.png" group-title="חדשים לבדיקה",Motorvision+ English - בדיקה
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
+
+# Public third-party source: https://github.com/sksobuj240/Live-TV-BOX/blob/main/alltv.m3u8 ; source blob 452ab351538c151c0439b5fb8478f21b78a50e33.
+# HOT carriage: Travel Channel is listed in https://www.hot.net.il/heb/tv/channels/learningchannels/ .
+# Checked 2026-11-23 (Asia/Jerusalem): HLS master/media and MPEG-TS samples HTTP 200; H.264 768x432 + AAC stereo; TRVL Channel logo and English speech confirmed.
+# English US feed; equivalence to the Israeli schedule not verified. Despite the travelxp URL path, the sampled channel is Travel Channel, not the separate existing Travelxp channel. LG/SS IPTV playback pending Doron.
+#EXTINF:-1 tvg-name="Travel Channel English" tvg-logo="https://s3.aynaott.com/storage/a7f87f1e71905ee14429ed26abd29b2a" group-title="חדשים לבדיקה",Travel Channel English - בדיקה
+https://tvsen6.aynaott.com/travelxp/index.m3u8
