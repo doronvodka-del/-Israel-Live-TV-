@@ -1,22 +1,55 @@
 # היקף מחקר מעודכן – 23.11.2026
 
-**הוראה עדכנית ומחייבת של בעל המאגר:** לחפש ולהוסיף מועמדים **רק מערוצי HOT, STING TV / STING+, FreeTV, yes, NEXT TV, סלקום TV+, Disney+ ישראל ו־HBO Max ישראל**. שפות מותרות: **עברית ואנגלית בלבד**. יש לאמת שהערוץ מופיע באחד משמונת השירותים. ההרחבה הקודמת לשידורים קהילתיים שאינם בחבילות אלה ולשפות אחרות בוטלה בבקשת המשתמש האחרונה.
+**הוראה עדכנית ומחייבת של בעל המאגר:** „תמשיכי לחפש dr ערוצי הוט בלבד”. חיפוש והוספת מועמדים חדשים מוגבלים כעת **לערוצים המשודרים ב־HOT בלבד**, בשפות **עברית ואנגלית בלבד**. יש לאמת את שיוך הערוץ ל־HOT באמצעות מקור רשמי. הוראה זו מחליפה את היקף שמונת השירותים של הסבב הקודם. שינוי היקף המחקר אינו הוראה למחוק ערוצים קיימים או לבטל אישורי ניגון קודמים.
 
 **מקורות גילוי:** המשתמש אישר במפורש גם קישורים לא רשמיים ופיראטיים שפורסמו בפומבי, ובכלל זה חבילות GitHub. רשימת GitHub היא מקור למציאת כתובת; היא אינה הוכחה לשם הערוץ, לשפה, לניגון או להרשאת הפצה. אין להחליף ערוץ בגרסת FAST אחרת רק מפני שהמותג דומה.
 
 **כללי עבודה שאושרו:** להוסיף מועמדים ל־**חדשים לבדיקה**; רק לאחר אישור ניגון של דורון ב־LG/SS IPTV להעביר לקטגוריית תוכן. להימנע מכפילויות וגרסאות איכות של אותו ערוץ, ולשמר ערוצים קיימים. אין לשמור פרטי כניסה אישיים, JWT של מנוי או מפתחות DRM. מזהה אטום בכתובת ציבורית לבדו אינו מוכיח שמדובר בפרטי חשבון.
 
-**מקורות רשמיים לאימות שיוך לחבילה:**
+**מקורות רשמיים לאימות שיוך ל־HOT:**
 
-- HOT: https://www.hot.net.il/heb/tv/channels/hotchannels/
-- yes / STING+: https://www.yes.co.il/content/channels-index/ ; https://www.yes.co.il/content/stingplus/
-- FreeTV: https://freetv.tv/tvchannels
-- סלקום TV+: https://cellcom.co.il/production/Private/cellcomtv/channels/
-- NEXT TV: לבדוק את רשימת NEXT עצמאית; אין להניח שכל ערוץ HOT כלול.
-- Disney+ ישראל: https://www.disneyplus.com/en-il
-- HBO Max ישראל: https://www.hbomax.com/il/he
+- קטלוג ערוצי HOT: https://www.hot.net.il/heb/tv/channels/hotchannels/
+- מדריך השידורים העדכני: https://www.hot.net.il/heb/TV/TVGuide/
+- ערוצי העשרה: https://www.hot.net.il/heb/tv/channels/learningchannels/
 
-**עדיפות מחקר:** סרטים, סדרות, אקטואליה **וערוצי אוכל ובישול** בעברית או באנגלית: HOT Cinema 2–5, HOT Comedy/REAL, yes TV Drama/Action/Comedy, yes Movies Drama/Comedy/Kids, ערוצי הסרטים והסדרות של סלקום, ותוספות ייחודיות של FreeTV. תכני Disney+/HBO Max צריכים להיות מזוהים עם השירות בישראל; שם ערוץ HBO או Disney ממדינה אחרת אינו מספיק. דף VOD אינו כתובת שידור חי.
+**עדיפות מחקר:** ערוצי HOT חסרים בתחומי סרטים, סדרות, אקטואליה, אוכל ובישול, ילדים, דוקו ולייף סטייל. יש להתמקד בין השאר ב־HOT Cinema 2–5, HOT Comedy/REAL וערוצי האוכל והלייף סטייל הישראליים. דף VOD אינו כתובת שידור חי. בערוצים בינלאומיים יש לתעד את הגרסה והשפה שנבדקו, ולא להניח שלוח השידורים שלה זהה לגרסה הישראלית.
+
+## הוספה לחדשים לבדיקה — ערוצי HOT בלבד — 23.11.2026
+
+נוספו **ארבעה מקורות** לערוצים המשודרים ב־HOT. כולם בקבוצת **חדשים לבדיקה**; טרם התקבל אישור ניגון של דורון ב־LG/SS IPTV. הכתובות נלקחו מרשימות GitHub פומביות ונבדקו באמצעות מניפסטים, מקטעי וידאו, נתוני קידוד ותמונות מתוך השידור.
+
+| שם ברשימה | שיוך רשמי | תוצאת בדיקה והגבלות |
+|---|---|---|
+| HOT Family - בדיקה | [עמוד HOT Family](https://www.hot.net.il/heb/tv/channels/hotchannels/cinemafamily/) ו[לוח HOT](https://www.hot.net.il/heb/TV/TVGuide/) | HLS ומקטעי MPEG-TS החזירו 200; H.264 בגודל 1920×1080 ו־AAC סטריאו. נצפו לוגו HOT וקדימוני סרטי ילדים עם כותרות בעברית. **בדגימות הלילה נצפו קדימונים בלבד; תוכנית מלאה ושפת הדיבור טרם אומתו.** לוח HOT מציג בלילה הפסקת שידורי תוכניות. |
+| HOT לולי - בדיקה | [עמוד HOT לולי](https://www.hot.net.il/heb/tv/channels/hotchannels/hotluli/) | HLS ושישה מקטעי MPEG-TS בשתי דגימות החזירו 200; H.264 בגודל 720×406 ו־AAC סטריאו. לוגו לולי ותוכנית ילדים פעילה אומתו חזותית. **זיהוי השפה האוטומטי לא הכריע** בגלל מוזיקה ומעט דיבור; נדרשת בדיקת שמע אנושית. תג שמע eng אינו הוכחה לשפה. |
+| Motorvision+ English - בדיקה | [לוח HOT — מוטורויז׳ן+](https://www.hot.net.il/heb/TV/TVGuide/) | מניפסט ראשי, מדיה ומקטעי MPEG-TS החזירו 200; H.264 בגודל 1280×720 ו־AAC סטריאו. לוגו M+ הצהוב של ערוץ הפרימיום זוהה בתמונה. בדגימת תוכנית שנייה זוהה דיבור אנגלי ברור. הגרסה הבינלאומית באנגלית; התאמה מלאה ללוח הישראלי לא נבדקה. |
+| Travel Channel English - בדיקה | [HOT — ערוצי העשרה](https://www.hot.net.il/heb/tv/channels/learningchannels/) | מניפסטים ומקטעי MPEG-TS החזירו 200 בשלוש בדיקות; H.264 בגודל 768×432 ו־AAC סטריאו. לוגו TRVL Channel ותוכנית Paranormal Caught on Camera זוהו בתמונה; דיבור אנגלי זוהה בדגימות. זו גרסה אמריקאית באנגלית; התאמה ללוח הישראלי לא אומתה. למרות רכיב travelxp בכתובת, השידור שנצפה הוא Travel Channel ולא Travelxp שכבר קיים ברשימה. |
+
+**הבחנת גרסאות:** Motorvision+ שנוסף הוא ערוץ הפרימיום; לא נוסף ערוץ Motorvision FAST החלופי. ההבחנה בין השניים מפורטת גם [בתמיכה הרשמית של Motorvision](https://motorvision.tv/en/support/free-motorvision-channel/). בשני הערוצים הבינלאומיים נבדק דיבור בפועל, מעבר לשם הקובץ.
+
+**מקורות הכתובות:**
+
+- HOT Family ולולי: [רשימת הקהילה, גרסה קבועה](https://github.com/hoyittvggfh45/moytv/blob/bdf492515e5361c7c651b1b007cd704d895594f3/assets/live/m3u/11_community11.m3u8). Blob: `8ced0462af0fd58c89c4b9bb4e6a998c45918802`. שמות המקור: HOT Cinema Family HD IL ו־Luli SD IL.
+- Motorvision+: [iptv-org — de.m3u](https://github.com/iptv-org/iptv/blob/master/streams/de.m3u). Blob: `a726dd8d81f3f439d783e8a1ed7d89d7643cf61b`. מזהה המקור: `MotorvisionPlus.de@SD`.
+- Travel Channel: [Live-TV-BOX — alltv.m3u8](https://github.com/sksobuj240/Live-TV-BOX/blob/main/alltv.m3u8). Blob: `452ab351538c151c0439b5fb8478f21b78a50e33`. השם והלוגו של המקור הוצלבו מול התמונה בפועל.
+
+**כתובות שנוספו:**
+
+- HOT Family: http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/2151/index.m3u8
+- HOT לולי: http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31939/index.m3u8
+- Motorvision+ English: https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
+- Travel Channel English: https://tvsen6.aynaott.com/travelxp/index.m3u8
+
+**לוגואים:** כל ארבע כתובות הלוגו נשלפו ממקורות שנצפו, הורדו ונבדקו חזותית. לולי תואם ללוגו בשידור; לוגו HOT Family משתמש במיתוג HOT Cinema Family הישן. לוגו Motorvision+ נלקח מהאתר הרשמי. לוגו TRVL Channel נלקח מאותה רשימה פומבית.
+
+**יעדים נוספים שנבדקו ולא נוספו:**
+
+- HOT בידור: המניפסט שנמצא באותו מקור קהילתי החזיר 404.
+- HOT Cinema 2: מקורות חדשים ב־ADIR, socminlt, telefinder ו־SEETV החזירו 401 או 503. ל־HOT Cinema 3–5, HOT Comedy/REAL וערוץ האוכל הישראלי לא נמצא בסבב זה מקור חדש שניתן לאמת.
+- Home Plus: מקור ADIR/edmonst החזיר 401. ערוץ הטיולים הישראלי: מקור SEETV החזיר 503. רשומה ששויכה ל־Home Design אך הובילה ל־FreeTV imagin_lifestyle זוהתה כהתאמה שגויה ולא נוספה.
+- Discovery, History, National Geographic Wild, Animal Planet, E! ו־Eurosport: המקורות שנבדקו החזירו 401/403/404/503 או פסק זמן. אלו תוצאות הגישה מסביבת הבדיקה, ולא קביעה שהערוצים אינם זמינים בכל מקום.
+
+**תוצאת השמירה:** בסיס הקובץ העדכני כלל **292** רשומות, לאחר עדכון מקביל שהסיר את כפילות בדיקת ה־EPG של ספורט 5 גולד. ארבע התוספות העלו את הסך ל־**296 רשומות ב־21 קבוצות**, ומהן **63 בחדשים לבדיקה**. נשמרו כל הרשומות שהיו בקובץ העדכני, כולל עדכון ה־EPG. [שינוי הפלייליסט](https://github.com/doronvodka-del/-Israel-Live-TV-/commit/7036852c73eefa3c73a97ffa7f91cb600ee67256).
 
 ## אישור ניגון של דורון — 9 ערוצים — 23.11.2026
 
