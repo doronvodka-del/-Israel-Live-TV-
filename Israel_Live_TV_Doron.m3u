@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 301 channel entries, 21 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 301 channel entries, 22 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -82,6 +82,17 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_family
 https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/reshet13_reality_il.png" group-title="FreeTV",ערוץ הריאליטי
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
+
+# סלקום טיוי
+# דורון אישר ניגון של ארבעת הערוצים בטלוויזיית LG ב־23.11.2026.
+#EXTINF:-1 tvg-name="סלקום סרטי אקשן" group-title="סלקום טיוי",סלקום סרטי אקשן
+http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout02/index.m3u8?smil_profile=mobile
+#EXTINF:-1 tvg-name="סלקום סרטי קומדיה" group-title="סלקום טיוי",סלקום סרטי קומדיה
+http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout04/index.m3u8?smil_profile=mobile
+#EXTINF:-1 tvg-name="סלקום סרטי דרמה" group-title="סלקום טיוי",סלקום סרטי דרמה
+http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout08/index.m3u8?smil_profile=mobile
+#EXTINF:-1 tvg-name="סלקום סרטי משפחה" group-title="סלקום טיוי",סלקום סרטי משפחה
+http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout06/index.m3u8?smil_profile=mobile
 
 # ערוצים מהרשת
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="עידן פלוס",i24NEWS עברית
@@ -1063,14 +1074,3 @@ https://tvsen6.aynaott.com/travelxp/index.m3u8
 # Alternate source for the existing unavailable Disney Channel entry. LG/SS IPTV playback pending Doron's confirmation.
 #EXTINF:-1 tvg-id="DisneyChannel.il@SD" tvg-name="Disney Channel ישראל" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="חדשים לבדיקה",Disney Channel ישראל - מקור חלופי - בדיקה
 http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2382/index.m3u
-
-# סלקום TV — ארבעה ערוצי סרטים לבדיקה ב־LG
-# בשתי בדיקות ניגון מחוץ לטלוויזיה לא התקבלה תמונה.
-#EXTINF:-1 tvg-name="סלקום סרטי אקשן" group-title="חדשים לבדיקה",סלקום סרטי אקשן
-http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout02/index.m3u8?smil_profile=mobile
-#EXTINF:-1 tvg-name="סלקום סרטי קומדיה" group-title="חדשים לבדיקה",סלקום סרטי קומדיה
-http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout04/index.m3u8?smil_profile=mobile
-#EXTINF:-1 tvg-name="סלקום סרטי דרמה" group-title="חדשים לבדיקה",סלקום סרטי דרמה
-http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout08/index.m3u8?smil_profile=mobile
-#EXTINF:-1 tvg-name="סלקום סרטי משפחה" group-title="חדשים לבדיקה",סלקום סרטי משפחה
-http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout06/index.m3u8?smil_profile=mobile
