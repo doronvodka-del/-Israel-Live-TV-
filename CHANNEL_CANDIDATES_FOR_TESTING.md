@@ -15,6 +15,62 @@
 
 **Disney+ ישראל:** בחיפוש הנוכחי לא אותרה כתובת שידור חי ציבורית ומאומתת בשם Disney+ ישראל. אין להסיק מכך של־Disney+ אין תוכן חי בשווקים אחרים. דפי קטלוג, לוח שידורים וקטעי YouTube אינם כתובות שידור רציף ל־M3U.
 
+## המשך חיפוש — דיסני ישראל בלבד — 23.11.2026
+
+לאחר בקשת דורון „תמשיכי לחפש”, בוצע סבב נוסף בדגש על **דיסני ג׳וניור ישראל**, תוך שמירה על היקף דיסני ישראל בלבד. נמצאו ונבדקו **12 כתובות חדשות**, ללא חפיפה ל־33 הכתובות שנבדקו בסבב הקודם. סך הכתובות השונות שנבדקו לדיסני ג׳וניור בשני הסבבים: **45**.
+
+**תוצאה: לא נוסף ערוץ בסבב זה.** אף אחת מ־12 הכתובות החדשות לא סיפקה תוכנית מזוהה של דיסני ג׳וניור ישראל. מקור Disney Channel ישראל שנוסף בסבב הקודם נשאר ב־**חדשים לבדיקה**, והוא לא נחשב לתוספת חדשה בסבב זה.
+
+| תוצאה שנצפתה | כתובות חדשות |
+|---|---:|
+| HTTP 503 / כשל גישה למקור | 6 |
+| HTTP 403 | 2 |
+| HTTP 401 | 1 |
+| פסק זמן בחיבור | 1 |
+| HTTP 200 עם וידאו של הודעת שירות או חסימה | 2 |
+| **סך הכול** | **12** |
+
+### שני מקורות שעברו את שלב התשובה הטכנית אך נכשלו בזיהוי התוכנית
+
+- **AntiFriz / bethoven:** [מקור הפרסום — iptv-org issue 41248](https://github.com/iptv-org/iptv/issues/41248), מ־23.06.2026. הכתובת פורסמה כ־Disney Jr ישראל. המניפסט הפנה ל־`tech-subscription-expired`; לאחר בדיקת המניפסט המשני התקבל מקטע וידאו תקין טכנית. בתמונה המפוענחת הופיע **Subscription expired** של AntiFriz. לא נצפתה תוכנית דיסני.
+- **spr24 / nsm-lab:** [רשימת unsorted.m3u בגרסה שנבדקה](https://github.com/nsm-lab/iptv/blob/578c84d0a79ae8b1cb575815d91e3cf14528afdd/channels/unsorted.m3u), Blob `da0b7c6dabc0258ee5cd1ebb44739c366f9a7ef8`, שורה 1898, שם מקור `Disney Jr [IS]`. המניפסט הפנה ל־`tech/default.mp4/index.m3u8`; המניפסט, המדיה והמקטע החזירו 200. התמונה המפוענחת בגודל 1920×1080 הציגה הודעת חסימת שירות ברוסית. לא נצפתה תוכנית דיסני.
+
+### מקורות הרשימות החדשים
+
+| מקור ציבורי | Blob שנבדק | כתובות ותוצאה |
+|---|---|---|
+| [Gennicks/genioplay — shar.m3u8](https://github.com/Gennicks/genioplay/blob/23b6d3f5b54c08dc20c06fcc0e2e58772b10e1bb/shar.m3u8) | `65167878f01874a7b3d3c9a9a2f0aa9753833d6b` | sharavoz.space: כתובת אחת, 503 |
+| [MuradImanYch — Sharavoz.Tv.m3u8](https://github.com/MuradImanYch/Website-LF-Backend/blob/5fe6dd5d0b7ab37498baf58bd4a8faf18ae6bf57/public/static/iptv/Sharavoz.Tv.m3u8) | `40cb7d6b1ffa328d9bcfae31cabeb2cd507ed3b6` | ru01.spr24: כתובת אחת, פסק זמן |
+| [iosxlb/cdn — Edem.m3u](https://github.com/iosxlb/cdn/blob/ebe6671b228f267ad2e807d8fa772076524cdb0e/m3u/Edem.m3u) | `129e5d498d312d5f056ff6e8ebcfd4c45c2fcacd` | akadatel: שתי כתובות שפורסמו בנפרד, 503 |
+| [dimasuhum — stream-3.m3u](https://github.com/dimasuhum/dimasuhum.github.io/blob/872e4e8a94f13b10dd75a06ace851399e30ea931/xml/stream-3.m3u) | `a5c04fdfdda27de44462b5567c796301c39288ad` | eu01.spr24: כתובת אחת, 403 |
+| [wals09/kf — sh003.txt](https://github.com/wals09/kf/blob/0ebdc34805a923ae8af01c367b7ebf81eab4b37e/sh003.txt) | `28ca92f02aa6aed3b63fff5ccbbdb602a22fcdec` | am01.spr24: כתובת אחת, 403 |
+| [dimasuhum — streams-4.m3u](https://github.com/dimasuhum/dimasuhum.github.io/blob/872e4e8a94f13b10dd75a06ace851399e30ea931/xml/streams-4.m3u) | `7a64528dbb4b142969ba359b282d9ebc2dd5068a` | megatv.fun: כתובת אחת, 401 |
+| [xantianes — tv-dec-1.m3u](https://github.com/xantianes/xantiesTVapp1/blob/b793edb0488ac77027225fcfee425d9df5a9ef77/tv-dec-1.m3u) | `a746ce8bfaa7d12317c279f08c6284312291a330` | ucomist: שתי כתובות שפורסמו בנפרד, 503 |
+| [fakeall12398-sketch/JIO_TV — kids.m3u](https://github.com/fakeall12398-sketch/JIO_TV/blob/4081046bb688bd43a66818c6dfce56cb5cbb5670/kids.m3u) | `4122c46d678c21fb86342fe9d702e73a99ed0943` | redbooks, רשומה IL: DISNEY JUNIOR: כתובת אחת, 503 |
+
+בנוסף נבדקו חבילות קהילתיות וכתיבים חלופיים של שם הערוץ. רשומות של ג׳וניור הרגיל, ערוצי דיסני ממדינות אחרות, לוגואים, מזהי ערוץ ללא כתובת ושידורי YouTube שאינם הערוץ הליניארי לא נוספו. [PublicIPTV — Disney Junior Israel](https://publiciptv.com/channels/disneyjunioril) לא הציג כתובת שידור זמינה בזמן הבדיקה.
+
+שני קישורי starott שכבר התגלו קודם החזירו HTML עם INVALID_STREAM_ID בבדיקות המוקדמות; הם לא נכללו במניין 12 הכתובות החדשות. אין כתובת שנוספה מתוך שחזור כתובת או החלפת מזהה ערוץ במקור קיים.
+
+### כתובות הסבב למניעת בדיקות חוזרות
+
+- http://ru03.sharavoz.space/20474/mpegts?token=thBtfP432DuwLV
+- https://ru01.spr24.net/20474/index.m3u8?token=ZyyFpSvSdmkyih
+- http://he11o.akadatel.com/iptv/SD43XPTHK68EC3/2333/index.m3u8
+- http://he11o.akadatel.com/iptv/SD43XPTHK68EC3/12206/index.m3u8
+- https://eu01.spr24.net/20474/mpegts?token=DW3LYSRyqAbHdd
+- https://am01.spr24.net/20474/mpegts?token=a8AeihBVXNXmwW
+- http://dtwa5lty.megatv.fun/iptv/YLSVKKMW9SL9BP/2333/index.m3u8
+- http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2333/index.m3u8
+- http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12206/index.m3u8
+- http://fr01.spr24.net/20474/index.m3u8?token=BQF9PmuRpcxUqR
+- https://www.redbooks.site/x11.php?id=351314.m3u8
+- http://bethoven.af-stream.com:1600/s/kwtlxswl/disney-jr-il/video.m3u8
+
+אלו תוצאות הגישה מסביבת הבדיקה בזמן הסבב. אין להסיק מהן שהערוץ אינו זמין בכל מקום.
+
+**מצב הרשימה לאחר הסבב:** קובץ ה־M3U לא נערך. בקריאה חוזרת נמצאו **297 רשומות ב־21 קבוצות**, מהן **64 בחדשים לבדיקה**; Blob `1ed01af3d8d368c6f5c19c4252228cf80feeaa36`. עודכן יומן המחקר בלבד.
+
 ## הוספה לחדשים לבדיקה — דיסני ישראל — 23.11.2026
 
 נוסף **מקור חלופי אחד של Disney Channel ישראל**, לאחר אימות תוכנית בפועל, לוגו Disney Channel, כתוביות בעברית ודיבור בעברית. שם התצוגה: **Disney Channel ישראל - מקור חלופי - בדיקה**. הרשומה הקודמת של Disney Channel בקבוצת **אין שידור כרגע** נשמרה; מקור הבדיקה החדש משתמש בכתובת אחרת. טרם התקבל אישור ניגון של דורון ב־LG/SS IPTV.
