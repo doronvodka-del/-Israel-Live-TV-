@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 301 channel entries, 23 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 305 channel entries, 23 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -1079,3 +1079,15 @@ https://tvsen6.aynaott.com/travelxp/index.m3u8
 # Alternate source for the existing unavailable Disney Channel entry. LG/SS IPTV playback pending Doron's confirmation.
 #EXTINF:-1 tvg-id="DisneyChannel.il@SD" tvg-name="Disney Channel ישראל" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="חדשים לבדיקה",Disney Channel ישראל - מקור חלופי - בדיקה
 http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2382/index.m3u
+
+# סלקום טיוי — מועמדים חדשים לבדיקה ב־LG
+# מקור השידורים: הרשימה הקהילתית il90il90/m3u-tv, קובץ cell.m3u. שמות הערוצים אומתו בקטלוג סלקום ב־23.11.2026.
+# בדיקת הניגון מרחוק הסתיימה בהמתנה לחיבור בכל ארבעת הערוצים. ממתינים לבדיקת ניגון בטלוויזיה.
+#EXTINF:-1 tvg-name="סלקום סדרות" group-title="חדשים לבדיקה",סלקום סדרות
+http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout03/index.m3u8?smil_profile=mobile
+#EXTINF:-1 tvg-name="סלקום דוקו" group-title="חדשים לבדיקה",סלקום דוקו
+http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout01/index.m3u8?smil_profile=mobile
+#EXTINF:-1 tvg-name="ערוץ הקולנוע הישראלי (סלקום)" group-title="חדשים לבדיקה",ערוץ הקולנוע הישראלי (סלקום)
+http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/78/mob/srt_israeli_movies/index.m3u8?smil_profile=default
+#EXTINF:-1 tvg-name="סלקום קידס" group-title="חדשים לבדיקה",סלקום קידס
+http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout07/index.m3u8?smil_profile=mobile
