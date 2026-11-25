@@ -1603,7 +1603,7 @@ https://n-121-11.il.cdn-redge.media/livehls/oil/freetv/live/fomo/live.livx/playl
 # ===== HOT channel research 2026-11-25 =====
 # Official current lineup: https://www.hot.net.il/media/djabcqje/hot-tv-prices-11-11-2026.pdf
 # Current EPG adds Goalstar 26: https://www.hot.net.il/heb/tv/tvguide
-# Metrics: {"as_of":"2026-11-25","group":"ערוצי הוט לבדיקה","lineup_total":209,"core_found_and_added":194,"core_missing":15,"coverage_percent":92.82,"verified_playing_total":62,"user_confirmed_on_LG":44,"decoded_video_with_matching_identity":18,"core_pending_LG":132,"supplementary_catalogue_only_added":3,"group_entries_total":197,"group_pending_LG_total":135,"existing_entries_preserved":447,"total_playlist_entries":644,"distinct_stream_urls":196}
+# Metrics: {"as_of":"2026-11-25","group":"ערוצי הוט לבדיקה","lineup_total":209,"core_found_and_added":195,"core_missing":14,"coverage_percent":93.3,"verified_playing_total":63,"user_confirmed_on_LG":44,"decoded_video_with_matching_identity":19,"core_pending_LG":132,"supplementary_catalogue_only_added":3,"group_entries_total":198,"group_pending_LG_total":135,"existing_entries_preserved":644,"total_playlist_entries":645,"distinct_stream_urls":197}
 # 209 confirmed linear services; excludes VOD/apps/interactive music. 4 additional catalogue-only records tracked separately.
 # user-confirmed-LG = user playback report; decoded-video = prior matching picture/logo verification in this conversation.
 # pending-LG = exact published source; environment prevented full playback validation. LG compatibility is not asserted.
@@ -2247,6 +2247,12 @@ https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="LBCInternational.lb@SD" tvg-chno="173" group-title="ערוצי הוט לבדיקה" content-type="stream",LBC International — קטלוג HOT; זמינות נוכחית לא אושרה — ממתין לבדיקה ב־LG
 http://185.9.2.18/chid_521/index.m3u8
 
+# HOT lcn=174 validation=decoded-video-2026-11-25 source=R2-EGO
+# Public source: https://github.com/dor2500/israel-tv-plus/blob/81695a4ae389d646f6c7435be4a1ff3a8431435a/channels.json
+# Actual video identity: purple X / ערוץ אגו logo, Hebrew subtitles; legacy EgoTotal label corrected by decoded footage. H.264 720x576 + AAC; not yet tested on LG.
+#EXTINF:-1 tvg-id="Ego.il" tvg-name="אגו" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/81695a4ae389d646f6c7435be4a1ff3a8431435a/assets/logos/ego_channel_il.png" tvg-chno="174" group-title="ערוצי הוט לבדיקה" content-type="stream",אגו
+http://osoyz0xv.ottclub.xyz/iptv/HSD8UEK6E2AENH/32317/index.m3u8
+
 # HOT lcn=175 validation=pending-LG-network-restricted source=S06
 #EXTINF:-1 tvg-id="" tvg-chno="175" group-title="ערוצי הוט לבדיקה" content-type="stream",בית+ — ממתין לבדיקה ב־LG
 http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2339/index.m3u8
@@ -2447,7 +2453,7 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/pl
 # S36 https://github.com/iptv-org/iptv/blob/46c85ffcd6e04ab5d2cc2450d2159cd01f2da1cc/streams/uk.m3u
 
 # ===== Coverage gaps (comments only) =====
-# Missing lcn=25 name=ערוץ ההומור 2 reason=Conflicting labels identify Humor1 HD/SD, not proven Humor2.
+# Missing lcn=25 name=ערוץ ההומור 2 reason=Decoded comparison confirmed 32316 is Humor1 SD, the same programme/logo as Humor1 HD 32161; not Humor2. Exact srt_humor2 source requires a subscription JWT and was excluded.
 # Search attempted: "ערוץ ההומור 2" m3u8
 # Search attempted: "Humor Channel 2"
 # Search attempted: "the-humor-channel2-il-hd"
@@ -2471,7 +2477,7 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/pl
 # Search attempted: "RTVI Retro" m3u8
 # Search attempted: "RTVI Retro" extension:m3u
 # Search attempted: "rtvi_retro" m3u8
-# Missing lcn=128 name=RTVC reason=No Russian-Canadian RTVC source; unrelated Spanish/Colombian channels rejected.
+# Missing lcn=128 name=RTVC reason=Identity corrected: Israeli Russian-language RTVC Cable (RBN/TBN), not a Canadian channel. No exact public direct source found; Shalom Satellite is a separately scheduled service.
 # Search attempted: "RTVC IL" extension:m3u
 # Search attempted: "RTVC.il" extension:m3u
 # Search attempted: "RTVC" Israel m3u8
@@ -2480,10 +2486,6 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/pl
 # Search attempted: "IETV.il" m3u8
 # Search attempted: "IETV" "m3u8" Ethiopian
 # Search attempted: "IETV" Ethiopian Israel live stream
-# Missing lcn=174 name=אגו reason=Ego Total combat sources are not Ego entertainment.
-# Search attempted: "Ego" "IL" "m3u8" -Total
-# Search attempted: "Ego IL" m3u8
-# Search attempted: "אגו" "m3u8"
 # Missing lcn=179 name=ערוץ PRIDE TV reason=No exact Israeli PrideTV direct live source found.
 # Search attempted: "PRIDE TV" "m3u8" Israel
 # Search attempted: "PRIDETV.il"
@@ -2497,4 +2499,5 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/pl
 # Missing lcn=227 name=BARELY LEGAL reason=Adult-content links not provided; no source search performed.
 # Missing lcn=228 name=Playboy TV reason=Adult-content links not provided; no source search performed.
 # Catalogue-only unresolved: HOT תמיד איתכם, LCN224; current availability uncertain. Search attempted: "HOT תמיד איתכם" "m3u8"
+# Follow-up 2026-11-25: added verified Ego 174. All 644 existing channel entries and their stream URLs preserved. 14 core channels remain missing.
 # ===== End HOT research group =====
