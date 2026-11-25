@@ -1599,3 +1599,902 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/play
 #EXTINF:-1 content-type="stream" tvg-name="Fomo" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/fomo_tv.png" group-title="FreeTV",Fomo
 https://n-121-11.il.cdn-redge.media/livehls/oil/freetv/live/fomo/live.livx/playlist.m3u8
 
+
+# ===== HOT channel research 2026-11-25 =====
+# Official current lineup: https://www.hot.net.il/media/djabcqje/hot-tv-prices-11-11-2026.pdf
+# Current EPG adds Goalstar 26: https://www.hot.net.il/heb/tv/tvguide
+# Metrics: {"as_of":"2026-11-25","group":"ערוצי הוט לבדיקה","lineup_total":209,"core_found_and_added":194,"core_missing":15,"coverage_percent":92.82,"verified_playing_total":62,"user_confirmed_on_LG":44,"decoded_video_with_matching_identity":18,"core_pending_LG":132,"supplementary_catalogue_only_added":3,"group_entries_total":197,"group_pending_LG_total":135,"existing_entries_preserved":447,"total_playlist_entries":644,"distinct_stream_urls":196}
+# 209 confirmed linear services; excludes VOD/apps/interactive music. 4 additional catalogue-only records tracked separately.
+# user-confirmed-LG = user playback report; decoded-video = prior matching picture/logo verification in this conversation.
+# pending-LG = exact published source; environment prevented full playback validation. LG compatibility is not asserted.
+# English/international sources may differ from the HOT local feed, subtitles, schedule or resolution.
+# All 447 previous entries remain unchanged; duplicates across groups are intentional.
+# Official SD/HD service slots are counted separately even when using equivalent underlying content.
+
+# HOT lcn=0 validation=decoded-video-prior-check source=S01
+#EXTINF:-1 tvg-id="" tvg-chno="0" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT Senior
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/31940/index.m3u
+
+# HOT lcn=1 validation=decoded-video-prior-check source=S01
+#EXTINF:-1 tvg-id="" tvg-chno="1" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT REAL
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/12274/index.m3u
+
+# HOT lcn=3 validation=decoded-video-prior-check source=S01
+#EXTINF:-1 tvg-id="" tvg-chno="3" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT 3
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2367/index.m3u
+
+# HOT lcn=4 validation=pending-LG-network-restricted source=S02
+#EXTINF:-1 tvg-id="" tvg-chno="4" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT DRAMA — ממתין לבדיקה ב־LG
+http://stream.mcquack.net/381/index.m3u8
+
+# HOT lcn=5 validation=decoded-video-prior-check source=S01
+#EXTINF:-1 tvg-id="" tvg-chno="5" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT Zone
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2360/index.m3u
+
+# HOT lcn=6 validation=decoded-video-prior-check source=S01
+#EXTINF:-1 tvg-id="" tvg-chno="6" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT Comedy
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/12217/index.m3u
+
+# HOT lcn=7 validation=decoded-video-prior-check source=S01
+#EXTINF:-1 tvg-id="" tvg-chno="7" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT בידור
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/12219/index.m3u
+
+# HOT lcn=8 validation=decoded-video-prior-check source=S01
+#EXTINF:-1 tvg-id="" tvg-chno="8" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT8
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/12216/index.m3u
+
+# HOT lcn=9 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="Channel9.il@SD" tvg-chno="9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel9-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ 9
+https://contact.gostreaming.tv/Con-11/index.m3u8
+
+# HOT lcn=10 validation=pending-LG-network-restricted source=S02
+#EXTINF:-1 tvg-id="EconomyChannel.il@SD" tvg-chno="10" group-title="ערוצי הוט לבדיקה" content-type="stream",הערוץ הכלכלי — ממתין לבדיקה ב־LG
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+
+# HOT lcn=11 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="Kan11.il@SD" tvg-chno="11" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/kan11-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",כאן 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+
+# HOT lcn=12 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="" tvg-chno="12" tvg-logo="https://cms.freetv.tv/uploads/12_9543734b96.webp?updated_at=2023-05-30T10:29:38.797Z" group-title="ערוצי הוט לבדיקה" content-type="stream",קשת 12
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12/live.livx/playlist.m3u8?fmp4&renditions
+
+# HOT lcn=13 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="Channel13.il@SD" tvg-chno="13" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/reshet13-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",רשת 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+
+# HOT lcn=14 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="Now14.il@SD" tvg-chno="14" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",עכשיו 14
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+
+# HOT lcn=15 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="i24NEWSHebrew.il@SD" tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ החדשות i24NEWS בעברית
+https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
+
+# HOT lcn=16 validation=decoded-video-prior-check source=S01
+#EXTINF:-1 tvg-id="" tvg-chno="16" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT cinema 1 HD
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2357/index.m3u
+
+# HOT lcn=17 validation=decoded-video-prior-check source=S01
+#EXTINF:-1 tvg-id="" tvg-chno="17" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT cinema 2 HD
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/12215/index.m3u
+
+# HOT lcn=18 validation=decoded-video-prior-check source=S01
+#EXTINF:-1 tvg-id="" tvg-chno="18" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT cinema 3 HD
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2372/index.m3u
+
+# HOT lcn=19 validation=decoded-video-prior-check source=S01
+#EXTINF:-1 tvg-id="" tvg-chno="19" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT cinema 4 HD
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2356/index.m3u
+
+# HOT lcn=20 validation=pending-LG-network-restricted source=S04
+#EXTINF:-1 tvg-id="" tvg-chno="20" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT קולנוע ישראלי — ממתין לבדיקה ב־LG
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32138/index.m3u8
+
+# HOT lcn=21 validation=pending-LG-network-restricted source=S04
+#EXTINF:-1 tvg-id="" tvg-chno="21" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT cinema 5 — ממתין לבדיקה ב־LG
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32137/index.m3u8
+
+# HOT lcn=22 validation=pending-LG-network-restricted source=S04
+#EXTINF:-1 tvg-id="humor_channel_il" tvg-chno="22" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ ההומור — ממתין לבדיקה ב־LG
+http://osoyz0xv.ottclub.xyz/iptv/HSD8UEK6E2AENH/32161/index.m3u8
+
+# HOT lcn=23 validation=pending-LG-network-restricted source=S04
+#EXTINF:-1 tvg-id="classic_comedy_il" tvg-chno="23" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הקומדיות הקלאסיות — ממתין לבדיקה ב־LG
+http://osoyz0xv.ottclub.xyz/iptv/HSD8UEK6E2AENH/32136/index.m3u8
+
+# HOT lcn=24 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="" tvg-chno="24" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/master/playlist-logos/channel24.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ 24
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/music24/live.livx/playlist.m3u8
+
+# HOT lcn=27 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="VivaTelenovelas.il@SD" tvg-chno="27" tvg-logo="https://cms.freetv.tv/uploads/viva_tel_af50a0efc4.png?updated_at=2024-04-02T10:31:51.645Z" group-title="ערוצי הוט לבדיקה" content-type="stream",ויוה טלנובלות
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
+
+# HOT lcn=28 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="VivaIstanbul.il@SD" tvg-chno="28" tvg-logo="https://cms.freetv.tv/uploads/viva_ist_964c2b1ee7.png?updated_at=2024-04-02T10:31:51.634Z" group-title="ערוצי הוט לבדיקה" content-type="stream",ויוה איסטנבול
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8
+
+# HOT lcn=29 validation=pending-LG-network-restricted source=S05
+#EXTINF:-1 tvg-id="" tvg-chno="29" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הדרמות הטורקיות 2 — ממתין לבדיקה ב־LG
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/14208/index.m3u8
+
+# HOT lcn=31 validation=pending-LG-network-restricted source=S04
+#EXTINF:-1 tvg-id="" tvg-chno="31" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT קולנוע רומנטי — ממתין לבדיקה ב־LG
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32144/index.m3u8
+
+# HOT lcn=33 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="Makan33.il@SD" tvg-chno="33" tvg-logo="https://i.imgur.com/RVtQTed.png" group-title="ערוצי הוט לבדיקה" content-type="stream",כאן 33
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+
+# HOT lcn=34 validation=pending-LG-network-restricted source=S04
+#EXTINF:-1 tvg-id="yam_tichoni_hd" tvg-chno="34" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ ים תיכוני — ממתין לבדיקה ב־LG
+http://osoyz0xv.ottclub.xyz/iptv/HSD8UEK6E2AENH/2390/index.m3u8
+
+# HOT lcn=35 validation=pending-LG-network-restricted source=S05
+#EXTINF:-1 tvg-id="" tvg-chno="35" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הדרמות הטורקיות 3 — ממתין לבדיקה ב־LG
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/14220/index.m3u8
+
+# HOT lcn=36 validation=pending-LG-network-restricted source=S05
+#EXTINF:-1 tvg-id="" tvg-chno="36" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הדרמות הטורקיות+ — ממתין לבדיקה ב־LG
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/14207/index.m3u8
+
+# HOT lcn=37 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="37" group-title="ערוצי הוט לבדיקה" content-type="stream",החיים הטובים — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2355/index.m3u8
+
+# HOT lcn=38 validation=pending-LG-network-restricted source=S07
+#EXTINF:-1 tvg-id="" tvg-chno="38" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ האוכל — ממתין לבדיקה ב־LG
+http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8
+
+# HOT lcn=39 validation=pending-LG-network-restricted source=S04
+#EXTINF:-1 tvg-id="" tvg-chno="39" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT MIND — ממתין לבדיקה ב־LG
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32143/index.m3u8
+
+# HOT lcn=40 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="40" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הטיולים — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2361/index.m3u8
+
+# HOT lcn=42 validation=pending-LG-network-restricted source=S04
+#EXTINF:-1 tvg-id="yam_tichoni_plus_il" tvg-chno="42" group-title="ערוצי הוט לבדיקה" content-type="stream",הערוץ הים תיכוני+ — ממתין לבדיקה ב־LG
+http://osoyz0xv.ottclub.xyz/iptv/HSD8UEK6E2AENH/12224/index.m3u8
+
+# HOT lcn=43 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="43" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ ההיסטוריה — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/7100/index.m3u8
+
+# HOT lcn=44 validation=decoded-video-prior-check source=S08
+#EXTINF:-1 tvg-id="DiscoveryChannelMiddleEastAfrica.us@SD" tvg-chno="44" group-title="ערוצי הוט לבדיקה" content-type="stream",Discovery MEA — English, כתוביות בערבית
+http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8
+
+# HOT lcn=45 validation=pending-LG-network-restricted source=S09
+#EXTINF:-1 tvg-id="4311" tvg-chno="45" tvg-logo="http://epg.one/img/4311.png" group-title="ערוצי הוט לבדיקה" content-type="stream",NAT GEO WILD — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12248/index.m3u8
+
+# HOT lcn=46 validation=user-confirmed-LG-prior-conversation source=S03
+#EXTINF:-1 tvg-id="" tvg-chno="46" tvg-logo="https://s3.aynaott.com/storage/2dce8297266bbc9c235c27119f914e1b" group-title="ערוצי הוט לבדיקה" content-type="stream",National Geographic — English
+https://tvsen6.aynaott.com/natgeo/index.m3u8
+
+# HOT lcn=47 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="OneEdge.il@SD" tvg-chno="47" tvg-logo="https://cms.freetv.tv/uploads/edge_06973a878a.webp?updated_at=2023-05-30T10:29:39.471Z" group-title="ערוצי הוט לבדיקה" content-type="stream",ONE EDGE
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8
+
+# HOT lcn=48 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="OneDoco.il@SD" tvg-chno="48" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-doco-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ONE DOCO
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
+
+# HOT lcn=49 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="One2.il@SD" tvg-chno="49" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one2-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ONE2
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
+
+# HOT lcn=50 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="One.il@SD" tvg-chno="50" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ONE
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8
+
+# HOT lcn=51 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="51" group-title="ערוצי הוט לבדיקה" content-type="stream",ספורט 1 — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2353/index.m3u8
+
+# HOT lcn=52 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="52" group-title="ערוצי הוט לבדיקה" content-type="stream",ספורט 2 — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2352/index.m3u8
+
+# HOT lcn=53 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="53" group-title="ערוצי הוט לבדיקה" content-type="stream",ספורט 3 HD — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2388/index.m3u8
+
+# HOT lcn=54 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="54" group-title="ערוצי הוט לבדיקה" content-type="stream",ספורט 4 HD — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2389/index.m3u8
+
+# HOT lcn=55 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="5Sport.il@SD" tvg-chno="55" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",5SPORT
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
+
+# HOT lcn=56 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="5Plus.il@SD" tvg-chno="56" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5plus-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",5PLUS
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
+
+# HOT lcn=57 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="5Gold.il@SD" tvg-chno="57" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5gold-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",5GOLD
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
+
+# HOT lcn=58 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="5Live.il@SD" tvg-chno="58" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5live-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",5LIVE
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
+
+# HOT lcn=59 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="5Stars.il@SD" tvg-chno="59" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5stars-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",5STARS
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
+
+# HOT lcn=60 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="5Max.il@SD" tvg-chno="60" tvg-logo="https://cms.freetv.tv/uploads/sport5max_7d0d681281.webp" group-title="ערוצי הוט לבדיקה" content-type="stream",5MAX
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
+
+# HOT lcn=61 validation=pending-LG-network-restricted source=S03
+#EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-chno="61" group-title="ערוצי הוט לבדיקה" content-type="stream",EUROSPORT — ממתין לבדיקה ב־LG
+https://s7.iptv-24.net/1439/playlist.m3u8
+
+# HOT lcn=62 validation=pending-LG-network-restricted source=S03
+#EXTINF:-1 tvg-id="Eurosport2.fr@Russia" tvg-chno="62" group-title="ערוצי הוט לבדיקה" content-type="stream",EUROSPORT 2 — ממתין לבדיקה ב־LG
+https://s7.iptv-24.net/1452/playlist.m3u8
+
+# HOT lcn=63 validation=decoded-video-prior-check source=S03
+#EXTINF:-1 tvg-id="MotorvisionPlus.de@SD" tvg-chno="63" tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positiv_light_background-1024x232.png" group-title="ערוצי הוט לבדיקה" content-type="stream",Motorvision+ — English
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
+
+# HOT lcn=64 validation=pending-LG-network-restricted source=S09
+#EXTINF:-1 tvg-id="11974" tvg-chno="64" tvg-logo="http://epg.one/img/11974.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ספורט 6 — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32003/index.m3u8
+
+# HOT lcn=65 validation=pending-LG-network-restricted source=S04
+#EXTINF:-1 tvg-id="gameshow_channel_il" tvg-chno="65" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ השעשועונים — ממתין לבדיקה ב־LG
+http://osoyz0xv.ottclub.xyz/iptv/HSD8UEK6E2AENH/32158/index.m3u8
+
+# HOT lcn=66 validation=pending-LG-network-restricted source=S09
+#EXTINF:-1 tvg-id="12004" tvg-chno="66" tvg-logo="http://epg.one/img/12004.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הנופש — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32160/index.m3u8
+
+# HOT lcn=67 validation=pending-LG-network-restricted source=S03
+#EXTINF:-1 tvg-id="" tvg-chno="67" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/reshet13_reality_il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הריאליטי — ממתין לבדיקה ב־LG
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
+
+# HOT lcn=68 validation=pending-LG-network-restricted source=S09
+#EXTINF:-1 tvg-id="11982" tvg-chno="68" tvg-logo="http://epg.one/img/11982.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הדרמות הספרדיות 1 — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32132/index.m3u8
+
+# HOT lcn=69 validation=pending-LG-network-restricted source=S09
+#EXTINF:-1 tvg-id="11983" tvg-chno="69" tvg-logo="http://epg.one/img/11983.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הדרמות הספרדיות 2 — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32133/index.m3u8
+
+# HOT lcn=70 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="DaystarTV.us@SD" tvg-chno="70" tvg-logo="https://cms.freetv.tv/uploads/daystar_16abc1c92e.png" group-title="ערוצי הוט לבדיקה" content-type="stream",Daystar
+https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
+
+# HOT lcn=71 validation=pending-LG-network-restricted source=S11
+#EXTINF:-1 tvg-id="11993" tvg-chno="71" tvg-logo="http://epg.one/img/11993.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ האהבה — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32145/index.m3u8
+
+# HOT lcn=72 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="" tvg-chno="72" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/stars_kids_il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הכוכבים
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/starz/live.livx/playlist.m3u8
+
+# HOT lcn=73 validation=pending-LG-network-restricted source=S11
+#EXTINF:-1 tvg-id="11989" tvg-chno="73" tvg-logo="http://epg.one/img/11989.png" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT Buzz — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32139/index.m3u8
+
+# HOT lcn=74 validation=pending-LG-network-restricted source=S07
+#EXTINF:-1 tvg-id="" tvg-chno="74" tvg-logo="https://iptv-epg.org/images/JK2Z1b0eufBU7fXXrHAjXQzSkrSklT9AwvvbeeRYDJRMg_7l85SQdcIr8r-134qlGaXNNauYXcSAnuy9X4Xh-oIzVCAXxgECGN_U_N1_tGOc" group-title="ערוצי הוט לבדיקה" content-type="stream",Zoom Toon — ממתין לבדיקה ב־LG
+http://str2.iptvhd.ru:8080/ZOOM_TOON/index.m3u8
+
+# HOT lcn=75 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="" tvg-chno="75" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/baby_tv_he.png" group-title="ערוצי הוט לבדיקה" content-type="stream",בייבי
+http://osoyz0xv.ottclub.xyz/iptv/HSD8UEK6E2AENH/2370/index.m3u8
+
+# HOT lcn=76 validation=decoded-video-prior-check source=S10
+#EXTINF:-1 tvg-id="" tvg-chno="76" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/hot-lolly-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT לולי
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31939/index.m3u8
+
+# HOT lcn=77 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="77" group-title="ערוצי הוט לבדיקה" content-type="stream",הופ! — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2338/index.m3u8
+
+# HOT lcn=78 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="78" group-title="ערוצי הוט לבדיקה" content-type="stream",הופ! ילדות ישראלית — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2368/index.m3u8
+
+# HOT lcn=79 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="79" group-title="ערוצי הוט לבדיקה" content-type="stream",Disney Junior — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2333/index.m3u8
+
+# HOT lcn=80 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="" tvg-chno="80" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/master/playlist-logos/kan_hinuchit.png" group-title="ערוצי הוט לבדיקה" content-type="stream",כאן חינוכית
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
+
+# HOT lcn=81 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="81" group-title="ערוצי הוט לבדיקה" content-type="stream",TeenNick — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2334/index.m3u8
+
+# HOT lcn=82 validation=decoded-video-prior-check source=S10
+#EXTINF:-1 tvg-id="DisneyChannel.il@SD" tvg-chno="82" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="ערוצי הוט לבדיקה" content-type="stream",דיסני
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2382/index.m3u
+
+# HOT lcn=83 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="83" group-title="ערוצי הוט לבדיקה" content-type="stream",Zoom — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2359/index.m3u8
+
+# HOT lcn=84 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="84" group-title="ערוצי הוט לבדיקה" content-type="stream",ניקלודיאון — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/7093/index.m3u8
+
+# HOT lcn=85 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="85" group-title="ערוצי הוט לבדיקה" content-type="stream",Nick Jr — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2337/index.m3u8
+
+# HOT lcn=86 validation=decoded-video-prior-check source=S01
+#EXTINF:-1 tvg-id="" tvg-chno="86" group-title="ערוצי הוט לבדיקה" content-type="stream",HOT Family
+http://f9ohqcqv.megogo.xyz/iptv/WKH4UCY7ZDL84NDB8RLC3ZXS/2151/index.m3u
+
+# HOT lcn=87 validation=pending-LG-network-restricted source=S04
+#EXTINF:-1 tvg-id="" tvg-chno="87" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ האקשן העולמי 1 — ממתין לבדיקה ב־LG
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32130/index.m3u8
+
+# HOT lcn=88 validation=pending-LG-network-restricted source=S04
+#EXTINF:-1 tvg-id="" tvg-chno="88" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ האקשן העולמי 2 — ממתין לבדיקה ב־LG
+http://b84203c4.ottrast.com/iptv/QAP2YS2594ZQS3/32131/index.m3u8
+
+# HOT lcn=89 validation=pending-LG-network-restricted source=S11
+#EXTINF:-1 tvg-id="5071" tvg-chno="89" tvg-logo="http://epg.one/img/5071.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הסרטים ההודים — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12267/index.m3u8
+
+# HOT lcn=90 validation=pending-LG-network-restricted source=S11
+#EXTINF:-1 tvg-id="11976" tvg-chno="90" tvg-logo="http://epg.one/img/11976.png" group-title="ערוצי הוט לבדיקה" content-type="stream",בוליווד סדרות — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32125/index.m3u8
+
+# HOT lcn=91 validation=pending-LG-network-restricted source=S11
+#EXTINF:-1 tvg-id="5071" tvg-chno="91" tvg-logo="http://epg.one/img/5071.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הסרטים ההודים HD — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12267/index.m3u8
+
+# HOT lcn=92 validation=pending-LG-network-restricted source=S11
+#EXTINF:-1 tvg-id="11996" tvg-chno="92" tvg-logo="http://epg.one/img/11996.png" group-title="ערוצי הוט לבדיקה" content-type="stream",בוליווד קלאסיק — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32150/index.m3u8
+
+# HOT lcn=93 validation=pending-LG-network-restricted source=S11
+#EXTINF:-1 tvg-id="11984" tvg-chno="93" tvg-logo="http://epg.one/img/11984.png" group-title="ערוצי הוט לבדיקה" content-type="stream",דרמות הודיות 1 — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32134/index.m3u8
+
+# HOT lcn=94 validation=pending-LG-network-restricted source=S11
+#EXTINF:-1 tvg-id="11985" tvg-chno="94" tvg-logo="http://epg.one/img/11985.png" group-title="ערוצי הוט לבדיקה" content-type="stream",דרמות הודיות 2 — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32135/index.m3u8
+
+# HOT lcn=95 validation=pending-LG-network-restricted source=S05
+#EXTINF:-1 tvg-id="" tvg-chno="95" group-title="ערוצי הוט לבדיקה" content-type="stream",ויוה וינטג׳ — ממתין לבדיקה ב־LG
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/31937/index.m3u8
+
+# HOT lcn=96 validation=pending-LG-network-restricted source=S11
+#EXTINF:-1 tvg-id="9055" tvg-chno="96" tvg-logo="http://epg.one/img/9055.png" group-title="ערוצי הוט לבדיקה" content-type="stream",Viva Love Story — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12226/index.m3u8
+
+# HOT lcn=97 validation=pending-LG-network-restricted source=S12
+#EXTINF:-1 tvg-id="" tvg-chno="97" group-title="ערוצי הוט לבדיקה" content-type="stream",הידברות — ממתין לבדיקה ב־LG
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+
+# HOT lcn=98 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="98" group-title="ערוצי הוט לבדיקה" content-type="stream",הערוץ הקהילתי — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2369/index.m3u8
+
+# HOT lcn=99 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="https://cms.freetv.tv/uploads/knesset_7a7270052d.webp?updated_at=2023-05-31T06:06:50.575Z" group-title="ערוצי הוט לבדיקה" content-type="stream",כנסת
+https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
+
+# HOT lcn=101 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="ChannelOne.ru@Europa" tvg-chno="101" group-title="ערוצי הוט לבדיקה" content-type="stream",Channel One Russia International — ממתין לבדיקה ב־LG
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+
+# HOT lcn=102 validation=pending-LG-network-restricted source=S14
+#EXTINF:-1 tvg-id="" tvg-chno="102" group-title="ערוצי הוט לבדיקה" content-type="stream",RTR Planeta — ממתין לבדיקה ב־LG
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/3589615170/index.m3u8
+
+# HOT lcn=103 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="RTVi.ru@SD" tvg-chno="103" group-title="ערוצי הוט לבדיקה" content-type="stream",RTVi — ממתין לבדיקה ב־LG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/RTVi/index.m3u8
+
+# HOT lcn=105 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="RENTV.ru@SD" tvg-chno="105" group-title="ערוצי הוט לבדיקה" content-type="stream",REN TV — ממתין לבדיקה ב־LG
+http://31.148.5.241/kanal_11/index.m3u8
+
+# HOT lcn=106 validation=pending-LG-network-restricted source=S14
+#EXTINF:-1 tvg-id="" tvg-chno="106" group-title="ערוצי הוט לבדיקה" content-type="stream",NASHE KINO — ממתין לבדיקה ב־LG
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:http-referrer=https://vavoo.tv
+https://www.vavoo.to/play/3863276446/index.m3u8
+
+# HOT lcn=108 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-chno="108" group-title="ערוצי הוט לבדיקה" content-type="stream",Dom Kino — ממתין לבדיקה ב־LG
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+
+# HOT lcn=109 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" tvg-chno="109" group-title="ערוצי הוט לבדיקה" content-type="stream",Dom Kino Premium — ממתין לבדיקה ב־LG
+http://stream.mcquack.net/108/index.m3u8
+
+# HOT lcn=110 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="Vremya.ru@SD" tvg-chno="110" group-title="ערוצי הוט לבדיקה" content-type="stream",Vremya — ממתין לבדיקה ב־LG
+http://88.212.15.50/live/test_vremya/playlist.m3u8
+
+# HOT lcn=113 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="MosfilmGoldCollection.ru@SD" tvg-chno="113" group-title="ערוצי הוט לבדיקה" content-type="stream",Mosfilm Gold Collection — ממתין לבדיקה ב־LG
+http://31.222.235.15/mosfilm/index.m3u8
+
+# HOT lcn=114 validation=pending-LG-network-restricted source=S05
+#EXTINF:-1 tvg-id="" tvg-chno="114" group-title="ערוצי הוט לבדיקה" content-type="stream",CTC — ממתין לבדיקה ב־LG
+http://5hjadiez.russtv.net/iptv/EMNSBD5Y59KY2Z/15228/index.m3u8
+
+# HOT lcn=115 validation=pending-LG-network-restricted source=S15
+#EXTINF:-1 tvg-id="" tvg-chno="115" group-title="ערוצי הוט לבדיקה" content-type="stream",TVCI — ממתין לבדיקה ב־LG
+http://195.5.108.7/hls/TVCI_new/index.m3u8
+
+# HOT lcn=116 validation=pending-LG-network-restricted source=S16
+#EXTINF:-1 tvg-id="" tvg-chno="116" group-title="ערוצי הוט לבדיקה" content-type="stream",O! — ממתין לבדיקה ב־LG
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/727/index.m3u8
+
+# HOT lcn=117 validation=pending-LG-network-restricted source=S17
+#EXTINF:-1 tvg-id="CarouselInternational.ru" tvg-chno="117" tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="ערוצי הוט לבדיקה" content-type="stream",Carousel International — ממתין לבדיקה ב־LG
+http://moobl.ru/hls/Karusel_int.m3u8
+
+# HOT lcn=119 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-chno="119" group-title="ערוצי הוט לבדיקה" content-type="stream",Telecafe — ממתין לבדיקה ב־LG
+http://s1.merlive.am/telekafe/index.m3u8
+
+# HOT lcn=120 validation=pending-LG-network-restricted source=S16
+#EXTINF:-1 tvg-id="" tvg-chno="120" group-title="ערוצי הוט לבדיקה" content-type="stream",Pobeda — ממתין לבדיקה ב־LG
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/5052/index.m3u8
+
+# HOT lcn=121 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="Bober.ru@SD" tvg-chno="121" group-title="ערוצי הוט לבדיקה" content-type="stream",Bober — ממתין לבדיקה ב־LG
+http://88.212.15.50/live/test_bober/playlist.m3u8
+
+# HOT lcn=123 validation=pending-LG-network-restricted source=S11
+#EXTINF:-1 tvg-id="93257" tvg-chno="123" tvg-logo="http://epg.one/img/93257.png" group-title="ערוצי הוט לבדיקה" content-type="stream",GTV Israel — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32157/index.m3u8
+
+# HOT lcn=124 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" tvg-chno="124" group-title="ערוצי הוט לבדיקה" content-type="stream",Shanson TV — ממתין לבדיקה ב־LG
+http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
+
+# HOT lcn=125 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD" tvg-chno="125" group-title="ערוצי הוט לבדיקה" content-type="stream",Muzyka Pervogo — ממתין לבדיקה ב־LG
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+
+# HOT lcn=126 validation=pending-LG-network-restricted source=S18
+#EXTINF:-1 tvg-id="InterPlus.ua@SD" tvg-chno="126" group-title="ערוצי הוט לבדיקה" content-type="stream",Inter+ — ממתין לבדיקה ב־LG
+https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
+
+# HOT lcn=127 validation=pending-LG-network-restricted source=S18
+#EXTINF:-1 tvg-id="1Plus1International.ua@HD" tvg-chno="127" group-title="ערוצי הוט לבדיקה" content-type="stream",1+1 International — ממתין לבדיקה ב־LG
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+
+# HOT lcn=129 validation=pending-LG-network-restricted source=S16
+#EXTINF:-1 tvg-id="" tvg-chno="129" group-title="ערוצי הוט לבדיקה" content-type="stream",Rain — ממתין לבדיקה ב־LG
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/2030/index.m3u8
+
+# HOT lcn=130 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="NTVMir.ru@SD" tvg-chno="130" group-title="ערוצי הוט לבדיקה" content-type="stream",NTV Mir — ממתין לבדיקה ב־LG
+http://5.188.159.128:8070/ntvmir_TV/index.m3u8
+
+# HOT lcn=131 validation=pending-LG-network-restricted source=S19
+#EXTINF:-1 tvg-id="NTVLaw.ru@SD" tvg-chno="131" group-title="ערוצי הוט לבדיקה" content-type="stream",NTV Pravo — ממתין לבדיקה ב־LG
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+
+# HOT lcn=132 validation=pending-LG-network-restricted source=S19
+#EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-chno="132" group-title="ערוצי הוט לבדיקה" content-type="stream",NTV Serial — ממתין לבדיקה ב־LG
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+
+# HOT lcn=133 validation=pending-LG-network-restricted source=S19
+#EXTINF:-1 tvg-id="NTVStyle.ru@SD" tvg-chno="133" group-title="ערוצי הוט לבדיקה" content-type="stream",NTV Style — ממתין לבדיקה ב־LG
+https://cdn.ntv.ru/th_style/playlist.m3u8
+
+# HOT lcn=134 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-chno="134" group-title="ערוצי הוט לבדיקה" content-type="stream",Domashniy — ממתין לבדיקה ב־LG
+http://31.148.5.241/kanal_14/index.m3u8
+
+# HOT lcn=135 validation=pending-LG-network-restricted source=S20
+#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" tvg-chno="135" group-title="ערוצי הוט לבדיקה" content-type="stream",Euronews Russian — ממתין לבדיקה ב־LG
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+
+# HOT lcn=138 validation=pending-LG-network-restricted source=S13
+#EXTINF:-1 tvg-id="Poehali.ru@SD" tvg-chno="138" group-title="ערוצי הוט לבדיקה" content-type="stream",Poehali! — ממתין לבדיקה ב־LG
+http://88.212.15.50/live/test_poehali/playlist.m3u8
+
+# HOT lcn=139 validation=pending-LG-network-restricted source=S12
+#EXTINF:-1 tvg-id="" tvg-chno="139" group-title="ערוצי הוט לבדיקה" content-type="stream",קבלה לעם — ממתין לבדיקה ב־LG
+https://edge1.il.kab.tv/live/tv66-heb-high/playlist.m3u8
+
+# HOT lcn=141 validation=pending-LG-network-restricted source=S21
+#EXTINF:-1 tvg-id="M6International.fr" tvg-chno="141" group-title="ערוצי הוט לבדיקה" content-type="stream",M6 international — קטלוג HOT; זמינות נוכחית לא אושרה — ממתין לבדיקה ב־LG
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_1.m3u8
+
+# HOT lcn=142 validation=pending-LG-network-restricted source=S22
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-chno="142" group-title="ערוצי הוט לבדיקה" content-type="stream",BFM TV — ממתין לבדיקה ב־LG
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
+
+# HOT lcn=143 validation=pending-LG-network-restricted source=S22
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-chno="143" group-title="ערוצי הוט לבדיקה" content-type="stream",FRANCE 24 (צרפתית) — ממתין לבדיקה ב־LG
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+
+# HOT lcn=144 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-chno="144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצי הוט לבדיקה" content-type="stream",i24 בצרפתית
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+
+# HOT lcn=145 validation=pending-LG-network-restricted source=S22
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-chno="145" group-title="ערוצי הוט לבדיקה" content-type="stream",TV5MONDE — ממתין לבדיקה ב־LG
+http://5.180.164.197:8080/TV5MONDE/index.m3u8
+
+# HOT lcn=146 validation=pending-LG-network-restricted source=S22
+#EXTINF:-1 tvg-id="arte.fr@SD" tvg-chno="146" group-title="ערוצי הוט לבדיקה" content-type="stream",Arte — ממתין לבדיקה ב־LG
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+# HOT lcn=147 validation=pending-LG-network-restricted source=S22
+#EXTINF:-1 tvg-id="France2.fr@SD" tvg-chno="147" group-title="ערוצי הוט לבדיקה" content-type="stream",France 2 HD — ממתין לבדיקה ב־LG
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
+
+# HOT lcn=148 validation=pending-LG-network-restricted source=S22
+#EXTINF:-1 tvg-id="France3.fr@National" tvg-chno="148" group-title="ערוצי הוט לבדיקה" content-type="stream",France 3 — ממתין לבדיקה ב־LG
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
+
+# HOT lcn=149 validation=pending-LG-network-restricted source=S22
+#EXTINF:-1 tvg-id="France4.fr@SD" tvg-chno="149" group-title="ערוצי הוט לבדיקה" content-type="stream",France 4 — ממתין לבדיקה ב־LG
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8
+
+# HOT lcn=150 validation=pending-LG-network-restricted source=S22
+#EXTINF:-1 tvg-id="France5.fr@SD" tvg-chno="150" group-title="ערוצי הוט לבדיקה" content-type="stream",France 5 — ממתין לבדיקה ב־LG
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8
+
+# HOT lcn=151 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="151" group-title="ערוצי הוט לבדיקה" content-type="stream",SAT 1 — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/6060/index.m3u8
+
+# HOT lcn=152 validation=pending-LG-network-restricted source=S23
+#EXTINF:-1 tvg-id="VOX.de@SD" tvg-chno="152" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ VOX — ממתין לבדיקה ב־LG
+https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
+
+# HOT lcn=153 validation=pending-LG-network-restricted source=S23
+#EXTINF:-1 tvg-id="RTL.de@SD" tvg-chno="153" group-title="ערוצי הוט לבדיקה" content-type="stream",RTL — ממתין לבדיקה ב־LG
+https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
+
+# HOT lcn=154 validation=pending-LG-network-restricted source=S24
+#EXTINF:-1 tvg-id="TelefeInternacional.ar@SD" tvg-chno="154" group-title="ערוצי הוט לבדיקה" content-type="stream",TELEFE — ממתין לבדיקה ב־LG
+http://200.115.120.1:8000/play/ca016/index.m3u8
+
+# HOT lcn=155 validation=pending-LG-network-restricted source=S25
+#EXTINF:-1 tvg-id="RaiItalia.it@EuropeAfrica" tvg-chno="155" group-title="ערוצי הוט לבדיקה" content-type="stream",Rai Italia — ממתין לבדיקה ב־LG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+
+# HOT lcn=156 validation=pending-LG-network-restricted source=S25
+#EXTINF:-1 tvg-id="MediasetItalia.it@SD" tvg-chno="156" group-title="ערוצי הוט לבדיקה" content-type="stream",MEDIASET — ממתין לבדיקה ב־LG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
+
+# HOT lcn=157 validation=pending-LG-network-restricted source=S26
+#EXTINF:-1 tvg-id="TVEInternacionalEurope.es@SD" tvg-chno="157" group-title="ערוצי הוט לבדיקה" content-type="stream",TVE – ספרד — ממתין לבדיקה ב־LG
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8
+
+# HOT lcn=158 validation=pending-LG-network-restricted source=S26
+#EXTINF:-1 tvg-id="24Horas.es@SD" tvg-chno="158" group-title="ערוצי הוט לבדיקה" content-type="stream",CANAL 24 HORAS — ממתין לבדיקה ב־LG
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/24h/live.livx/playlist.m3u8
+
+# HOT lcn=159 validation=pending-LG-network-restricted source=S08
+#EXTINF:-1 tvg-id="DaystarTVEspanol.us@SD" tvg-chno="159" group-title="ערוצי הוט לבדיקה" content-type="stream",DAYSTAR Espanol — ממתין לבדיקה ב־LG
+http://167.249.23.102:8000/play/a0ev/index.m3u8
+
+# HOT lcn=160 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="160" group-title="ערוצי הוט לבדיקה" content-type="stream",Euro Star — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/6894/index.m3u8
+
+# HOT lcn=161 validation=pending-LG-network-restricted source=S09
+#EXTINF:-1 tvg-id="11998" tvg-chno="161" tvg-logo="http://epg.one/img/11998.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ZEE TV — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32153/index.m3u8
+
+# HOT lcn=162 validation=pending-LG-network-restricted source=S27
+#EXTINF:-1 tvg-id="Duna.hu@SD" tvg-chno="162" group-title="ערוצי הוט לבדיקה" content-type="stream",DUNA - הונגריה — ממתין לבדיקה ב־LG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/duna_hun/index.m3u8
+
+# HOT lcn=163 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="163" group-title="ערוצי הוט לבדיקה" content-type="stream",PRO TV — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/7055/index.m3u8
+
+# HOT lcn=164 validation=pending-LG-network-restricted source=S28
+#EXTINF:-1 tvg-id="TVRInternational.ro@SD" tvg-chno="164" group-title="ערוצי הוט לבדיקה" content-type="stream",TVR — ממתין לבדיקה ב־LG
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+
+# HOT lcn=165 validation=pending-LG-network-restricted source=S29
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-chno="165" group-title="ערוצי הוט לבדיקה" content-type="stream",NHK World-Japan — קטלוג HOT; זמינות נוכחית לא אושרה — ממתין לבדיקה ב־LG
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
+# HOT lcn=166 validation=pending-LG-network-restricted source=S30
+#EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-chno="166" group-title="ערוצי הוט לבדיקה" content-type="stream",RECORD TV — ממתין לבדיקה ב־LG
+https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
+
+# HOT lcn=167 validation=pending-LG-network-restricted source=S31
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-chno="167" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8e/Al_Aoula.png" group-title="ערוצי הוט לבדיקה" content-type="stream",מרוקו (RTM) — ממתין לבדיקה ב־LG
+https://live.snrt.ma/al_aoula/live.m3u8
+
+# HOT lcn=168 validation=pending-LG-network-restricted source=S10
+#EXTINF:-1 tvg-id="" tvg-chno="168" tvg-logo="https://www.metv.org/wp-content/uploads/2022/12/Home-Page-Logo-e1669912362556.png" group-title="ערוצי הוט לבדיקה" content-type="stream",METV — ממתין לבדיקה ב־LG
+https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
+
+# HOT lcn=169 validation=pending-LG-network-restricted source=S08
+#EXTINF:-1 tvg-id="SBNTV.us@SD" tvg-chno="169" group-title="ערוצי הוט לבדיקה" content-type="stream",SBN — ממתין לבדיקה ב־LG
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8
+
+# HOT lcn=170 validation=pending-LG-network-restricted source=S32
+#EXTINF:-1 tvg-id="AngelTV.in@Hebrew" tvg-chno="170" group-title="ערוצי הוט לבדיקה" content-type="stream",ANGEL TV — ממתין לבדיקה ב־LG
+https://janya-digimix.akamaized.net/vglive-sk-150533/hebrew/ngrp:angelhebrew_all/playlist.m3u8
+
+# HOT lcn=171 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="171" group-title="ערוצי הוט לבדיקה" content-type="stream",HALA TV — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/7135/index.m3u8
+
+# HOT lcn=172 validation=pending-LG-network-restricted source=S22
+#EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-chno="172" group-title="ערוצי הוט לבדיקה" content-type="stream",FRANCE 24 (ערבית) — ממתין לבדיקה ב־LG
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+
+# HOT lcn=173 validation=pending-LG-network-restricted source=S33
+#EXTINF:-1 tvg-id="LBCInternational.lb@SD" tvg-chno="173" group-title="ערוצי הוט לבדיקה" content-type="stream",LBC International — קטלוג HOT; זמינות נוכחית לא אושרה — ממתין לבדיקה ב־LG
+http://185.9.2.18/chid_521/index.m3u8
+
+# HOT lcn=175 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="175" group-title="ערוצי הוט לבדיקה" content-type="stream",בית+ — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2339/index.m3u8
+
+# HOT lcn=176 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="176" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הבריאות — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/2378/index.m3u8
+
+# HOT lcn=177 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="" tvg-chno="177" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/beautyz_il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הביוטיז
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/beautyz/live.livx/playlist.m3u8?fmp4&renditions
+
+# HOT lcn=178 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="178" group-title="ערוצי הוט לבדיקה" content-type="stream",Animal Planet — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/7122/index.m3u8
+
+# HOT lcn=180 validation=pending-LG-network-restricted source=S09
+#EXTINF:-1 tvg-id="11975" tvg-chno="180" tvg-logo="http://epg.one/img/11975.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ העיצוב — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32124/index.m3u8
+
+# HOT lcn=181 validation=pending-LG-network-restricted source=S09
+#EXTINF:-1 tvg-id="93255" tvg-chno="181" tvg-logo="http://epg.one/img/93255.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ האופנה הישראלי — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32155/index.m3u8
+
+# HOT lcn=182 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="Foody.il@SD" tvg-chno="182" tvg-logo="https://cms.freetv.tv/uploads/foody_161feaa603.png?updated_at=2025-06-29T08:57:43.546Z" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ FOODY
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
+
+# HOT lcn=183 validation=user-confirmed-LG-prior-conversation source=S03
+#EXTINF:-1 tvg-id="" tvg-chno="183" tvg-logo="https://s3.aynaott.com/storage/582675c375dfa47c2d66e6639fcd2eac" group-title="ערוצי הוט לבדיקה" content-type="stream",Food Network — English
+https://tvsen6.aynaott.com/foodnetwork/index.m3u8
+
+# HOT lcn=184 validation=decoded-video-prior-check source=S03
+#EXTINF:-1 tvg-id="" tvg-chno="184" tvg-logo="https://s3.aynaott.com/storage/a7f87f1e71905ee14429ed26abd29b2a" group-title="ערוצי הוט לבדיקה" content-type="stream",Travel Channel — English
+https://tvsen6.aynaott.com/travelxp/index.m3u8
+
+# HOT lcn=185 validation=pending-LG-network-restricted source=S09
+#EXTINF:-1 tvg-id="4005" tvg-chno="185" tvg-logo="http://epg.one/img/4005.png" group-title="ערוצי הוט לבדיקה" content-type="stream",! E — ממתין לבדיקה ב־LG
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12243/index.m3u8
+
+# HOT lcn=188 validation=pending-LG-network-restricted source=S10
+#EXTINF:-1 tvg-id="MadWorld.gr@SD" tvg-chno="188" group-title="ערוצי הוט לבדיקה" content-type="stream",MAD World — ממתין לבדיקה ב־LG
+https://ellastvmax.gotdns.com/freetv/madworldtv/tracks-v1a1/mono.ts.m3u8
+
+# HOT lcn=189 validation=pending-LG-network-restricted source=S06
+#EXTINF:-1 tvg-id="" tvg-chno="189" group-title="ערוצי הוט לבדיקה" content-type="stream",MTV Music — ממתין לבדיקה ב־LG
+http://y7x4wevn.russtv.net/iptv/3YC75XDZWYPR97/7116/index.m3u8
+
+# HOT lcn=190 validation=pending-LG-network-restricted source=S16
+#EXTINF:-1 tvg-id="" tvg-chno="190" group-title="ערוצי הוט לבדיקה" content-type="stream",MTV 00s — Israel — ממתין לבדיקה ב־LG
+http://zuvi6jfp.klaipedalt.org/iptv/9EEMQ96NEYM85HPTWGXHEBV7/19167/index.m3u8
+
+# HOT lcn=192 validation=pending-LG-network-restricted source=S15
+#EXTINF:-1 tvg-id="" tvg-chno="192" group-title="ערוצי הוט לבדיקה" content-type="stream",MTV HITS — ממתין לבדיקה ב־LG
+http://195.5.108.7/hls/MTV_Hits/index.m3u8
+
+# HOT lcn=195 validation=pending-LG-network-restricted source=S22
+#EXTINF:-1 tvg-id="Mezzo.fr@SD" tvg-chno="195" group-title="ערוצי הוט לבדיקה" content-type="stream",MEZZO — ממתין לבדיקה ב־LG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://92.180.26.103/stream/62/index.m3u8
+
+# HOT lcn=196 validation=pending-LG-network-restricted source=S22
+#EXTINF:-1 tvg-id="MezzoLive.fr@SD" tvg-chno="196" group-title="ערוצי הוט לבדיקה" content-type="stream",MEZZO live HD — ממתין לבדיקה ב־LG
+http://stream.mcquack.net/276/index.m3u8
+
+# HOT lcn=198 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="" tvg-chno="198" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/music_il_tv.png" group-title="ערוצי הוט לבדיקה" content-type="stream",מוסיקה il
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8?fmp4&renditions
+
+# HOT lcn=199 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="" tvg-chno="199" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/karaoke_il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הקריוקי
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/karaoke/live.livx/playlist.m3u8?fmp4&renditions
+
+# HOT lcn=200 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-chno="200" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצי הוט לבדיקה" content-type="stream",i24 באנגלית
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+
+# HOT lcn=201 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="" tvg-chno="201" tvg-logo="https://cms.freetv.tv/uploads/france24_cb6ba69913.png?updated_at=2023-08-13T06:06:23.675Z" group-title="ערוצי הוט לבדיקה" content-type="stream",FRANCE 24 (אנגלית)
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+# HOT lcn=202 validation=user-confirmed-LG-prior-conversation source=S10
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-chno="202" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="ערוצי הוט לבדיקה" content-type="stream",FOX News
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+
+# HOT lcn=203 validation=user-confirmed-LG-prior-conversation source=S10
+#EXTINF:-1 tvg-id="SkyNewsInternational.uk" tvg-chno="203" tvg-logo="https://dor2500.github.io/israel-tv-plus/assets/logos/sky_news.png" group-title="ערוצי הוט לבדיקה" content-type="stream",SKY News
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/17501/sde-fast-skynews/master.m3u8
+
+# HOT lcn=204 validation=pending-LG-network-restricted source=S10
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD" tvg-chno="204" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ NEWSMAX — ממתין לבדיקה ב־LG
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+# HOT lcn=205 validation=decoded-video-prior-check source=S08
+#EXTINF:-1 tvg-id="CNNInternational.us@Europe" tvg-chno="205" group-title="ערוצי הוט לבדיקה" content-type="stream",CNN International
+http://88.212.15.50/live/test_cnn_1200_atk/playlist.m3u8
+
+# HOT lcn=206 validation=user-confirmed-LG-prior-conversation source=S10
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" tvg-chno="206" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="ערוצי הוט לבדיקה" content-type="stream",Fox Business
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+
+# HOT lcn=207 validation=pending-LG-network-restricted source=S34
+#EXTINF:-1 tvg-id="BloombergTV.us@Europe" tvg-chno="207" group-title="ערוצי הוט לבדיקה" content-type="stream",Bloomberg Television — ממתין לבדיקה ב־LG
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+# HOT lcn=208 validation=pending-LG-network-restricted source=S23
+#EXTINF:-1 tvg-id="DW.de@English" tvg-chno="208" group-title="ערוצי הוט לבדיקה" content-type="stream",DW NEWS — ממתין לבדיקה ב־LG
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
+
+# HOT lcn=210 validation=user-confirmed-LG-prior-conversation source=S10
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-chno="210" group-title="ערוצי הוט לבדיקה" content-type="stream",euronews
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+
+# HOT lcn=211 validation=pending-LG-network-restricted source=S35
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-chno="211" group-title="ערוצי הוט לבדיקה" content-type="stream",CGTN — ממתין לבדיקה ב־LG
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+
+# HOT lcn=212 validation=pending-LG-network-restricted source=S35
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-chno="212" group-title="ערוצי הוט לבדיקה" content-type="stream",CGTN DOCO — ממתין לבדיקה ב־LG
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+# HOT lcn=222 validation=pending-LG-network-restricted source=S04
+#EXTINF:-1 tvg-id="mediterranean_movies_1" tvg-chno="222" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הסרטים הים תיכוני — ממתין לבדיקה ב־LG
+http://osoyz0xv.ottclub.xyz/iptv/HSD8UEK6E2AENH/32162/index.m3u8
+
+# HOT lcn=223 validation=pending-LG-network-restricted source=S04
+#EXTINF:-1 tvg-id="mediterranean_movies_2" tvg-chno="223" group-title="ערוצי הוט לבדיקה" content-type="stream",ערוץ הסרטים הים תיכוני 2 — ממתין לבדיקה ב־LG
+http://osoyz0xv.ottclub.xyz/iptv/HSD8UEK6E2AENH/32163/index.m3u8
+
+# HOT lcn=333 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="" tvg-chno="333" tvg-logo="https://rge.co.il/wp-content/uploads/2026/03/yoyo-home-tile.png" group-title="ערוצי הוט לבדיקה" content-type="stream",YOYO
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yoyo/live.livx/playlist.m3u8?fmp4&renditions
+
+# HOT lcn=334 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="" tvg-chno="334" tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/logi-freetv.png" group-title="ערוצי הוט לבדיקה" content-type="stream",לוגי
+https://n-121-12.il.cdn-redge.media/livehls/oil/freetv/live/logi/live.livx/playlist.m3u8
+
+# HOT lcn=335 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="" tvg-chno="335" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/fomo_tv.png" group-title="ערוצי הוט לבדיקה" content-type="stream",FOMO
+https://n-121-11.il.cdn-redge.media/livehls/oil/freetv/live/fomo/live.livx/playlist.m3u8
+
+# HOT lcn=336 validation=pending-LG-network-restricted source=S12
+#EXTINF:-1 tvg-id="" tvg-chno="336" group-title="ערוצי הוט לבדיקה" content-type="stream",Duck TV — ממתין לבדיקה ב־LG
+https://dash3.antik.sk/live/duck_tv/index.m3u8
+
+# HOT lcn=337 validation=pending-LG-network-restricted source=S36
+#EXTINF:-1 tvg-id="JimJamEurope.uk@SD" tvg-chno="337" group-title="ערוצי הוט לבדיקה" content-type="stream",JimJam Europe — ממתין לבדיקה ב־LG
+http://212.5.144.156:8080/jimjam/index.m3u8
+
+# HOT lcn=338 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="" tvg-chno="338" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/yalduti_songs_tv.png" group-title="ערוצי הוט לבדיקה" content-type="stream",שירי ילדותי
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti_songs/live.livx/playlist.m3u8
+
+# HOT lcn=339 validation=user-confirmed-LG-2026-11-25 source=S10
+#EXTINF:-1 tvg-id="Junior.il@SD" tvg-chno="339" tvg-logo="https://cms.freetv.tv/uploads/junior_2533abbc20.webp?updated_at=2023-05-30T10:29:39.434Z" group-title="ערוצי הוט לבדיקה" content-type="stream",ג׳וניור
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8
+
+# HOT lcn=555 validation=user-confirmed-LG-2026-11-25 source=S03
+#EXTINF:-1 tvg-id="5Sport4K.il@SD" tvg-chno="555" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport4k-il.png" group-title="ערוצי הוט לבדיקה" content-type="stream",5SPORT4K — מקור 1080p
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
+
+# ===== Source provenance =====
+# S01 https://github.com/hoyittvggfh45/moytv/blob/main/assets/live/m3u/10_community10.m3u8
+# S02 https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+# S03 https://github.com/doronvodka-del/-Israel-Live-TV-/blob/8bad421b4a9a7eaf427d3a2e08002eec3c32213b/Israel_Live_TV_Doron.m3u
+# S04 https://github.com/dor2500/israel-tv-plus/blob/81695a4ae389d646f6c7435be4a1ff3a8431435a/channels.json
+# S05 https://github.com/hoyittvggfh45/moytv/blob/246378ac2908bac22312736b5ffa01c3bfd8af8f/assets/live/m3u/11_community11.m3u8
+# S06 https://github.com/dimasuhum/dimasuhum.github.io/blob/feb79486aee23eee8712441ef2159b3ab5a3037d/xml/stream-2.m3u
+# S07 https://github.com/Mogo1346/mogostream/blob/8b58c13c3c1ab4e0720d0b8f4785b81844c29d46/channels.html
+# S08 https://github.com/iptv-org/iptv/blob/master/streams/us.m3u
+# S09 https://github.com/adir92781/ADIR/blob/72db56ae3493a9c7e01c65f3d87abd9de04d2d12/EVERYworld.m3u8
+# S10 https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+# S11 https://github.com/adir92781/ADIR/blob/main/EVERYworld.m3u8
+# S12 https://github.com/dor2500/israel-tv-plus/blob/main/channels.json
+# S13 https://github.com/iptv-org/iptv/blob/master/streams/ru.m3u
+# S14 https://github.com/SuperNova-Repo/Vavuu-IPTV/blob/3706ece08a1389fbf7b5f146737e9930cf2fc10f/Vavoo-IPTV-Russia-Turkey.m3u8
+# S15 https://github.com/HemulGM/IPTV-Player/blob/d4eb69aab4d16aca8e113dbea97dee36e22fa46f/Win32/Debug/IpTvPlayer2.m3u
+# S16 https://github.com/anemtyrev/anemtyrev.github.io/blob/e111dfd11e68f66267ffae73db2a08c9b2d4d95a/playlist.m3u8
+# S17 https://github.com/hujingguang/ChinaIPTV/blob/7f5e5c1ef3b5651777dbe252f242cacc61db4951/Russia.m3u8
+# S18 https://github.com/iptv-org/iptv/blob/master/streams/ua.m3u
+# S19 https://github.com/iptv-org/iptv/blob/master/streams/ru_ntv.m3u
+# S20 https://github.com/iptv-org/iptv/blob/46c85ffcd6e04ab5d2cc2450d2159cd01f2da1cc/streams/fr.m3u
+# S21 https://database.freetuxtv.net/webStream/index?WebStreamSearchForm_Na=&WebStream_page=250
+# S22 https://github.com/iptv-org/iptv/blob/master/streams/fr.m3u
+# S23 https://github.com/iptv-org/iptv/blob/master/streams/de.m3u
+# S24 https://github.com/iptv-org/iptv/blob/master/streams/ar.m3u
+# S25 https://github.com/iptv-org/iptv/blob/master/streams/it.m3u
+# S26 https://github.com/iptv-org/iptv/blob/master/streams/es.m3u
+# S27 https://github.com/iptv-org/iptv/blob/master/streams/hu.m3u
+# S28 https://github.com/iptv-org/iptv/blob/master/streams/ro.m3u
+# S29 https://github.com/iptv-org/iptv/blob/master/streams/jp.m3u
+# S30 https://github.com/spookyhost1/yarr-stremio/blob/750e234dcfa783873c9261504dd9021ef5ee2de6/src/iptv/m3u-sources/pt.m3u
+# S31 https://github.com/servicesredaction-creator/iptv-arabic-official/blob/main/playlist.m3u
+# S32 https://github.com/iptv-org/iptv/blob/master/streams/in.m3u
+# S33 https://github.com/iptv-org/iptv/blob/master/streams/lb.m3u
+# S34 https://github.com/iptv-org/iptv/blob/master/streams/uk.m3u
+# S35 https://github.com/iptv-org/iptv/blob/master/streams/cn.m3u
+# S36 https://github.com/iptv-org/iptv/blob/46c85ffcd6e04ab5d2cc2450d2159cd01f2da1cc/streams/uk.m3u
+
+# ===== Coverage gaps (comments only) =====
+# Missing lcn=25 name=ערוץ ההומור 2 reason=Conflicting labels identify Humor1 HD/SD, not proven Humor2.
+# Search attempted: "ערוץ ההומור 2" m3u8
+# Search attempted: "Humor Channel 2"
+# Search attempted: "the-humor-channel2-il-hd"
+# Missing lcn=26 name=ערוץ גולסטאר reason=No exact public direct live URL found.
+# Search attempted: "ערוץ גולסטאר" "שידור חי" m3u
+# Search attempted: "גולסטאר" extension:m3u
+# Search attempted: "גולסטאר" "m3u8"
+# Missing lcn=30 name=ערוץ הדרמות הישראליות reason=FreeTV Drama and Yes Israeli are different channels.
+# Search attempted: "ערוץ הדרמות הישראליות" שידור ישיר
+# Search attempted: "Israeli Drama" extension:m3u
+# Search attempted: "הדרמות הישראליות" "m3u8"
+# Missing lcn=32 name=ערוץ הפשע האמיתי reason=No matching public direct live URL found.
+# Search attempted: "ערוץ הפשע האמיתי" live m3u8
+# Search attempted: "פשע אמיתי" extension:m3u
+# Search attempted: "הפשע האמיתי" "m3u8"
+# Missing lcn=41 name=הערוץ הים תיכוני 2 reason=Mediterranean Movies2 is a different channel from Mediterranean Drama2.
+# Search attempted: "Mediterranean Channel 2" "m3u8"
+# Search attempted: "Mediterranean 2" extension:m3u
+# Search attempted: "ים תיכוני 2" extension:m3u
+# Missing lcn=104 name=ערוץ RTVI RETRO reason=Only credential-shaped playback URLs or incomplete/local references found.
+# Search attempted: "RTVI Retro" m3u8
+# Search attempted: "RTVI Retro" extension:m3u
+# Search attempted: "rtvi_retro" m3u8
+# Missing lcn=128 name=RTVC reason=No Russian-Canadian RTVC source; unrelated Spanish/Colombian channels rejected.
+# Search attempted: "RTVC IL" extension:m3u
+# Search attempted: "RTVC.il" extension:m3u
+# Search attempted: "RTVC" Israel m3u8
+# Search attempted: "RTVC" "Канада" телевидение онлайн
+# Missing lcn=140 name=IETV reason=No stable direct live HLS/MPD for Israeli-Ethiopian IETV; unrelated feeds rejected.
+# Search attempted: "IETV.il" m3u8
+# Search attempted: "IETV" "m3u8" Ethiopian
+# Search attempted: "IETV" Ethiopian Israel live stream
+# Missing lcn=174 name=אגו reason=Ego Total combat sources are not Ego entertainment.
+# Search attempted: "Ego" "IL" "m3u8" -Total
+# Search attempted: "Ego IL" m3u8
+# Search attempted: "אגו" "m3u8"
+# Missing lcn=179 name=ערוץ PRIDE TV reason=No exact Israeli PrideTV direct live source found.
+# Search attempted: "PRIDE TV" "m3u8" Israel
+# Search attempted: "PRIDETV.il"
+# Search attempted: "PRIDE TV" Israel live stream
+# Missing lcn=186 name=MTV סדרות reason=No exact Israeli MTV Series stream; music and foreign MTV channels rejected.
+# Search attempted: "MTV Series" m3u8
+# Search attempted: "MTVSeries.il"
+# Search attempted: "MTV סדרות" m3u8
+# Missing lcn=225 name=Temptation TV reason=Adult-content links not provided; no source search performed.
+# Missing lcn=226 name=BLUE HUSTLER reason=Adult-content links not provided; no source search performed.
+# Missing lcn=227 name=BARELY LEGAL reason=Adult-content links not provided; no source search performed.
+# Missing lcn=228 name=Playboy TV reason=Adult-content links not provided; no source search performed.
+# Catalogue-only unresolved: HOT תמיד איתכם, LCN224; current availability uncertain. Search attempted: "HOT תמיד איתכם" "m3u8"
+# ===== End HOT research group =====
