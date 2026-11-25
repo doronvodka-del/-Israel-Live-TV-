@@ -1,17 +1,12 @@
 {
-  "generated_utc": "2026-11-25T08:41:29.741183+00:00",
+  "generated_utc": "2026-11-25T21:45:26.178031+00:00",
   "programme_counts": {
-    "Now14.il@SD": 68,
-    "EconomyChannel.il@SD": 34,
-    "5Gold.il@SD": 60,
+    "Now14.il@SD": 55,
+    "EconomyChannel.il@SD": 46,
+    "5Gold.il@SD": 58,
     "Channel16.il@SD": 0
   },
-  "source_errors": [
-    {
-      "source": "https://iptv-epg.org/files/epg-il.xml",
-      "error": "HTTP Error 403: Forbidden"
-    }
-  ],
+  "source_errors": [],
   "source_urls": [
     "https://iptv-epg.org/files/epg-il.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz"
