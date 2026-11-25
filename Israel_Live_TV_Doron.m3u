@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 374 channel entries, 24 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 376 channel entries, 24 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -1135,6 +1135,10 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/play
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="5Max.il@SD" group-title="ערוצי סלקום לבדיקה",5MAX
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-id="Eurosport1.fr@Russia" group-title="ערוצי סלקום לבדיקה",יורוספורט 1 (אנגלית / רוסית)
+https://s7.iptv-24.net/1439/playlist.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="Eurosport2.fr@Russia" group-title="ערוצי סלקום לבדיקה",יורוספורט 2 (אנגלית / רוסית)
+https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-id="OneEdge.il@SD" group-title="ערוצי סלקום לבדיקה",SPORT EDGE
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="OneDoco.il@SD" group-title="ערוצי סלקום לבדיקה",ONE DOCO
