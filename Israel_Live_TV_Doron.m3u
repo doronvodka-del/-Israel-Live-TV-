@@ -1235,3 +1235,367 @@ https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-chno="150" group-title="ערוצי סלקום לבדיקה",LUBIMOYE KINO — לא עובד ב־LG
 http://77.235.1.19:8000/play/a08h/index.m3u8
+
+# FREETV TEST GROUP - checked 2026-11-25
+# Official catalogue: https://web.freetv.tv/api/products/lives?platform=BROWSER
+# Coverage: 71/72; video-sample verified: 33; awaiting LG: 38; missing: Shura Rishona (authorization required).
+# Sorted by official catalogue rank; rank is not an official channel number.
+# Existing entries above are retained unchanged.
+
+# FreeTV rank=5 product=3359448 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-id="Channel9.il@SD" tvg-name="ערוץ 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel9-il.png" group-title="ערוצי פריטיוי לבדיקה",ערוץ 9
+https://contact.gostreaming.tv/Con-11/index.m3u8
+
+# FreeTV rank=10 product=5323466 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="10STARS" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_10stars.png" group-title="ערוצי פריטיוי לבדיקה",10STARS — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_10/live.livx/playlist.m3u8?bitrate=5628000&audioId=1&videoId=0
+
+# FreeTV rank=11 product=3370462 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-id="Kan11.il@SD" tvg-name="כאן 11" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/kan11-il.png" group-title="ערוצי פריטיוי לבדיקה",כאן 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+
+# FreeTV rank=17 product=3340020 validation=country-blocked; pending LG
+# Public source: https://github.com/il90il90/m3u-tv/blob/main/playlist.m3u
+#EXTINF:-1 content-type="stream" tvg-name="קשת 12" tvg-logo="https://cms.freetv.tv/uploads/12_9543734b96.webp?updated_at=2023-05-30T10:29:38.797Z" group-title="ערוצי פריטיוי לבדיקה",קשת 12 — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12/live.livx/playlist.m3u8?fmp4&renditions
+
+# FreeTV rank=22 product=3328044 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-id="Channel13.il@SD" tvg-name="רשת 13" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/reshet13-il.png" group-title="ערוצי פריטיוי לבדיקה",רשת 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+
+# FreeTV rank=27 product=3457869 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-id="Now14.il@SD" tvg-name="ערוץ 14" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="ערוצי פריטיוי לבדיקה",ערוץ 14
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+
+# FreeTV rank=30 product=4821192 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-id="i24NEWSHebrew.il@SD" tvg-name="i24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצי פריטיוי לבדיקה",i24NEWS עברית
+https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
+
+# FreeTV rank=33 product=7956757 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-id="Channel16.il@SD" tvg-name="ערוץ 16" tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png" group-title="ערוצי פריטיוי לבדיקה",ערוץ 16
+https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+
+# FreeTV rank=43 product=3509587 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-id="VivaTelenovelas.il@SD" tvg-name="ויוה טלנובלות" tvg-logo="https://cms.freetv.tv/uploads/viva_tel_af50a0efc4.png?updated_at=2024-04-02T10:31:51.645Z" group-title="ערוצי פריטיוי לבדיקה",ויוה טלנובלות
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
+
+# FreeTV rank=48 product=3509588 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-id="VivaIstanbul.il@SD" tvg-name="ויוה איסטנבול" tvg-logo="https://cms.freetv.tv/uploads/viva_ist_964c2b1ee7.png?updated_at=2024-04-02T10:31:51.634Z" group-title="ערוצי פריטיוי לבדיקה",ויוה איסטנבול
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8
+
+# FreeTV rank=53 product=3513312 validation=country-blocked; pending LG
+# Public source: https://github.com/dor2500/israel-tv-plus/blob/81695a4ae389d646f6c7435be4a1ff3a8431435a/playlist.m3u
+#EXTINF:-1 content-type="stream" tvg-name="ואמוס" tvg-logo="https://cms.freetv.tv/uploads/vamos_0aa4ea3096.webp?updated_at=2023-05-31T06:06:50.332Z" group-title="ערוצי פריטיוי לבדיקה",ואמוס — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/vamos/live.livx/playlist.m3u8
+
+# FreeTV rank=55 product=7441899 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="דרמות יומיות" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/daily_drama_il.png" group-title="ערוצי פריטיוי לבדיקה",דרמות יומיות — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/daily_drama/live.livx/playlist.m3u8
+
+# FreeTV rank=62 product=3540298 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="Series Global" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_global_il.png" group-title="ערוצי פריטיוי לבדיקה",Series Global — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_global/live.livx/playlist.m3u8
+
+# FreeTV rank=64 product=3479998 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="Movies Action" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_action.png" group-title="ערוצי פריטיוי לבדיקה",Movies Action — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_action/live.livx/playlist.m3u8
+
+# FreeTV rank=69 product=3579246 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="Movies Comedy" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_comedy.png" group-title="ערוצי פריטיוי לבדיקה",Movies Comedy — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_comedy/live.livx/playlist.m3u8
+
+# FreeTV rank=71 product=3579247 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="Movies Drama" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_drama.png" group-title="ערוצי פריטיוי לבדיקה",Movies Drama — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_drama/live.livx/playlist.m3u8
+
+# FreeTV rank=74 product=5310110 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="Movies Thriller" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_thriller.png" group-title="ערוצי פריטיוי לבדיקה",Movies Thriller — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_thriller/live.livx/playlist.m3u8
+
+# FreeTV rank=78 product=3579248 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="Movies Horror" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_horror.png" group-title="ערוצי פריטיוי לבדיקה",Movies Horror — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_horror/live.livx/playlist.m3u8
+
+# FreeTV rank=81 product=3579249 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="Movies Romantic" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_romance.png" group-title="ערוצי פריטיוי לבדיקה",Movies Romantic — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_romance/live.livx/playlist.m3u8
+
+# FreeTV rank=84 product=5040827 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="Movies Feel Good" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_feelgood.png" group-title="ערוצי פריטיוי לבדיקה",Movies Feel Good — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/feel_good/live.livx/playlist.m3u8?bitrate=5628000&audioId=1&videoId=0
+
+# FreeTV rank=88 product=4810483 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="Movies Family" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_movies_family.png" group-title="ערוצי פריטיוי לבדיקה",Movies Family — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_movies_family/live.livx/playlist.m3u8
+
+# FreeTV rank=92 product=3479997 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="Movies ישראלי" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_israeli_movies.png" group-title="ערוצי פריטיוי לבדיקה",Movies ישראלי — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/free_israeli_movies/live.livx/playlist.m3u8
+
+# FreeTV rank=97 product=3355712 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="ערוץ 24" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/master/playlist-logos/channel24.png" group-title="ערוצי פריטיוי לבדיקה",ערוץ 24 — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/music24/live.livx/playlist.m3u8
+
+# FreeTV rank=101 product=7313888 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="ערוץ הטבע" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/teva_israel_hd.png" group-title="ערוצי פריטיוי לבדיקה",ערוץ הטבע — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/teva_channel/live.livx/playlist.m3u8
+
+# FreeTV rank=112 product=3598042 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="FreeTV דרמה" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_series_drama.png" group-title="ערוצי פריטיוי לבדיקה",FreeTV דרמה — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/imagin_drama/live.livx/playlist.m3u8
+
+# FreeTV rank=117 product=3598043 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="FreeTV קומדיה" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_series_comedy.png" group-title="ערוצי פריטיוי לבדיקה",FreeTV קומדיה — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/imagin_comedy/live.livx/playlist.m3u8
+
+# FreeTV rank=119 product=7313885 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="FreeTV קומדיה 2" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_series_comedy2.png" group-title="ערוצי פריטיוי לבדיקה",FreeTV קומדיה 2 — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/comedy_2_channel/live.livx/playlist.m3u8
+
+# FreeTV rank=123 product=3611643 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="FreeTV לייף סטייל" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_lifestyle_il.png" group-title="ערוצי פריטיוי לבדיקה",FreeTV לייף סטייל — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/imagin_lifestyle/live.livx/playlist.m3u8
+
+# FreeTV rank=125 product=3611642 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="FreeTV דוקו" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_doco_il.png" group-title="ערוצי פריטיוי לבדיקה",FreeTV דוקו — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/imagin_doco/live.livx/playlist.m3u8
+
+# FreeTV rank=129 product=3611644 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="FreeTV אוכל" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/freetv_cooking_il.png" group-title="ערוצי פריטיוי לבדיקה",FreeTV אוכל — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/imagin_cooking/live.livx/playlist.m3u8
+
+# FreeTV rank=131 product=6200476 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-id="Foody.il@SD" tvg-name="Foody" tvg-logo="https://cms.freetv.tv/uploads/foody_161feaa603.png?updated_at=2025-06-29T08:57:43.546Z" group-title="ערוצי פריטיוי לבדיקה",Foody
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
+
+# FreeTV rank=135 product=6906056 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="Beautyz" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/beautyz_il.png" group-title="ערוצי פריטיוי לבדיקה",Beautyz — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/beautyz/live.livx/playlist.m3u8?fmp4&renditions
+
+# FreeTV rank=142 product=7510232 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="רוקדים עם כוכבים" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/dancing_stars_il.png" group-title="ערוצי פריטיוי לבדיקה",רוקדים עם כוכבים — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/dancing_popup/live.livx/playlist.m3u8
+
+# FreeTV rank=145 product=7313890 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="FreeTV מוזיקה" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/music_channel_il.png" group-title="ערוצי פריטיוי לבדיקה",FreeTV מוזיקה — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/music_channel/live.livx/playlist.m3u8
+
+# FreeTV rank=158 product=3579250 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="ארץ נהדרת" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/eretz_nehederet.png" group-title="ערוצי פריטיוי לבדיקה",ארץ נהדרת — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/erez_nehederet/live.livx/playlist.m3u8?fmp4&renditions
+
+# FreeTV rank=163 product=3540299 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="סברי מרנן" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/savri_maranan.png" group-title="ערוצי פריטיוי לבדיקה",סברי מרנן — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/savri/live.livx/playlist.m3u8
+
+# FreeTV rank=165 product=3362990 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="כנסת" tvg-logo="https://cms.freetv.tv/uploads/knesset_7a7270052d.webp?updated_at=2023-05-31T06:06:50.575Z" group-title="ערוצי פריטיוי לבדיקה",כנסת
+https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
+
+# FreeTV rank=169 product=3812529 validation=decoded-video
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/fr.m3u
+#EXTINF:-1 content-type="stream" tvg-name="France 24" tvg-logo="https://cms.freetv.tv/uploads/france24_cb6ba69913.png?updated_at=2023-08-13T06:06:23.675Z" group-title="ערוצי פריטיוי לבדיקה",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+# FreeTV rank=170 product=3988157 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="כאן 11 גרסת כתוביות" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/kan11-il.png" group-title="ערוצי פריטיוי לבדיקה",כאן 11 גרסת כתוביות — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/kan11_subs/live.livx/playlist.m3u8?fmp4&renditions
+
+# FreeTV rank=171 product=3988238 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="קשת 12 גרסת כתוביות" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/keshet12-il.png" group-title="ערוצי פריטיוי לבדיקה",קשת 12 גרסת כתוביות — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_subs/live.livx/playlist.m3u8?fmp4&renditions
+
+# FreeTV rank=172 product=3988158 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="רשת 13 גרסת כתוביות" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/reshet13-il.png" group-title="ערוצי פריטיוי לבדיקה",רשת 13 גרסת כתוביות — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_subs/live.livx/playlist.m3u8?fmp4&renditions
+
+# FreeTV rank=173 product=3988159 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="ערוץ 14 גרסת כתוביות" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="ערוצי פריטיוי לבדיקה",ערוץ 14 גרסת כתוביות — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/ch14_subs/live.livx/playlist.m3u8?fmp4&renditions
+
+# FreeTV rank=179 product=4344510 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-id="i24NEWSEnglishWorld.il@SD" tvg-name="i24 News אנגלית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצי פריטיוי לבדיקה",i24 News אנגלית
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+
+# FreeTV rank=180 product=4344511 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-id="i24NEWSFrench.il@SD" tvg-name="i24 News צרפתית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצי פריטיוי לבדיקה",i24 News צרפתית
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+
+# FreeTV rank=182 product=5595984 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-id="DaystarTV.us@SD" tvg-name="Daystar" tvg-logo="https://cms.freetv.tv/uploads/daystar_16abc1c92e.png" group-title="ערוצי פריטיוי לבדיקה",Daystar
+https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
+
+# FreeTV rank=185 product=3371021 validation=decoded-video
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-id="Makan33.il@SD" tvg-name="מכאן" tvg-logo="https://i.imgur.com/RVtQTed.png" group-title="ערוצי פריטיוי לבדיקה",מכאן
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+
+# FreeTV rank=188 product=3393327 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="מוזיקה IL" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/music_il_tv.png" group-title="ערוצי פריטיוי לבדיקה",מוזיקה IL — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8?fmp4&renditions
+
+# FreeTV rank=190 product=4721323 validation=country-blocked; pending LG
+# Public source: https://github.com/doronvodka-del/-Israel-Live-TV-/blob/main/Israel_Live_TV_Doron.m3u
+#EXTINF:-1 content-type="stream" tvg-name="ערוץ הקריוקי" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/karaoke_il.png" group-title="ערוצי פריטיוי לבדיקה",ערוץ הקריוקי — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/karaoke/live.livx/playlist.m3u8?fmp4&renditions
+
+# FreeTV rank=192 product=3343512 validation=decoded-video
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+#EXTINF:-1 content-type="stream" tvg-id="5Sport.il@SD" tvg-name="ספורט 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-il.png" group-title="ערוצי פריטיוי לבדיקה",ספורט 5
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
+
+# FreeTV rank=197 product=3357261 validation=decoded-video
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+#EXTINF:-1 content-type="stream" tvg-id="5Plus.il@SD" tvg-name="ספורט 5+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5plus-il.png" group-title="ערוצי פריטיוי לבדיקה",ספורט 5+
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
+
+# FreeTV rank=202 product=3357262 validation=decoded-video
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+#EXTINF:-1 content-type="stream" tvg-id="5Gold.il@SD" tvg-name="ספורט 5 Gold" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5gold-il.png" group-title="ערוצי פריטיוי לבדיקה",ספורט 5 Gold
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
+
+# FreeTV rank=207 product=3407570 validation=decoded-video
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+#EXTINF:-1 content-type="stream" tvg-id="5Live.il@SD" tvg-name="ספורט 5 Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5live-il.png" group-title="ערוצי פריטיוי לבדיקה",ספורט 5 Live
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
+
+# FreeTV rank=212 product=3407571 validation=decoded-video
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+#EXTINF:-1 content-type="stream" tvg-id="5Stars.il@SD" tvg-name="ספורט 5 Stars" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5stars-il.png" group-title="ערוצי פריטיוי לבדיקה",ספורט 5 Stars
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
+
+# FreeTV rank=215 product=6934006 validation=decoded-video
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+#EXTINF:-1 content-type="stream" tvg-id="5Max.il@SD" tvg-name="ספורט 5 MAX" tvg-logo="https://cms.freetv.tv/uploads/sport5max_7d0d681281.webp" group-title="ערוצי פריטיוי לבדיקה",ספורט 5 MAX
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
+
+# FreeTV rank=218 product=3367345 validation=decoded-video
+# Channel-branded 5SPORT4K; public source advertises at most 1920x1080 AVC, not 2160p.
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+#EXTINF:-1 content-type="stream" tvg-id="5Sport4K.il@SD" tvg-name="ספורט 5 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport4k-il.png" group-title="ערוצי פריטיוי לבדיקה",ספורט 5 4K (מקור 1080p)
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
+
+# FreeTV rank=223 product=3502701 validation=decoded-video
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+#EXTINF:-1 content-type="stream" tvg-id="One.il@SD" tvg-name="ONE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-il.png" group-title="ערוצי פריטיוי לבדיקה",ONE
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8
+
+# FreeTV rank=228 product=3502702 validation=decoded-video
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+#EXTINF:-1 content-type="stream" tvg-id="One2.il@SD" tvg-name="ONE 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one2-il.png" group-title="ערוצי פריטיוי לבדיקה",ONE 2
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
+
+# FreeTV rank=233 product=3480000 validation=decoded-video
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+#EXTINF:-1 content-type="stream" tvg-id="OneDoco.il@SD" tvg-name="ONE DOCO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/one-doco-il.png" group-title="ערוצי פריטיוי לבדיקה",ONE DOCO
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
+
+# FreeTV rank=238 product=3479999 validation=decoded-video
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+#EXTINF:-1 content-type="stream" tvg-id="OneEdge.il@SD" tvg-name="EDGE" tvg-logo="https://cms.freetv.tv/uploads/edge_06973a878a.webp?updated_at=2023-05-30T10:29:39.471Z" group-title="ערוצי פריטיוי לבדיקה",EDGE
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8
+
+# FreeTV rank=243 product=3341401 validation=decoded-video
+# Hebrew channel logo verified; two AAC tracks tagged eng/rus; spoken language not established in short sample.
+# Public source: https://github.com/dor2500/israel-tv-plus/blob/main/channels.json
+#EXTINF:-1 content-type="stream" tvg-name="בייבי" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/baby_tv_he.png" group-title="ערוצי פריטיוי לבדיקה",בייבי
+http://osoyz0xv.ottclub.xyz/iptv/HSD8UEK6E2AENH/2370/index.m3u8
+
+# FreeTV rank=248 product=3584129 validation=country-blocked; pending LG
+# Public source: https://github.com/dor2500/israel-tv-plus/blob/main/channels.json
+#EXTINF:-1 content-type="stream" tvg-name="שירי ילדותי" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/yalduti_songs_tv.png" group-title="ערוצי פריטיוי לבדיקה",שירי ילדותי — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti_songs/live.livx/playlist.m3u8
+
+# FreeTV rank=253 product=3520309 validation=country-blocked; pending LG
+# Public source: https://github.com/dor2500/israel-tv-plus/blob/main/channels.json
+#EXTINF:-1 content-type="stream" tvg-name="יויו" tvg-logo="https://rge.co.il/wp-content/uploads/2026/03/yoyo-home-tile.png" group-title="ערוצי פריטיוי לבדיקה",יויו — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yoyo/live.livx/playlist.m3u8?fmp4&renditions
+
+# FreeTV rank=258 product=3566487 validation=country-blocked; pending LG
+# Public source: https://github.com/dor2500/israel-tv-plus/blob/main/channels.json
+#EXTINF:-1 content-type="stream" tvg-name="פלא" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/hop_pele_tv.png" group-title="ערוצי פריטיוי לבדיקה",פלא — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/hop_pele/live.livx/playlist.m3u8
+
+# FreeTV rank=263 product=3343444 validation=decoded-video
+# Public source: https://github.com/QuadrupleBoom/IPTV/blob/main/indonesiancable.m3u
+#EXTINF:-1 content-type="stream" tvg-name="A+" tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/a-plus-freetv.png" group-title="ערוצי פריטיוי לבדיקה",A+
+https://n-121-11.il.cdn-redge.media/livehls/oil/freetv/live/a_plus/live.livx/playlist.m3u8
+
+# FreeTV rank=268 product=3355713 validation=country-blocked; pending LG
+# Public source: https://github.com/dor2500/israel-tv-plus/blob/main/channels.json
+#EXTINF:-1 content-type="stream" tvg-name="ערוץ הכוכבים" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/stars_kids_il.png" group-title="ערוצי פריטיוי לבדיקה",ערוץ הכוכבים — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/starz/live.livx/playlist.m3u8
+
+# FreeTV rank=273 product=3584128 validation=country-blocked; pending LG
+# Public source: https://github.com/dor2500/israel-tv-plus/blob/main/channels.json
+#EXTINF:-1 content-type="stream" tvg-name="ילדותי" tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/yalduti-freetv.png" group-title="ערוצי פריטיוי לבדיקה",ילדותי — ממתין לבדיקה ב־LG
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti/live.livx/playlist.m3u8?fmp4&renditions
+
+# FreeTV rank=278 product=3513314 validation=decoded-video
+# Public source: https://github.com/QuadrupleBoom/IPTV/blob/main/indonesiancable.m3u
+#EXTINF:-1 content-type="stream" tvg-name="לוגי" tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/logi-freetv.png" group-title="ערוצי פריטיוי לבדיקה",לוגי
+https://n-121-12.il.cdn-redge.media/livehls/oil/freetv/live/logi/live.livx/playlist.m3u8
+
+# FreeTV rank=283 product=3370497 validation=decoded-video
+# Public source: https://github.com/dor2500/israel-tv-plus/blob/main/channels.json
+#EXTINF:-1 content-type="stream" tvg-name="חינוכית" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/master/playlist-logos/kan_hinuchit.png" group-title="ערוצי פריטיוי לבדיקה",חינוכית
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
+
+# FreeTV rank=288 product=3355714 validation=decoded-video
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+#EXTINF:-1 content-type="stream" tvg-id="Junior.il@SD" tvg-name="ג'וניור" tvg-logo="https://cms.freetv.tv/uploads/junior_2533abbc20.webp?updated_at=2023-05-30T10:29:39.434Z" group-title="ערוצי פריטיוי לבדיקה",ג'וניור
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8
+
+# FreeTV rank=293 product=3513313 validation=decoded-video
+# Public source: https://github.com/iptv-org/iptv/blob/master/streams/il.m3u
+#EXTINF:-1 content-type="stream" tvg-id="ArutzHaYeladim.il@SD" tvg-name="ערוץ הילדים" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/arutz_hayeladim.png" group-title="ערוצי פריטיוי לבדיקה",ערוץ הילדים
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
+
+# FreeTV rank=298 product=3520308 validation=decoded-video
+# Public source: https://github.com/QuadrupleBoom/IPTV/blob/main/indonesiancable.m3u
+#EXTINF:-1 content-type="stream" tvg-name="Fomo" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/fomo_tv.png" group-title="ערוצי פריטיוי לבדיקה",Fomo
+https://n-121-11.il.cdn-redge.media/livehls/oil/freetv/live/fomo/live.livx/playlist.m3u8
+
