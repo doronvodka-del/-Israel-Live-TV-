@@ -84,7 +84,7 @@ https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/in
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
 
 # סלקום TV
-# ארבעת ערוצי הסרטים אושרו ב־23.11.2026 ו־67 ערוצים נוספים אושרו ב־25.11.2026 בטלוויזיית LG.
+# ארבעת ערוצי הסרטים אושרו ב־23.11.2026 ו־66 ערוצים נוספים אושרו ב־25.11.2026 בטלוויזיית LG.
 #EXTINF:-1 tvg-name="סלקום סרטי אקשן" group-title="סלקום TV",סלקום סרטי אקשן
 http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout02/index.m3u8?smil_profile=mobile
 #EXTINF:-1 tvg-name="סלקום סרטי קומדיה" group-title="סלקום TV",סלקום סרטי קומדיה
@@ -197,8 +197,6 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 tvg-chno="133" tvg-id="RussiaRTR.ru@SD" group-title="סלקום TV",RTR Planeta
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_1.m3u8
-#EXTINF:-1 tvg-chno="136" tvg-id="TVCentrInternational.ru@SD" group-title="סלקום TV",TVCI
-https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="137" tvg-id="DomkinoPremium.ru@SD" group-title="סלקום TV",Dom Kino Premium
 http://88.212.15.50/live/test_dom_kino_premium/playlist.m3u8
 #EXTINF:-1 tvg-chno="138" tvg-id="1Plus1International.ua@HD" group-title="סלקום TV",1+1
@@ -1231,6 +1229,8 @@ http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2Fkc
 http://tbs01-edge04.itdc.ge/ntvmir/index.m3u8
 #EXTINF:-1 tvg-chno="135" tvg-id="RTVi.ru@SD" group-title="ערוצי סלקום לבדיקה",RTVi — לא עובד ב־LG
 https://s70378.cdn.ngenix.net/rtvi/index.m3u8
+#EXTINF:-1 tvg-chno="136" tvg-id="TVCentrInternational.ru@SD" group-title="ערוצי סלקום לבדיקה",TVCI — המקור מציג Cinerama.uz
+https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="145" tvg-id="CarouselInternational.ru" tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="ערוצי סלקום לבדיקה",Carousel International — לא עובד ב־LG
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-chno="150" group-title="ערוצי סלקום לבדיקה",LUBIMOYE KINO — לא עובד ב־LG
