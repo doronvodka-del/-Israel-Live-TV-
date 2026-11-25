@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/epg/idan-plus.xml"
 # Playlist cover logo: https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/israel-live-tv-icon.png
-# 373 channel entries, 24 groups. SS IPTV ordering: content groups first, unavailable and testing last.
+# 374 channel entries, 24 groups. SS IPTV ordering: content groups first, unavailable and testing last.
 # Categories are editorial and do not indicate official distribution rights.
 # Original stream URLs and per-channel logos preserved.
 
@@ -1161,6 +1161,8 @@ https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/fomo/live.livx/pla
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 tvg-chno="83" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/yalduti_songs_tv.png" group-title="ערוצי סלקום לבדיקה",שירי ילדותי — ממתין לבדיקה ב־LG
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti_songs/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="MadWorld.gr@SD" group-title="ערוצי סלקום לבדיקה",מוזיקה יוונית (MAD World)
+https://ellastvmax.gotdns.com/freetv/madworldtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-chno="89" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/music_il_tv.png" group-title="ערוצי סלקום לבדיקה",מוזיקה IL — ממתין לבדיקה ב־LG
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8?fmp4&renditions
 #EXTINF:-1 tvg-chno="90" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/karaoke_il.png" group-title="ערוצי סלקום לבדיקה",ערוץ הקריוקי — ממתין לבדיקה ב־LG
