@@ -83,16 +83,150 @@ https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/reshet13_reality_il.png" group-title="FreeTV",ערוץ הריאליטי
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
 
-# סלקום טיוי
-# דורון אישר ניגון של ארבעת הערוצים בטלוויזיית LG ב־23.11.2026.
-#EXTINF:-1 tvg-name="סלקום סרטי אקשן" group-title="סלקום טיוי",סלקום סרטי אקשן
+# סלקום TV
+# ארבעת ערוצי הסרטים אושרו ב־23.11.2026 ו־67 ערוצים נוספים אושרו ב־25.11.2026 בטלוויזיית LG.
+#EXTINF:-1 tvg-name="סלקום סרטי אקשן" group-title="סלקום TV",סלקום סרטי אקשן
 http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout02/index.m3u8?smil_profile=mobile
-#EXTINF:-1 tvg-name="סלקום סרטי קומדיה" group-title="סלקום טיוי",סלקום סרטי קומדיה
+#EXTINF:-1 tvg-name="סלקום סרטי קומדיה" group-title="סלקום TV",סלקום סרטי קומדיה
 http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout04/index.m3u8?smil_profile=mobile
-#EXTINF:-1 tvg-name="סלקום סרטי דרמה" group-title="סלקום טיוי",סלקום סרטי דרמה
+#EXTINF:-1 tvg-name="סלקום סרטי דרמה" group-title="סלקום TV",סלקום סרטי דרמה
 http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout08/index.m3u8?smil_profile=mobile
-#EXTINF:-1 tvg-name="סלקום סרטי משפחה" group-title="סלקום טיוי",סלקום סרטי משפחה
+#EXTINF:-1 tvg-name="סלקום סרטי משפחה" group-title="סלקום TV",סלקום סרטי משפחה
 http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout06/index.m3u8?smil_profile=mobile
+#EXTINF:-1 tvg-chno="9" tvg-id="Channel9.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel9-il.png" group-title="סלקום TV",ערוץ 9
+https://contact.gostreaming.tv/Con-11/index.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="EconomyChannel.il@SD" tvg-logo="https://cdn.prod.website-files.com/585add3ba0a6bcf72f81e349/68d0163d58d10bad390f1503_%D7%A2%D7%A8%D7%95%D7%A5%20%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%94.png" group-title="סלקום TV",ערוץ הכלכלה
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000
+#EXTINF:-1 tvg-chno="11" tvg-id="Kan11.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/kan11-il.png" group-title="סלקום TV",כאן 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/keshet12-il.png" group-title="סלקום TV",קשת 12 (כתוביות)
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_subs/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 tvg-chno="13" tvg-id="Channel13.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/reshet13-il.png" group-title="סלקום TV",רשת 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="Now14.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="סלקום TV",ערוץ 14
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="i24NEWSHebrew.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="סלקום TV",i24 עברית
+https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="Channel16.il@SD" tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png" group-title="סלקום TV",ערוץ 16 החדש
+https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/master/playlist-logos/channel24.png" group-title="סלקום TV",ערוץ 24
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/music24/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="32" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/daily_drama_il.png" group-title="סלקום TV",ערוץ הדרמות היומיות
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/daily_drama/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="Makan33.il@SD" tvg-logo="https://i.imgur.com/RVtQTed.png" group-title="סלקום TV",מכאן 33
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="36" tvg-id="VivaTelenovelas.il@SD" group-title="סלקום TV",ויוה טלנובלות
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="VivaIstanbul.il@SD" group-title="סלקום TV",ויוה איסטנבול
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="48" tvg-id="RealityChannel.il@SD" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/reshet13_reality_il.png" group-title="סלקום TV",ערוץ הריאליטי
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="One2.il@SD" group-title="סלקום TV",One 2
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="50" tvg-id="One.il@SD" group-title="סלקום TV",One
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="5Sport.il@SD" group-title="סלקום TV",5SPORT
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="5Plus.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5plus-il.png" group-title="סלקום TV",5PLUS
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="57" tvg-id="5Gold.il@SD" group-title="סלקום TV",5GOLD
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-id="5Live.il@SD" group-title="סלקום TV",5LIVE
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="60" tvg-id="5Max.il@SD" group-title="סלקום TV",5MAX
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-id="Eurosport1.fr@Russia" group-title="סלקום TV",יורוספורט 1 (אנגלית / רוסית)
+https://s7.iptv-24.net/1439/playlist.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="Eurosport2.fr@Russia" group-title="סלקום TV",יורוספורט 2 (אנגלית / רוסית)
+https://s7.iptv-24.net/1452/playlist.m3u8
+#EXTINF:-1 tvg-chno="65" tvg-id="OneEdge.il@SD" group-title="סלקום TV",SPORT EDGE
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-id="OneDoco.il@SD" group-title="סלקום TV",ONE DOCO
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-id="VacationChannel.il@SD" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/reshet13_nofesh_il.png" group-title="סלקום TV",ערוץ הנופש
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="ArutzHaYeladim.il@SD" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/arutz_hayeladim.png" group-title="סלקום TV",ערוץ הילדים
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/logi-freetv.png" group-title="סלקום TV",לוגי
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/logi/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 tvg-chno="75" tvg-id="Junior.il@SD" group-title="סלקום TV",ג'וניור
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="76" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/stars_kids_il.png" group-title="סלקום TV",ערוץ הכוכבים
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/starz/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="77" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/baby_tv_he.png" group-title="סלקום TV",בייבי
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/baby_new/live.livx/playlist.m3u8?bitrate=4928000&audioId=1&videoId=0
+#EXTINF:-1 tvg-chno="78" tvg-logo="https://rge.co.il/wp-content/uploads/2026/03/yoyo-home-tile.png" group-title="סלקום TV",יויו
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yoyo/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/master/playlist-logos/kan_hinuchit.png" group-title="סלקום TV",כאן חינוכית
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/fomo_tv.png" group-title="סלקום TV",FOMO
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/fomo/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 tvg-chno="82" tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/yalduti-freetv.png" group-title="סלקום TV",ילדותי
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 tvg-chno="83" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/yalduti_songs_tv.png" group-title="סלקום TV",שירי ילדותי
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti_songs/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="MadWorld.gr@SD" group-title="סלקום TV",מוזיקה יוונית (MAD World)
+https://ellastvmax.gotdns.com/freetv/madworldtv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-chno="89" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/music_il_tv.png" group-title="סלקום TV",מוזיקה IL
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 tvg-chno="90" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/karaoke_il.png" group-title="סלקום TV",ערוץ הקריוקי
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/karaoke/live.livx/playlist.m3u8?fmp4&renditions
+#EXTINF:-1 tvg-chno="95" tvg-id="Foody.il@SD" group-title="סלקום TV",FOODY
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="97" tvg-id="Hidabroot.il@SD" tvg-logo="https://i.imgur.com/CTH4Hu2.png" group-title="סלקום TV",ערוץ הידברות
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+#EXTINF:-1 tvg-chno="98" tvg-id="DaystarTV.us@SD" group-title="סלקום TV",DAYSTAR
+https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
+#EXTINF:-1 tvg-chno="99" group-title="סלקום TV",ערוץ הכנסת
+https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-chno="101" tvg-id="NewsmaxTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="סלקום TV",Newsmax TV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-chno="102" tvg-id="GBNews.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png" group-title="סלקום TV",GB News
+https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="DW.de@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png" group-title="סלקום TV",DW English HD
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-id="i24NEWSEnglishWorld.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="סלקום TV",i24 NEWS אנגלית
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-chno="105" tvg-id="i24NEWSFrench.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="סלקום TV",i24 NEWS צרפתית
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-chno="106" tvg-id="i24NEWSArabic.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="סלקום TV",i24 NEWS ערבית
+https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-chno="130" tvg-id="DW.de@Russian" group-title="סלקום TV",DW Russian
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 tvg-chno="132" group-title="סלקום TV",ORT (אירופה)
+https://streaming.thestream.cyou/live/210.m3u8
+#EXTINF:-1 tvg-chno="133" tvg-id="RussiaRTR.ru@SD" group-title="סלקום TV",RTR Planeta
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_1.m3u8
+#EXTINF:-1 tvg-chno="136" tvg-id="TVCentrInternational.ru@SD" group-title="סלקום TV",TVCI
+https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="137" tvg-id="DomkinoPremium.ru@SD" group-title="סלקום TV",Dom Kino Premium
+http://88.212.15.50/live/test_dom_kino_premium/playlist.m3u8
+#EXTINF:-1 tvg-chno="138" tvg-id="1Plus1International.ua@HD" group-title="סלקום TV",1+1
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+#EXTINF:-1 tvg-chno="139" tvg-id="Domkino.ru@SD" group-title="סלקום TV",DOM KINO
+http://88.212.15.50/live/test_dom_kino/playlist.m3u8
+#EXTINF:-1 tvg-chno="140" tvg-id="Friday.ru@SD" group-title="סלקום TV",FRIDAY
+http://31.148.5.241/kanal_16/index.m3u8
+#EXTINF:-1 tvg-chno="141" tvg-id="Bober.ru@SD" group-title="סלקום TV",BOBER
+http://88.212.15.50/live/test_bober/playlist.m3u8
+#EXTINF:-1 tvg-chno="142" tvg-id="Poehali.ru@SD" group-title="סלקום TV",POEHALI
+http://88.212.15.50/live/test_poehali/playlist.m3u8
+#EXTINF:-1 tvg-chno="143" tvg-id="Vremya.ru@SD" group-title="סלקום TV",VREMYA
+http://88.212.15.50/live/test_vremya/playlist.m3u8
+#EXTINF:-1 tvg-chno="144" tvg-id="Telecafe.ru@SD" group-title="סלקום TV",TELECAFE
+https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="146" tvg-id="O.ru@International" group-title="סלקום TV",o!
+http://88.212.15.50/live/test_telekanal_o/playlist.m3u8
+#EXTINF:-1 tvg-chno="147" tvg-id="MuzykaPervogo.ru@SD" group-title="סלקום TV",Muzyka Pervogo TV
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="149" tvg-id="ShansonTV.ru@SD" group-title="סלקום TV",SHANSON.TV
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="151" tvg-id="Channel8International.ru@SD" group-title="סלקום TV",International 8
+http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
+#EXTINF:-1 tvg-chno="152" tvg-logo="https://i.imgur.com/tpqsFzm.png" group-title="סלקום TV",Rossiya-24
+https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 tvg-chno="555" tvg-id="5Sport4K.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport4k-il.png" group-title="סלקום TV",ספורט 5 4K
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
 
 # ערוצים מהרשת
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="עידן פלוס",i24NEWS עברית
@@ -1093,145 +1227,11 @@ http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2Fkc
 http://stm-hpc-ory-1a.cellcomtvcdn.tv/_cat/eyJhbGciOiJIUzI1NiIsImtpZCI6ImJyb2FkcGVhayIsInR5cCI6IkpXVCJ9.eyJjdGkiOiI1MDYyOTMwMGU5ODcyZDBhNmM5NGE0ODA4OWEwNzc2MyIsImV4cCI6MjAwMDAwMDAwMC4wfQ.KbL48wg_ftaTC2yNK_aO5uOTvbrUPemh21a6kD3fFCQ/ngx/56/playout07/index.m3u8?smil_profile=mobile
 
 # ערוצי סלקום לבדיקה
-#EXTINF:-1 tvg-chno="9" tvg-id="Channel9.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel9-il.png" group-title="ערוצי סלקום לבדיקה",ערוץ 9
-https://contact.gostreaming.tv/Con-11/index.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="EconomyChannel.il@SD" tvg-logo="https://cdn.prod.website-files.com/585add3ba0a6bcf72f81e349/68d0163d58d10bad390f1503_%D7%A2%D7%A8%D7%95%D7%A5%20%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%94.png" group-title="ערוצי סלקום לבדיקה",ערוץ הכלכלה
-https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8?dvr=21600000
-#EXTINF:-1 tvg-chno="11" tvg-id="Kan11.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/kan11-il.png" group-title="ערוצי סלקום לבדיקה",כאן 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/keshet12-il.png" group-title="ערוצי סלקום לבדיקה",קשת 12 (כתוביות) — ממתין לבדיקה ב־LG
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_subs/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-chno="13" tvg-id="Channel13.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/reshet13-il.png" group-title="ערוצי סלקום לבדיקה",רשת 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="Now14.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/channel14-il.png" group-title="ערוצי סלקום לבדיקה",ערוץ 14
-https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="i24NEWSHebrew.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצי סלקום לבדיקה",i24 עברית
-https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="Channel16.il@SD" tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png" group-title="ערוצי סלקום לבדיקה",ערוץ 16 החדש
-https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/master/playlist-logos/channel24.png" group-title="ערוצי סלקום לבדיקה",ערוץ 24 — ממתין לבדיקה ב־LG
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/music24/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/daily_drama_il.png" group-title="ערוצי סלקום לבדיקה",ערוץ הדרמות היומיות — ממתין לבדיקה ב־LG
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/daily_drama/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="Makan33.il@SD" tvg-logo="https://i.imgur.com/RVtQTed.png" group-title="ערוצי סלקום לבדיקה",מכאן 33
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="VivaTelenovelas.il@SD" group-title="ערוצי סלקום לבדיקה",ויוה טלנובלות
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-id="VivaIstanbul.il@SD" group-title="ערוצי סלקום לבדיקה",ויוה איסטנבול
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="RealityChannel.il@SD" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/reshet13_reality_il.png" group-title="ערוצי סלקום לבדיקה",ערוץ הריאליטי
-https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-id="One2.il@SD" group-title="ערוצי סלקום לבדיקה",One 2
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="50" tvg-id="One.il@SD" group-title="ערוצי סלקום לבדיקה",One
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="5Sport.il@SD" group-title="ערוצי סלקום לבדיקה",5SPORT
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-id="5Plus.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5plus-il.png" group-title="ערוצי סלקום לבדיקה",5PLUS
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-id="5Gold.il@SD" group-title="ערוצי סלקום לבדיקה",5GOLD
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="5Live.il@SD" group-title="ערוצי סלקום לבדיקה",5LIVE
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-id="5Max.il@SD" group-title="ערוצי סלקום לבדיקה",5MAX
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="Eurosport1.fr@Russia" group-title="ערוצי סלקום לבדיקה",יורוספורט 1 (אנגלית / רוסית)
-https://s7.iptv-24.net/1439/playlist.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="Eurosport2.fr@Russia" group-title="ערוצי סלקום לבדיקה",יורוספורט 2 (אנגלית / רוסית)
-https://s7.iptv-24.net/1452/playlist.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="OneEdge.il@SD" group-title="ערוצי סלקום לבדיקה",SPORT EDGE
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-id="OneDoco.il@SD" group-title="ערוצי סלקום לבדיקה",ONE DOCO
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="68" tvg-id="VacationChannel.il@SD" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/reshet13_nofesh_il.png" group-title="ערוצי סלקום לבדיקה",ערוץ הנופש
-https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
-#EXTINF:-1 tvg-chno="73" tvg-id="ArutzHaYeladim.il@SD" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/arutz_hayeladim.png" group-title="ערוצי סלקום לבדיקה",ערוץ הילדים
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="74" tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/logi-freetv.png" group-title="ערוצי סלקום לבדיקה",לוגי — ממתין לבדיקה ב־LG
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/logi/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-chno="75" tvg-id="Junior.il@SD" group-title="ערוצי סלקום לבדיקה",ג'וניור
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="76" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/stars_kids_il.png" group-title="ערוצי סלקום לבדיקה",ערוץ הכוכבים — ממתין לבדיקה ב־LG
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/starz/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/baby_tv_he.png" group-title="ערוצי סלקום לבדיקה",בייבי — ממתין לבדיקה ב־LG
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/baby_new/live.livx/playlist.m3u8?bitrate=4928000&audioId=1&videoId=0
-#EXTINF:-1 tvg-chno="78" tvg-logo="https://rge.co.il/wp-content/uploads/2026/03/yoyo-home-tile.png" group-title="ערוצי סלקום לבדיקה",יויו — ממתין לבדיקה ב־LG
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yoyo/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-chno="80" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/master/playlist-logos/kan_hinuchit.png" group-title="ערוצי סלקום לבדיקה",כאן חינוכית
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="81" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/fomo_tv.png" group-title="ערוצי סלקום לבדיקה",FOMO — ממתין לבדיקה ב־LG
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/fomo/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-chno="82" tvg-logo="https://raw.githubusercontent.com/doronvodka-del/-Israel-Live-TV-/main/assets/verified/yalduti-freetv.png" group-title="ערוצי סלקום לבדיקה",ילדותי — ממתין לבדיקה ב־LG
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-chno="83" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/yalduti_songs_tv.png" group-title="ערוצי סלקום לבדיקה",שירי ילדותי — ממתין לבדיקה ב־LG
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/yalduti_songs/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="88" tvg-id="MadWorld.gr@SD" group-title="ערוצי סלקום לבדיקה",מוזיקה יוונית (MAD World)
-https://ellastvmax.gotdns.com/freetv/madworldtv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-chno="89" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/music_il_tv.png" group-title="ערוצי סלקום לבדיקה",מוזיקה IL — ממתין לבדיקה ב־LG
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-chno="90" tvg-logo="https://raw.githubusercontent.com/dor2500/israel-tv-plus/main/assets/logos/karaoke_il.png" group-title="ערוצי סלקום לבדיקה",ערוץ הקריוקי — ממתין לבדיקה ב־LG
-https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/karaoke/live.livx/playlist.m3u8?fmp4&renditions
-#EXTINF:-1 tvg-chno="95" tvg-id="Foody.il@SD" group-title="ערוצי סלקום לבדיקה",FOODY
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-chno="97" tvg-id="Hidabroot.il@SD" tvg-logo="https://i.imgur.com/CTH4Hu2.png" group-title="ערוצי סלקום לבדיקה",ערוץ הידברות
-https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-id="DaystarTV.us@SD" group-title="ערוצי סלקום לבדיקה",DAYSTAR
-https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
-#EXTINF:-1 tvg-chno="99" group-title="ערוצי סלקום לבדיקה",ערוץ הכנסת
-https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-chno="101" tvg-id="NewsmaxTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="ערוצי סלקום לבדיקה",Newsmax TV
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-chno="102" tvg-id="GBNews.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png" group-title="ערוצי סלקום לבדיקה",GB News
-https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8
-#EXTINF:-1 tvg-chno="103" tvg-id="DW.de@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/960px-Deutsche_Welle_symbol_2012.svg.png" group-title="ערוצי סלקום לבדיקה",DW English HD
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-chno="104" tvg-id="i24NEWSEnglishWorld.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצי סלקום לבדיקה",i24 NEWS אנגלית
-https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-chno="105" tvg-id="i24NEWSFrench.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצי סלקום לבדיקה",i24 NEWS צרפתית
-https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-chno="106" tvg-id="i24NEWSArabic.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" group-title="ערוצי סלקום לבדיקה",i24 NEWS ערבית
-https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-chno="130" tvg-id="DW.de@Russian" group-title="ערוצי סלקום לבדיקה",DW Russian
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
-#EXTINF:-1 tvg-chno="131" tvg-id="NTVMir.ru@SD" group-title="ערוצי סלקום לבדיקה",NTV MIR — ממתין לבדיקה ב־LG
+#EXTINF:-1 tvg-chno="131" tvg-id="NTVMir.ru@SD" group-title="ערוצי סלקום לבדיקה",NTV MIR — לא עובד ב־LG
 http://tbs01-edge04.itdc.ge/ntvmir/index.m3u8
-#EXTINF:-1 tvg-chno="132" group-title="ערוצי סלקום לבדיקה",ORT (אירופה)
-https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 tvg-chno="133" tvg-id="RussiaRTR.ru@SD" group-title="ערוצי סלקום לבדיקה",RTR Planeta
-https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_1.m3u8
-#EXTINF:-1 tvg-chno="135" tvg-id="RTVi.ru@SD" group-title="ערוצי סלקום לבדיקה",RTVi — ממתין לבדיקה ב־LG
+#EXTINF:-1 tvg-chno="135" tvg-id="RTVi.ru@SD" group-title="ערוצי סלקום לבדיקה",RTVi — לא עובד ב־LG
 https://s70378.cdn.ngenix.net/rtvi/index.m3u8
-#EXTINF:-1 tvg-chno="136" tvg-id="TVCentrInternational.ru@SD" group-title="ערוצי סלקום לבדיקה",TVCI
-https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="137" tvg-id="DomkinoPremium.ru@SD" group-title="ערוצי סלקום לבדיקה",Dom Kino Premium
-http://88.212.15.50/live/test_dom_kino_premium/playlist.m3u8
-#EXTINF:-1 tvg-chno="138" tvg-id="1Plus1International.ua@HD" group-title="ערוצי סלקום לבדיקה",1+1
-https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
-#EXTINF:-1 tvg-chno="139" tvg-id="Domkino.ru@SD" group-title="ערוצי סלקום לבדיקה",DOM KINO
-http://88.212.15.50/live/test_dom_kino/playlist.m3u8
-#EXTINF:-1 tvg-chno="140" tvg-id="Friday.ru@SD" group-title="ערוצי סלקום לבדיקה",FRIDAY
-http://31.148.5.241/kanal_16/index.m3u8
-#EXTINF:-1 tvg-chno="141" tvg-id="Bober.ru@SD" group-title="ערוצי סלקום לבדיקה",BOBER
-http://88.212.15.50/live/test_bober/playlist.m3u8
-#EXTINF:-1 tvg-chno="142" tvg-id="Poehali.ru@SD" group-title="ערוצי סלקום לבדיקה",POEHALI
-http://88.212.15.50/live/test_poehali/playlist.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="Vremya.ru@SD" group-title="ערוצי סלקום לבדיקה",VREMYA
-http://88.212.15.50/live/test_vremya/playlist.m3u8
-#EXTINF:-1 tvg-chno="144" tvg-id="Telecafe.ru@SD" group-title="ערוצי סלקום לבדיקה",TELECAFE
-https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="145" tvg-id="CarouselInternational.ru" tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="ערוצי סלקום לבדיקה",Carousel International — ממתין לבדיקה ב־LG
+#EXTINF:-1 tvg-chno="145" tvg-id="CarouselInternational.ru" tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="ערוצי סלקום לבדיקה",Carousel International — לא עובד ב־LG
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-#EXTINF:-1 tvg-chno="146" tvg-id="O.ru@International" group-title="ערוצי סלקום לבדיקה",o!
-http://88.212.15.50/live/test_telekanal_o/playlist.m3u8
-#EXTINF:-1 tvg-chno="147" tvg-id="MuzykaPervogo.ru@SD" group-title="ערוצי סלקום לבדיקה",Muzyka Pervogo TV
-https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="149" tvg-id="ShansonTV.ru@SD" group-title="ערוצי סלקום לבדיקה",SHANSON.TV
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-chno="150" group-title="ערוצי סלקום לבדיקה",LUBIMOYE KINO — ממתין לבדיקה ב־LG
+#EXTINF:-1 tvg-chno="150" group-title="ערוצי סלקום לבדיקה",LUBIMOYE KINO — לא עובד ב־LG
 http://77.235.1.19:8000/play/a08h/index.m3u8
-#EXTINF:-1 tvg-chno="151" tvg-id="Channel8International.ru@SD" group-title="ערוצי סלקום לבדיקה",International 8
-http://live-11cinema.cdnvideo.net/11cinemanet/11cinemanet/playlist.m3u8
-#EXTINF:-1 tvg-chno="152" tvg-logo="https://i.imgur.com/tpqsFzm.png" group-title="ערוצי סלקום לבדיקה",Rossiya-24
-https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1 tvg-chno="555" tvg-id="5Sport4K.il@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport4k-il.png" group-title="ערוצי סלקום לבדיקה",ספורט 5 4K
-https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
